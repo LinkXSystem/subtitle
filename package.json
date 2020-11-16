@@ -1,0 +1,26 @@
+{
+  "name": "subtitle",
+  "version": "1.0.0",
+  "description": "How to learn english ？",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "converter": "node scripts/converter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkXSystem/subtitle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinkXSystem/subtitle/issues"
+  },
+  "homepage": "https://github.com/LinkXSystem/subtitle#readme",
+  "devDependencies": {
+    "glob": "^7.1.6",
+    "iconv-lite": "^0.6.2"
+  }
+}
