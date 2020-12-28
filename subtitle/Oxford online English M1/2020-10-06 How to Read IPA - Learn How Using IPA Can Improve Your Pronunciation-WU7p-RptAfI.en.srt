@@ -1,0 +1,597 @@
+1
+00:00:01,200 --> 00:00:08,960
+Hi, I’m Gina. Welcome to Oxford Online English!\h
+In this lesson, you can learn about using IPA.\h\h
+
+2
+00:00:10,000 --> 00:00:14,160
+You’ll see how using IPA can\h
+improve your English pronunciation\h\h
+
+3
+00:00:14,880 --> 00:00:18,800
+and help you to avoid pronunciation mistakes.
+
+4
+00:00:20,240 --> 00:00:27,360
+To see more free English lessons, visit our\h
+website: Oxford Online English dot com. You\h\h
+
+5
+00:00:27,360 --> 00:00:32,240
+can also book English classes with\h
+our fully-qualified teachers, who can\h\h
+
+6
+00:00:32,240 --> 00:00:39,360
+help you with your English speaking, writing,\h
+IELTS preparation, or whatever else you need.
+
+7
+00:00:40,480 --> 00:00:45,680
+So, this lesson is about\h
+IPA. What does IPA stand for?\h
+
+8
+00:00:47,680 --> 00:00:54,240
+IPA stands for ‘international phonetic alphabet’.\h
+Maybe you know something about IPA already.\h\h
+
+9
+00:00:55,200 --> 00:01:01,920
+For example…
+Why do you need IPA? Well,\h\h
+
+10
+00:01:01,920 --> 00:01:07,280
+you don’t *have* to learn it, but it can\h
+help you with English learning. Here’s why.
+
+11
+00:01:08,800 --> 00:01:14,880
+English spelling and pronunciation are horribly\h
+irregular. Take these words as examples:\h\h
+
+12
+00:01:16,000 --> 00:01:21,760
+thorough, Wednesday, consciousness, or champagne.\h
+
+13
+00:01:24,320 --> 00:01:30,640
+There’s not much relation between what you write\h
+and what you say. That makes things difficult.\h\h
+
+14
+00:01:31,360 --> 00:01:35,280
+To make it clear why this is,\h
+let’s do a different test.\h\h
+
+15
+00:01:36,000 --> 00:01:42,720
+We’re going to show you some colours. Say the\h
+colour of the square out loud as you see it.\h
+
+16
+00:01:48,080 --> 00:01:50,880
+Did you say ‘red’, ‘blue’, ‘yellow’?\h\h
+
+17
+00:01:52,000 --> 00:01:55,880
+Did the words in a different colour slow you down?\h
+
+18
+00:01:57,120 --> 00:02:03,120
+Maybe that was easy, maybe not. Either\h
+way, your brain has to work harder,\h\h
+
+19
+00:02:03,120 --> 00:02:09,280
+because in this test, you have to read a word,\h
+and then ignore it and say something different.
+
+20
+00:02:10,720 --> 00:02:16,400
+That’s what reading English is like. You have\h
+to see one thing, and say something else.\h\h
+
+21
+00:02:17,360 --> 00:02:23,360
+Often, your instinct is to read the letters you\h
+see phonetically. This is tiring to fight against,\h\h
+
+22
+00:02:23,360 --> 00:02:29,680
+and it leads to pronunciation mistakes,\h
+which can easily become bad habits over time.
+
+23
+00:02:31,200 --> 00:02:37,760
+Using IPA when you study vocabulary\h
+solves this problem for you. With IPA,\h\h
+
+24
+00:02:38,320 --> 00:02:44,560
+you don’t have to see one thing and say\h
+another. IPA is one hundred per cent phonetic.\h\h
+
+25
+00:02:44,560 --> 00:02:50,640
+That means the pronunciation and the\h
+‘spelling’ match exactly, every time.
+
+26
+00:02:52,400 --> 00:02:56,720
+If you’ve never used IPA before,\h
+it might look complicated.
+
+27
+00:02:58,160 --> 00:03:04,560
+It’s not. You can learn to use IPA from\h
+zero with one or two hours of practice.
+
+28
+00:03:05,600 --> 00:03:11,200
+In the rest of this lesson, you’ll get a basic\h
+introduction to reading and writing in IPA,\h\h
+
+29
+00:03:12,080 --> 00:03:17,840
+and you’ll see how you can use it to make your\h
+English learning easier and more effective.
+
+30
+00:03:18,480 --> 00:03:25,520
+One note before we continue: we’re using IPA\h
+based on southern British English pronunciation.\h\h
+
+31
+00:03:26,560 --> 00:03:32,480
+Other varieties of English, like US English,\h
+are written slightly differently in IPA.\h\h
+
+32
+00:03:33,440 --> 00:03:36,000
+However, the differences are not large.
+
+33
+00:03:37,360 --> 00:03:40,800
+So now, let’s look at how to read IPA.\h
+
+34
+00:03:44,640 --> 00:03:49,360
+First, some good news! Many IPA symbols are easy,\h\h
+
+35
+00:03:49,360 --> 00:03:53,520
+because they look like regular letters,\h
+and have the same pronunciation.
+
+36
+00:03:54,560 --> 00:04:02,480
+This is true for many consonant\h
+sounds, like /b/, /m/ or /l/.
+
+37
+00:04:02,480 --> 00:04:06,640
+Let’s try it. Even if you’ve\h
+never used IPA before,\h\h
+
+38
+00:04:06,640 --> 00:04:09,680
+I think you could guess what these words are.\h
+
+39
+00:04:12,320 --> 00:04:19,040
+Can you say the words? They\h
+are: street, traffic, darkness.\h
+
+40
+00:04:21,680 --> 00:04:31,040
+Remember that in IPA, the same sound is always\h
+written the same way. In English, a /k/ sound\h\h
+
+41
+00:04:31,040 --> 00:04:39,600
+can be written with the letters ‘k’ ‘c’, or maybe\h
+‘q’, but in IPA, you always write it with ‘k’.
+
+42
+00:04:41,440 --> 00:04:45,840
+Consonant sounds which are often\h
+written with two letters in English,\h\h
+
+43
+00:04:46,480 --> 00:04:56,000
+like /ð/, /ʃ/ or /dʒ/, have symbols in IPA\h
+which look different from regular letters.\h\h
+
+44
+00:04:56,000 --> 00:04:59,760
+However, there aren’t so\h
+many of them. Take a look.\h
+
+45
+00:05:01,920 --> 00:05:05,200
+Pause the video if you want\h
+more time to study these.\h
+
+46
+00:05:07,360 --> 00:05:13,280
+Ready? Let’s do some practice.\h
+Can you read these words in IPA?
+
+47
+00:05:15,600 --> 00:05:23,840
+Can you read the words? They are:\h
+fridge, think, teacher, shopping.
+
+48
+00:05:25,360 --> 00:05:29,440
+By the way, do you see the little mark\h
+which looks like an apostrophe in the\h\h
+
+49
+00:05:29,440 --> 00:05:38,240
+last two words? Do you know what it means?
+This mark shows you where the stress is\h\h
+
+50
+00:05:38,240 --> 00:05:43,040
+in the word. The syllable after\h
+this little mark is stressed.
+
+51
+00:05:44,800 --> 00:05:51,840
+Now, you can already read a lot\h
+in IPA. What do you need next?\h
+
+52
+00:05:53,280 --> 00:06:00,480
+Reading vowels in IPA is a little more\h
+work. Why? Because the Roman alphabet\h\h
+
+53
+00:06:00,480 --> 00:06:07,920
+has six vowel letters, but there are at least\h
+22 phonetic vowels in English pronunciation.
+
+54
+00:06:08,960 --> 00:06:16,000
+Why ‘at least?’ It’s because there isn’t\h
+one way to pronounce English, and so\h\h
+
+55
+00:06:16,000 --> 00:06:19,840
+there’s more than one way to write English in IPA.
+
+56
+00:06:21,440 --> 00:06:28,160
+Also, sometimes people use different\h
+systems for writing in IPA. For example,\h\h
+
+57
+00:06:28,960 --> 00:06:35,360
+one book might use the same symbol for two vowel\h
+sounds which are very similar to each other,\h\h
+
+58
+00:06:36,400 --> 00:06:39,360
+but another book might use different symbols.
+
+59
+00:06:40,640 --> 00:06:46,160
+Don’t worry about this. It’s not a problem.\h
+In this video, you’re seeing a common system\h\h
+
+60
+00:06:46,160 --> 00:06:51,760
+for writing English in IPA. You might see\h
+different patterns or symbols in other places.\h\h
+
+61
+00:06:52,400 --> 00:06:55,600
+It doesn’t mean that one way is right or wrong.
+
+62
+00:06:57,040 --> 00:07:02,240
+Anyway, let’s see how to read vowels in IPA.
+
+63
+00:07:02,240 --> 00:07:07,280
+You might know already that there are\h
+three kinds of vowel sounds in English:\h\h
+
+64
+00:07:08,320 --> 00:07:12,880
+short sounds, long sounds and diphthongs.
+
+65
+00:07:14,080 --> 00:07:23,600
+For example, the /ɪ/ sound in ‘bit’ is\h
+short. The /ɔː/ sound in ‘door’ is long.\h\h
+
+66
+00:07:24,880 --> 00:07:28,640
+The /əʊ/ sound in ‘home’ is a diphthong.
+
+67
+00:07:29,680 --> 00:07:35,040
+It’s easy to see the difference between\h
+these three types of sounds in IPA.\h\h
+
+68
+00:07:36,080 --> 00:07:39,120
+Short sounds appear as a single symbol.
+
+69
+00:07:42,560 --> 00:07:47,920
+Remember to pause whenever you need if you\h
+want to look at something in more detail.\h\h
+
+70
+00:07:50,000 --> 00:07:54,320
+Long sounds have a mark after\h
+them, which looks like a colon.\h
+
+71
+00:07:57,280 --> 00:08:04,160
+Diphthongs appear as two symbols.
+Going through the pronunciations of\h\h
+
+72
+00:08:04,160 --> 00:08:09,760
+all the vowel sounds would take a long time,\h
+plus we already made a whole video about it!\h\h
+
+73
+00:08:10,640 --> 00:08:14,880
+If you’re watching on YouTube, you can\h
+find a link in the video description.
+
+74
+00:08:16,000 --> 00:08:20,960
+You can also check the full version\h
+of this lesson on our website.\h\h
+
+75
+00:08:21,520 --> 00:08:25,840
+There are notes on IPA symbols\h
+and how to pronounce them.
+
+76
+00:08:26,480 --> 00:08:31,040
+Reading vowel sounds in IPA is more\h
+difficult, because there are more\h\h
+
+77
+00:08:31,040 --> 00:08:37,200
+possible spellings for each sound, so the\h
+connection between the IPA and the spelling\h\h
+
+78
+00:08:37,840 --> 00:08:42,880
+might be less obvious. But, with a little\h
+practice, you’ll be able to do it easily.
+
+79
+00:08:43,840 --> 00:08:45,120
+Let’s try a few words now.\h
+
+80
+00:08:47,360 --> 00:08:50,640
+Pause the video if you want\h
+more time to think about it.
+
+81
+00:08:53,440 --> 00:09:03,840
+Ready? The words are: woman,\h
+banana, brown, floor, information.
+
+82
+00:09:05,200 --> 00:09:09,200
+Let’s try five more. These\h
+are a little more challenging.\h
+
+83
+00:09:11,520 --> 00:09:17,120
+Can you work out what these words are?\h
+Again, pause the video if you need to.
+
+84
+00:09:19,760 --> 00:09:27,360
+The words are: airport,\h
+mango, anyone, early, zero.
+
+85
+00:09:28,640 --> 00:09:29,520
+Did you get them right?\h\h
+
+86
+00:09:30,320 --> 00:09:36,800
+If so, great! If not, don’t worry. You just\h
+need more time to get familiar with IPA.
+
+87
+00:09:38,160 --> 00:09:42,240
+How can you practise? Easy!\h
+There’s a great website:\h\h
+
+88
+00:09:42,240 --> 00:09:46,720
+tophonetics dot com. You can\h
+paste text into the site,\h\h
+
+89
+00:09:46,720 --> 00:09:54,000
+and it will change the text to IPA. You can\h
+even choose between UK and US pronunciation.
+
+90
+00:09:55,040 --> 00:10:03,200
+Take a text, paste it in to the website, and\h
+try reading the IPA. Spend a little time on\h\h
+
+91
+00:10:03,200 --> 00:10:10,720
+this kind of practice – five or ten minutes a\h
+day – and you’ll soon find it easy to read IPA.
+
+92
+00:10:12,080 --> 00:10:16,160
+What if you want to write in\h
+IPA on a computer or phone?\h\h
+
+93
+00:10:17,040 --> 00:10:25,840
+There are several options, but a good\h
+free one is ipa dot typeit dot org.
+
+94
+00:10:25,840 --> 00:10:32,800
+Now, you should have all the resources you\h
+need to practise reading and writing using IPA.\h\h
+
+95
+00:10:33,840 --> 00:10:37,360
+But, how should you use them? Let’s look.
+
+96
+00:10:40,880 --> 00:10:44,160
+In this section, we’ll give\h
+you some advice on using IPA\h\h
+
+97
+00:10:44,160 --> 00:10:48,000
+to help you learn English more\h
+efficiently and speak better.
+
+98
+00:10:49,120 --> 00:10:57,760
+Our first piece of advice might sound\h
+strange: consider *not* using IPA! Why?\h\h
+
+99
+00:10:58,800 --> 00:11:00,480
+Some people don’t benefit from it.
+
+100
+00:11:01,280 --> 00:11:08,080
+In our experience, using IPA is *really*\h
+helpful for some learners, but not for everyone.
+
+101
+00:11:09,360 --> 00:11:15,920
+For example, some learners get better results\h
+by listening and copying the pronunciation.\h\h
+
+102
+00:11:17,200 --> 00:11:21,840
+Some people are good at this, but\h
+there are others who can’t do it well.
+
+103
+00:11:23,040 --> 00:11:30,800
+This isn’t a problem. Different people learn\h
+in different ways. If you find IPA confusing\h\h
+
+104
+00:11:30,800 --> 00:11:37,360
+and you don’t feel that it’s helping you, don’t\h
+feel that you have to use it. It’s just a tool.\h\h
+
+105
+00:11:38,000 --> 00:11:42,560
+You can use it if it’s helpful, but\h
+there are other ways to learn, too.
+
+106
+00:11:44,000 --> 00:11:47,920
+If you think IPA will be\h
+helpful for you, then what?
+
+107
+00:11:49,200 --> 00:11:54,720
+First, whatever dictionary you use, find\h
+where the IPA transcriptions are given.\h\h
+
+108
+00:11:54,720 --> 00:12:00,160
+Some dictionaries hide the phonetic transcription\h
+behind a button, or at the bottom of the page.
+
+109
+00:12:01,680 --> 00:12:07,192
+Our two recommended online dictionaries are\h
+Lexico and Longman. Lexico puts the phonetic\h\h
+
+110
+00:12:07,192 --> 00:12:07,440
+transcription at the bottom. Longman has it\h
+next to the word, at the top of the page.
+
+111
+00:12:07,440 --> 00:12:14,560
+Second, get in the habit of writing down the\h
+IPA next to the word when you write down new\h\h
+
+112
+00:12:14,560 --> 00:12:24,320
+vocabulary. Don’t forget to mark the stress!\h
+Word stress is essential for clear pronunciation.
+
+113
+00:12:24,320 --> 00:12:31,120
+When you’re reviewing vocabulary, you should read\h
+the words out loud to practise the pronunciation.\h\h
+
+114
+00:12:32,240 --> 00:12:39,600
+When you do this, look *only* at the IPA. Don’t\h
+think about the spelling of the written word.\h\h
+
+115
+00:12:40,640 --> 00:12:44,480
+Look at the IPA and say the word out loud.
+
+116
+00:12:46,240 --> 00:12:50,480
+This way, you can be sure that\h
+you’re pronouncing words correctly\h\h
+
+117
+00:12:51,040 --> 00:12:59,120
+from the first time you study them. That lets you\h
+avoid training bad habits and making mistakes.
+
+118
+00:13:00,400 --> 00:13:06,240
+Learning IPA for the first time can take a\h
+couple of hours, but it’s worth the time.\h\h
+
+119
+00:13:06,240 --> 00:13:10,240
+Get into these habits, and your\h
+pronunciation will be clearer\h\h
+
+120
+00:13:10,240 --> 00:13:14,320
+and more accurate, and it doesn’t\h
+need much effort from you.
+
+121
+00:13:15,760 --> 00:13:20,800
+Do you have any other tips for using IPA\h
+to improve your English pronunciation?\h\h
+
+122
+00:13:21,680 --> 00:13:23,920
+Please let us know in the comments!
+
+123
+00:13:25,040 --> 00:13:25,920
+Thanks for watching!
+
+124
+00:13:26,480 --> 00:13:33,840
+See you next time!
+

@@ -1,0 +1,787 @@
+1
+00:00:01,870 --> 00:00:03,600
+Hello, I’m Jack.
+
+2
+00:00:03,600 --> 00:00:06,870
+Welcome to Oxford Online English!
+
+3
+00:00:06,870 --> 00:00:13,179
+In this lesson, you can learn about the present
+continuous verb tense in English.
+
+4
+00:00:13,179 --> 00:00:18,510
+We'll talk about all the possible meanings
+of the present continuous; whether you’re
+
+5
+00:00:18,510 --> 00:00:24,320
+a beginner or an advanced learner, you’re
+sure to find something new.
+
+6
+00:00:24,320 --> 00:00:27,750
+So, let's get into it!
+
+7
+00:00:27,750 --> 00:00:33,489
+First, how can you form the present continuous?
+
+8
+00:00:33,489 --> 00:00:37,370
+To form the present continuous, you use:
+
+9
+00:00:37,370 --> 00:00:42,649
+'be + verb + -ing'
+
+10
+00:00:42,649 --> 00:00:44,050
+For example:
+
+11
+00:00:44,050 --> 00:00:47,469
+He’s washing his car.
+
+12
+00:00:47,469 --> 00:00:52,640
+They’re watching a film.
+
+13
+00:00:52,640 --> 00:00:55,109
+What about negatives and questions?
+
+14
+00:00:55,109 --> 00:01:01,750
+To make negatives, add 'not' after 'be'.
+
+15
+00:01:01,750 --> 00:01:03,859
+She isn’t doing anything.
+
+16
+00:01:03,859 --> 00:01:08,240
+I’m not working on that right now.
+
+17
+00:01:08,240 --> 00:01:15,870
+Now, to make questions, move the verb 'be'
+before the subject.
+
+18
+00:01:15,870 --> 00:01:17,280
+Is he doing anything?
+
+19
+00:01:17,280 --> 00:01:21,510
+Are you talking to me?
+
+20
+00:01:21,510 --> 00:01:27,740
+The same rule works if you ask a question
+with a question word like 'what', 'why', or
+
+21
+00:01:27,740 --> 00:01:29,540
+'how'.
+
+22
+00:01:29,540 --> 00:01:34,360
+Move the verb 'be' before the subject.
+
+23
+00:01:34,360 --> 00:01:37,500
+What are you watching?
+
+24
+00:01:37,500 --> 00:01:39,530
+Where are they going?
+
+25
+00:01:39,530 --> 00:01:46,480
+Now, you can see that to make questions in
+the present continuous, you don’t add anything.
+
+26
+00:01:46,480 --> 00:01:49,790
+So don’t add words like 'do' or 'did'.
+
+27
+00:01:49,790 --> 00:01:52,840
+Just change the order of the words!
+
+28
+00:01:52,840 --> 00:01:58,050
+So now you know how to form sentences and
+questions with the present continuous.
+
+29
+00:01:58,050 --> 00:02:01,410
+But how do you use it?
+
+30
+00:02:01,410 --> 00:02:06,570
+One use is for something happening right now.
+
+31
+00:02:06,570 --> 00:02:10,550
+This is the most basic use of the present
+continuous.
+
+32
+00:02:10,550 --> 00:02:14,230
+He’s washing his car.
+
+33
+00:02:14,230 --> 00:02:20,950
+They’re watching a film.
+
+34
+00:02:20,950 --> 00:02:27,260
+These sentences are talking about something
+which is happening at this moment.
+
+35
+00:02:27,260 --> 00:02:35,329
+Now, we can also use the present continuous
+to talk about something which has started
+
+36
+00:02:35,329 --> 00:02:37,930
+but not finished.
+
+37
+00:02:37,930 --> 00:02:40,580
+This sounds similar to the last point.
+
+38
+00:02:40,580 --> 00:02:41,580
+If we say:
+
+39
+00:02:41,580 --> 00:02:43,800
+He’s washing his car.
+
+40
+00:02:43,800 --> 00:02:49,780
+This means he’s started washing his car,
+but he hasn’t finished yet.
+
+41
+00:02:49,780 --> 00:02:51,830
+So what’s the difference?
+
+42
+00:02:51,830 --> 00:02:55,269
+Why is this separate to the last point?
+
+43
+00:02:55,269 --> 00:03:01,760
+It’s different because we can also use the
+present continuous in this way to talk about
+
+44
+00:03:01,760 --> 00:03:05,889
+things which are not happening right now.
+
+45
+00:03:05,889 --> 00:03:06,889
+For example:
+
+46
+00:03:06,889 --> 00:03:10,340
+I’m reading a good book at the moment.
+
+47
+00:03:10,340 --> 00:03:16,159
+She’s looking for a new apartment.
+
+48
+00:03:16,159 --> 00:03:20,730
+If I say, "I’m reading a good book at the
+moment," I don’t mean that I’m reading
+
+49
+00:03:20,730 --> 00:03:23,319
+right now, at this minute.
+
+50
+00:03:23,319 --> 00:03:28,700
+I mean that I’ve started a book and I haven’t
+finished it yet.
+
+51
+00:03:28,700 --> 00:03:33,070
+In the same way, "She’s looking for a new
+apartment" doesn’t mean that she’s out
+
+52
+00:03:33,070 --> 00:03:35,260
+looking for an apartment this minute.
+
+53
+00:03:35,260 --> 00:03:43,049
+It means she’s started looking for an apartment,
+but she hasn’t found one yet.
+
+54
+00:03:43,049 --> 00:03:49,400
+In these examples, we use the present continuous
+to talk about things happening around this
+
+55
+00:03:49,400 --> 00:03:55,409
+moment, not necessarily at this specific moment.
+
+56
+00:03:55,409 --> 00:04:00,659
+Next, describing a picture.
+
+57
+00:04:00,659 --> 00:04:06,169
+If you have a picture or a photo, and you
+want to describe it to someone, you use the
+
+58
+00:04:06,169 --> 00:04:07,799
+present continuous.
+
+59
+00:04:07,799 --> 00:04:13,639
+A picture or a photo is like a moment in time.
+
+60
+00:04:13,639 --> 00:04:17,450
+That’s why we use the continuous form to
+talk about it.
+
+61
+00:04:17,450 --> 00:04:23,490
+For example, here, we can use the present
+continuous to talk about what we see:
+
+62
+00:04:23,490 --> 00:04:28,460
+They are sitting on a beam, high above the
+city.
+
+63
+00:04:28,460 --> 00:04:32,630
+The two men on the left are smoking.
+
+64
+00:04:32,630 --> 00:04:36,930
+Some of them are eating sandwiches.
+
+65
+00:04:36,930 --> 00:04:40,400
+It doesn't matter that the picture was taken
+a long time ago.
+
+66
+00:04:40,400 --> 00:04:44,840
+We can still use the present continuous to
+describe it.
+
+67
+00:04:44,840 --> 00:04:50,889
+Next, talking about something temporary or
+different from usual.
+
+68
+00:04:50,889 --> 00:04:57,710
+So, another use of the present continuous
+is to show that something is temporary.
+
+69
+00:04:57,710 --> 00:05:01,500
+Look at these two sentences:
+
+70
+00:05:01,500 --> 00:05:03,720
+He lives with his parents.
+
+71
+00:05:03,720 --> 00:05:07,360
+He’s living with his parents.
+
+72
+00:05:07,360 --> 00:05:10,229
+What’s the difference?
+
+73
+00:05:10,229 --> 00:05:14,139
+Why would you use the present continuous here?
+
+74
+00:05:14,139 --> 00:05:21,310
+In these sentences, the present continuous
+shows that the situation is temporary.
+
+75
+00:05:21,310 --> 00:05:27,430
+If you say "He lives with his parents," you
+mean that this is permanent.
+
+76
+00:05:27,430 --> 00:05:34,830
+If you say, "He’s living with his parents,"
+you mean that this is a temporary situation.
+
+77
+00:05:34,830 --> 00:05:39,199
+Maybe he’s living with his parents while
+he saves enough money to get his own place.
+
+78
+00:05:39,199 --> 00:05:45,729
+Let’s look at one more example here:
+
+79
+00:05:45,729 --> 00:05:48,490
+She works in the marketing department.
+
+80
+00:05:48,490 --> 00:05:53,470
+She’s working in the marketing department.
+
+81
+00:05:53,470 --> 00:05:55,800
+Is the difference clear now?
+
+82
+00:05:55,800 --> 00:06:04,670
+If you say, "She works in the marketing department,"
+you mean that this is her permanent job.
+
+83
+00:06:04,670 --> 00:06:10,960
+If you say, "She’s working in the marketing
+department," you mean that she normally works
+
+84
+00:06:10,960 --> 00:06:12,280
+somewhere else.
+
+85
+00:06:12,280 --> 00:06:17,789
+She’s just working in the marketing department
+temporarily.
+
+86
+00:06:17,789 --> 00:06:23,120
+Next, talking about a changing situation.
+
+87
+00:06:23,120 --> 00:06:28,289
+I understand there are a lot of ways to use
+the present continuous!
+
+88
+00:06:28,289 --> 00:06:31,830
+Remember that you don’t have to learn all
+of this at once.
+
+89
+00:06:31,830 --> 00:06:36,759
+This video will still be here; take a break
+and review what we’ve done so far if you
+
+90
+00:06:36,759 --> 00:06:38,050
+need to.
+
+91
+00:06:38,050 --> 00:06:44,180
+Now, you can also use the present continuous
+to talk about a situation which is changing
+
+92
+00:06:44,180 --> 00:06:46,289
+over time.
+
+93
+00:06:46,289 --> 00:06:48,230
+For example:
+
+94
+00:06:48,230 --> 00:06:54,599
+The population of our city is growing by around
+5% a year.
+
+95
+00:06:54,599 --> 00:06:58,750
+My English is slowly getting better.
+
+96
+00:06:58,750 --> 00:07:04,360
+The river used to be really polluted, but
+it’s getting cleaner.
+
+97
+00:07:04,360 --> 00:07:10,229
+In all of these examples, we’re talking
+about a change which is happening over time,
+
+98
+00:07:10,229 --> 00:07:14,300
+and which will probably continue into the
+future.
+
+99
+00:07:14,300 --> 00:07:15,650
+If I say:
+
+100
+00:07:15,650 --> 00:07:20,610
+The population of our city is growing by around
+5% a year.
+
+101
+00:07:20,610 --> 00:07:26,650
+This means that I expect the population to
+continue growing, at least for the next few
+
+102
+00:07:26,650 --> 00:07:27,690
+years.
+
+103
+00:07:27,690 --> 00:07:35,400
+OK, so you’ve seen how the present continuous
+can be used to talk about: things happening
+
+104
+00:07:35,400 --> 00:07:45,659
+now; things which have started but not finished;
+describing pictures; talking about temporary
+
+105
+00:07:45,659 --> 00:07:52,210
+situations; talking about changing situations.
+
+106
+00:07:52,210 --> 00:07:55,539
+All of the meanings we’ve seen so far are
+similar.
+
+107
+00:07:55,539 --> 00:08:00,630
+They are all about something happening around
+a moment in time.
+
+108
+00:08:00,630 --> 00:08:06,330
+However, there are also some other ways to
+use the present continuous which are completely
+
+109
+00:08:06,330 --> 00:08:07,330
+different.
+
+110
+00:08:07,330 --> 00:08:11,560
+Let’s look at a very important one:
+
+111
+00:08:11,560 --> 00:08:16,370
+Talking about arrangements in the future.
+
+112
+00:08:16,370 --> 00:08:23,080
+Many English learners use 'will' to talk about
+the future, but 'will' can’t be used for
+
+113
+00:08:23,080 --> 00:08:24,199
+everything.
+
+114
+00:08:24,199 --> 00:08:29,740
+Actually, the present continuous is one of
+the most common ways to talk about the future
+
+115
+00:08:29,740 --> 00:08:32,159
+in English.
+
+116
+00:08:32,159 --> 00:08:39,260
+If you have a solid plan or arrangement, meaning
+you know where and/or when something will
+
+117
+00:08:39,260 --> 00:08:43,430
+happen, you can use the present continuous
+to talk about it.
+
+118
+00:08:43,430 --> 00:08:46,350
+Here are some examples:
+
+119
+00:08:46,350 --> 00:08:49,610
+We’re meeting outside the cinema at 8.00.
+
+120
+00:08:49,610 --> 00:08:55,279
+They’re coming to ours for dinner on Saturday.
+
+121
+00:08:55,279 --> 00:08:58,320
+What are you doing next weekend?
+
+122
+00:08:58,320 --> 00:09:06,640
+It’s very common to use the present continuous
+when you talk about plans for the near future,
+
+123
+00:09:06,640 --> 00:09:12,360
+social plans, and so on.
+
+124
+00:09:12,360 --> 00:09:15,770
+Talking about something strange or annoying.
+
+125
+00:09:15,770 --> 00:09:23,090
+Now we’re getting to more specialised, less
+common uses of the present continuous.
+
+126
+00:09:23,090 --> 00:09:30,089
+Using the present continuous together with
+adverbs like 'always', 'constantly' or 'continually'
+
+127
+00:09:30,089 --> 00:09:34,750
+can show that you find a repeated action annoying
+or strange.
+
+128
+00:09:34,750 --> 00:09:37,130
+For example:
+
+129
+00:09:37,130 --> 00:09:41,480
+He’s always forgetting to bring the things
+he needs.
+
+130
+00:09:41,480 --> 00:09:47,160
+They’re constantly gossiping about me behind
+my back.
+
+131
+00:09:47,160 --> 00:09:51,290
+My boss is continually interrupting me while
+I’m trying to work.
+
+132
+00:09:51,290 --> 00:09:53,540
+So, if you say:
+
+133
+00:09:53,540 --> 00:09:57,480
+He’s always forgetting to bring the things
+he needs.
+
+134
+00:09:57,480 --> 00:10:05,779
+You means that he often forgets to bring things,
+and you find this strange or annoying.
+
+135
+00:10:05,779 --> 00:10:11,800
+This use of the present continuous is unusual,
+because we’re using the present continuous
+
+136
+00:10:11,800 --> 00:10:17,860
+to talk about a repeated action or a habit,
+and we don’t normally do that.
+
+137
+00:10:17,860 --> 00:10:23,050
+So you must use an adverb in these sentences.
+
+138
+00:10:23,050 --> 00:10:24,070
+You can’t say:
+
+139
+00:10:24,070 --> 00:10:27,420
+He’s forgetting to bring the things he needs.
+
+140
+00:10:27,420 --> 00:10:32,930
+To give it the meaning of something which
+you find strange/annoying, you need an adverb.
+
+141
+00:10:32,930 --> 00:10:38,680
+So, 'always' is the most common adverb to
+use in these sentences.
+
+142
+00:10:38,680 --> 00:10:41,699
+OK, we’re nearly there!
+
+143
+00:10:41,699 --> 00:10:43,430
+One more to go:
+
+144
+00:10:43,430 --> 00:10:50,110
+The last use is talking about feelings which
+you are starting to be aware of.
+
+145
+00:10:50,110 --> 00:10:55,250
+Now again, this is a very specialised, less
+common way to use the present continuous.
+
+146
+00:10:55,250 --> 00:10:59,010
+What does it mean?
+
+147
+00:10:59,010 --> 00:11:02,730
+Think about these two sentences:
+
+148
+00:11:02,730 --> 00:11:05,820
+I realise I made the wrong decision.
+
+149
+00:11:05,820 --> 00:11:09,079
+I’m realising I made the wrong decision.
+
+150
+00:11:09,079 --> 00:11:15,750
+Now, they’re both possible, but what’s
+the difference?
+
+151
+00:11:15,750 --> 00:11:17,149
+In the first sentence:
+
+152
+00:11:17,149 --> 00:11:20,199
+I realise I made the wrong decision.
+
+153
+00:11:20,199 --> 00:11:24,339
+Your realisation is not a new feeling.
+
+154
+00:11:24,339 --> 00:11:26,040
+However, when you say:
+
+155
+00:11:26,040 --> 00:11:29,690
+I’m realising I made the wrong decision.
+
+156
+00:11:29,690 --> 00:11:33,290
+You mean that you are just starting to think
+about this.
+
+157
+00:11:33,290 --> 00:11:38,600
+The feeling -- that you made the wrong decision
+-- is still growing on you.
+
+158
+00:11:38,600 --> 00:11:42,690
+Let’s do one more example:
+
+159
+00:11:42,690 --> 00:11:46,339
+I find it difficult to work with him.
+
+160
+00:11:46,339 --> 00:11:50,730
+I’m finding it difficult to work with him.
+
+161
+00:11:50,730 --> 00:11:52,570
+Can you see the difference?
+
+162
+00:11:52,570 --> 00:11:55,120
+Again, if you say:
+
+163
+00:11:55,120 --> 00:11:58,470
+I find it difficult to work with him.
+
+164
+00:11:58,470 --> 00:12:01,490
+This isn't something new for you.
+
+165
+00:12:01,490 --> 00:12:06,490
+You generally find him difficult, and you
+dislike working with him.
+
+166
+00:12:06,490 --> 00:12:07,490
+If you say:
+
+167
+00:12:07,490 --> 00:12:10,850
+I’m finding it difficult to work with him.
+
+168
+00:12:10,850 --> 00:12:17,640
+This means that you are just starting to realise
+how difficult he is, and how you dislike working
+
+169
+00:12:17,640 --> 00:12:19,740
+with him.
+
+170
+00:12:19,740 --> 00:12:23,770
+These feelings are new to you, I guess.
+
+171
+00:12:23,770 --> 00:12:26,589
+OK, that’s the end of the lesson.
+
+172
+00:12:26,589 --> 00:12:31,959
+There’s a lot of information in this video,
+so you might find it useful to review some
+
+173
+00:12:31,959 --> 00:12:34,380
+parts of this video again.
+
+174
+00:12:34,380 --> 00:12:38,699
+If you want to practice this some more, check
+out the full version of the lesson on our
+
+175
+00:12:38,699 --> 00:12:39,699
+website.
+
+176
+00:12:39,699 --> 00:12:45,090
+The full lesson contains notes, the full script,
+and a quiz to help you practise this topic.
+
+177
+00:12:45,090 --> 00:12:46,700
+That’s all for now.
+
+178
+00:12:46,700 --> 00:12:48,949
+Thanks very much for watching, and see you
+next time!
+

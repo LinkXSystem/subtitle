@@ -1,0 +1,1018 @@
+1
+00:00:01,150 --> 00:00:03,360
+Hi, I’m Maria.
+
+2
+00:00:03,360 --> 00:00:05,590
+Welcome to Oxford Online English!
+
+3
+00:00:05,590 --> 00:00:11,990
+In this lesson, you can learn about English
+spelling rules, and see some of the most common
+
+4
+00:00:11,990 --> 00:00:15,190
+spelling mistakes that English learners make.
+
+5
+00:00:15,190 --> 00:00:18,289
+English spelling is famously illogical.
+
+6
+00:00:18,289 --> 00:00:21,710
+Even native speakers commonly misspell words.
+
+7
+00:00:21,710 --> 00:00:25,320
+Interestingly, ‘misspell’ is a word which
+is often misspelled!
+
+8
+00:00:25,320 --> 00:00:32,150
+In this lesson, you’ll see four of the most
+useful rules that can help you to improve
+
+9
+00:00:32,150 --> 00:00:35,410
+your English spelling and avoid spelling mistakes.
+
+10
+00:00:35,410 --> 00:00:41,490
+You’ll also get to test your spelling skills
+on several of the most common spelling mistakes
+
+11
+00:00:41,490 --> 00:00:42,550
+in English.
+
+12
+00:00:42,550 --> 00:00:48,210
+Let’s start with our first rule.
+
+13
+00:00:48,210 --> 00:00:49,870
+Look at five words.
+
+14
+00:00:49,870 --> 00:00:55,740
+Which are spelled correctly, and which 
+have mistakes?
+
+15
+00:00:55,740 --> 00:00:57,700
+There are two mistakes.
+
+16
+00:00:57,700 --> 00:01:01,140
+Beginner should have two n's
+
+17
+00:01:01,140 --> 00:01:05,480
+and offering should have one r.
+
+18
+00:01:05,480 --> 00:01:12,600
+Here’s a question: why do you need to double
+the n in planning or beginning, but not the r
+
+19
+00:01:12,600 --> 00:01:14,360
+in offering?
+
+20
+00:01:14,360 --> 00:01:20,780
+Why does sitting have a double t, but deciding
+just has one d?
+
+21
+00:01:20,780 --> 00:01:26,630
+Spelling mistakes with double consonants are
+common, but you can avoid them if you remember
+
+22
+00:01:26,630 --> 00:01:27,630
+the rule.
+
+23
+00:01:27,630 --> 00:01:28,670
+Here it is:
+
+24
+00:01:28,670 --> 00:01:36,250
+If a word ends with a short vowel sound plus
+a consonant, and the stress is on the last
+
+25
+00:01:36,250 --> 00:01:45,170
+syllable, then the final consonant is doubled
+if you add an ending which starts with a vowel.
+
+26
+00:01:45,170 --> 00:01:49,150
+That sounds complicated, although it’s simpler
+than it looks.
+
+27
+00:01:49,150 --> 00:01:52,200
+Let’s do some examples to make it clearer.
+
+28
+00:01:52,200 --> 00:01:58,090
+First of all, this rule applies to all one-syllable
+words which end with a short vowel plus a
+
+29
+00:01:58,090 --> 00:01:59,680
+consonant.
+
+30
+00:01:59,680 --> 00:02:01,440
+For example,
+
+31
+00:02:01,440 --> 00:02:07,760
+hot -> hotter
+jar -> jarring
+
+32
+00:02:07,760 --> 00:02:14,460
+sad -> saddest
+cut -> cutting
+
+33
+00:02:14,460 --> 00:02:18,600
+win -> winner
+
+34
+00:02:18,609 --> 00:02:23,050
+Because of the way English spelling connects
+to English pronunciation, you can think of
+
+35
+00:02:23,050 --> 00:02:29,630
+it like this: if a word has one syllable,
+and it ends with one vowel and one consonant,
+
+36
+00:02:29,630 --> 00:02:32,180
+then you need to double the final consonant.
+
+37
+00:02:32,180 --> 00:02:36,389
+But, this depends on sounds, not spelling.
+
+38
+00:02:36,389 --> 00:02:41,800
+So, if the final consonant is w or y, don’t
+double it:
+
+39
+00:02:41,800 --> 00:02:48,240
+draw -> drawing
+grey -> greyer
+
+40
+00:02:48,240 --> 00:02:51,560
+Can you work out why this is?
+
+41
+00:02:51,560 --> 00:02:56,540
+It’s because the words are written with
+a consonant, but the sound isn’t pronounced
+
+42
+00:02:56,549 --> 00:02:59,260
+as a consonant.
+
+43
+00:02:59,260 --> 00:03:06,600
+If a word ends with two consonants, or with
+a consonant plus vowel, then don’t double
+
+44
+00:03:06,600 --> 00:03:08,680
+any consonants:
+
+45
+00:03:08,680 --> 00:03:15,120
+think -> thinking
+write -> writer
+
+46
+00:03:15,120 --> 00:03:20,620
+If a word has two or more syllables, then
+you also need to think about the stress.
+
+47
+00:03:20,620 --> 00:03:27,549
+If the stress is on the last syllable, and
+the word ends with a short vowel plus a consonant,
+
+48
+00:03:27,549 --> 00:03:33,120
+then you need to double the final consonant;
+for example:
+
+49
+00:03:33,120 --> 00:03:40,440
+occur -> occurring
+commit -> committee
+
+50
+00:03:40,440 --> 00:03:44,660
+forget -> forgetting
+
+51
+00:03:44,660 --> 00:03:50,920
+However, if the stress is not on the last
+syllable, you don’t double the final consonant;
+
+52
+00:03:50,920 --> 00:03:52,740
+for example:
+
+53
+00:03:52,740 --> 00:03:59,000
+happen -> happening
+discover -> discoverer
+
+54
+00:03:59,000 --> 00:04:03,040
+water -> watery
+
+55
+00:04:03,040 --> 00:04:08,879
+Remember that for all these words, the rule
+only applies if the word ends in a short vowel
+
+56
+00:04:08,879 --> 00:04:10,900
+plus one consonant.
+
+57
+00:04:10,900 --> 00:04:16,269
+This is true if you’re talking about words
+with one, two, three or however many syllables.
+
+58
+00:04:16,269 --> 00:04:18,280
+Let’s do a quick test.
+
+59
+00:04:18,280 --> 00:04:20,620
+You’re going to hear a sentence.
+
+60
+00:04:20,620 --> 00:04:23,050
+Pause the video and write down the sentence.
+
+61
+00:04:23,050 --> 00:04:24,940
+You’ll hear it twice.
+
+62
+00:04:24,940 --> 00:04:27,880
+Ready?
+
+63
+00:04:27,880 --> 00:04:32,470
+The cooking committee happened to notice that
+his soup was tastier than last year, but also
+
+64
+00:04:32,470 --> 00:04:35,699
+more watery.
+
+65
+00:04:35,699 --> 00:04:42,990
+Listen once more: the cooking committee happened
+to notice that his soup was tastier than last
+
+66
+00:04:42,990 --> 00:04:48,639
+year, but also more watery.
+
+67
+00:04:48,640 --> 00:04:50,520
+Could you write down the sentence?
+
+68
+00:04:50,520 --> 00:04:55,220
+Let’s check:
+Did you get everything right?
+
+69
+00:04:55,229 --> 00:04:57,060
+No spelling mistakes?
+
+70
+00:04:57,060 --> 00:04:58,680
+If so, that’s great!
+
+71
+00:04:58,680 --> 00:05:03,660
+Let’s move on to our next rule.
+
+72
+00:05:03,660 --> 00:05:07,140
+You're going to see four spelling mistakes.
+
+73
+00:05:07,140 --> 00:05:09,000
+Can you correct them?
+
+74
+00:05:09,000 --> 00:05:15,920
+The mistakes are all connected with i-e versus
+e-i
+
+75
+00:05:15,920 --> 00:05:22,360
+There’s a well-known rule here: “i before
+e except after c.”
+
+76
+00:05:22,360 --> 00:05:27,120
+That means that in most cases, i goes before
+e:
+
+77
+00:05:27,120 --> 00:05:30,060
+piece
+field
+
+78
+00:05:30,069 --> 00:05:32,740
+achieve
+
+79
+00:05:32,740 --> 00:05:36,520
+After the letter c, put e before i:
+
+80
+00:05:36,520 --> 00:05:39,240
+receipt
+ceiling
+
+81
+00:05:39,240 --> 00:05:40,680
+conceive
+
+82
+00:05:40,680 --> 00:05:44,159
+But, there are exceptions.
+
+83
+00:05:44,159 --> 00:05:52,220
+One of the exceptions has its own rule: e
+goes before i to make an /eɪ/ sound.
+
+84
+00:05:52,220 --> 00:05:53,920
+For example:
+
+85
+00:05:53,920 --> 00:05:57,320
+neighbour
+weigh
+
+86
+00:05:57,320 --> 00:05:59,909
+eight
+
+87
+00:05:59,909 --> 00:06:05,440
+Other exceptions are true exceptions; they
+don’t follow any rule and you need to remember
+
+88
+00:06:05,440 --> 00:06:06,440
+them.
+
+89
+00:06:06,440 --> 00:06:11,340
+Here are some of the most common exceptions
+to this rule:
+
+90
+00:06:11,340 --> 00:06:14,960
+height
+leisure
+
+91
+00:06:14,960 --> 00:06:19,200
+weird
+caffeine
+
+92
+00:06:19,200 --> 00:06:22,580
+species
+ancient
+
+93
+00:06:22,580 --> 00:06:24,039
+Let’s test your skills!
+
+94
+00:06:24,039 --> 00:06:26,700
+You’re going to hear another sentence.
+
+95
+00:06:26,700 --> 00:06:29,580
+Again, try to write the sentence down.
+
+96
+00:06:29,580 --> 00:06:31,660
+You’ll hear it twice.
+
+97
+00:06:31,660 --> 00:06:33,050
+Ready?
+
+98
+00:06:33,050 --> 00:06:38,979
+Her weird neighbour weighed out eight pieces
+of ancient caffeine.
+
+99
+00:06:38,980 --> 00:06:46,460
+Her weird neighbour weighed out eight pieces
+of ancient caffeine.
+
+100
+00:06:46,460 --> 00:06:48,870
+Here’s the answer:
+
+101
+00:06:48,870 --> 00:06:54,550
+Her weird neighbour weighed out eight pieces
+of ancient caffeine.
+
+102
+00:06:54,550 --> 00:06:56,499
+Did you get everything right?
+
+103
+00:06:56,499 --> 00:06:58,210
+No spelling mistakes?
+
+104
+00:06:58,210 --> 00:07:00,240
+If so, well done!
+
+105
+00:07:00,240 --> 00:07:05,039
+If you made some mistakes, you can easily
+go back and review this section, and then
+
+106
+00:07:05,039 --> 00:07:06,560
+try again.
+
+107
+00:07:06,560 --> 00:07:12,280
+Let’s look at our next rule
+
+108
+00:07:12,280 --> 00:07:14,700
+Here are five nouns.
+
+109
+00:07:14,700 --> 00:07:18,740
+What are the plurals, and how would you spell
+them?
+
+110
+00:07:18,740 --> 00:07:20,440
+Do you know?
+
+111
+00:07:20,440 --> 00:07:23,060
+Here are the answers.
+
+112
+00:07:23,069 --> 00:07:27,259
+You can see that sometimes, you need to write
+plurals with es.
+
+113
+00:07:27,259 --> 00:07:35,930
+But, when do you add -es to make a plural,
+instead of just -s?
+
+114
+00:07:35,930 --> 00:07:38,919
+It depends on the last letter of the word.
+
+115
+00:07:38,919 --> 00:07:49,020
+If a word ends in -s, -ss, -z, -ch, -sh, or
+-x, then you make the plural by adding -es.
+
+116
+00:07:49,020 --> 00:07:50,740
+For example:
+
+117
+00:07:50,740 --> 00:07:53,219
+glasses
+buses
+
+118
+00:07:53,219 --> 00:07:56,710
+quizzes
+beaches
+
+119
+00:07:56,710 --> 00:08:01,200
+dishes
+boxes
+
+120
+00:08:01,200 --> 00:08:04,580
+Okay, but what about tomatoes?
+
+121
+00:08:04,580 --> 00:08:09,319
+That has a plural with -es, but it doesn’t
+fit the rule you just saw.
+
+122
+00:08:09,319 --> 00:08:15,370
+There’s one more rule: if a word ends in
+a consonant plus -o, then the plural is written
+
+123
+00:08:15,370 --> 00:08:17,379
+with -es.
+
+124
+00:08:17,379 --> 00:08:18,759
+For example:
+
+125
+00:08:18,759 --> 00:08:21,340
+potatoes
+heroes
+
+126
+00:08:21,340 --> 00:08:23,840
+mosquitoes
+
+127
+00:08:23,840 --> 00:08:33,060
+However, if a word ends with a vowel plus
+-o, then the plural is written only with -s,
+
+128
+00:08:33,060 --> 00:08:34,420
+like this:
+
+129
+00:08:34,420 --> 00:08:38,540
+videos
+radios
+
+130
+00:08:38,540 --> 00:08:42,950
+All of these rules also apply when you add
+-s to a verb.
+
+131
+00:08:42,950 --> 00:08:50,310
+As usual, there are some exceptions, although
+most of them are uncommon words.
+
+132
+00:08:50,310 --> 00:08:57,420
+The most common exceptions to this rule are
+logos and pianos.
+
+133
+00:08:57,420 --> 00:09:00,140
+Let’s do a quick test!
+
+134
+00:09:00,150 --> 00:09:02,390
+Here are five words.
+
+135
+00:09:02,390 --> 00:09:04,110
+How do you spell the plural?
+
+136
+00:09:04,110 --> 00:09:08,560
+Pause the video and write down your answers.
+
+137
+00:09:08,560 --> 00:09:10,080
+Ready?
+
+138
+00:09:10,080 --> 00:09:13,940
+Here are the answers.
+
+139
+00:09:13,940 --> 00:09:21,900
+Next, let’s look at one more useful rule
+to improve your English spelling.
+
+140
+00:09:21,900 --> 00:09:25,400
+Listen to five words, and try to write them
+down.
+
+141
+00:09:25,400 --> 00:09:27,420
+Ready?
+
+142
+00:09:27,420 --> 00:09:37,180
+Truly, changeable, surprising, measurable,
+advancing.
+
+143
+00:09:37,190 --> 00:09:49,180
+Listen one more time: truly, changeable, surprising,
+measurable, advancing.
+
+144
+00:09:49,180 --> 00:09:53,230
+Here are the words; did you spell them all
+correctly?
+
+145
+00:09:53,230 --> 00:09:59,720
+This rule is about adding a suffix to a root
+word which ends with -e.
+
+146
+00:09:59,720 --> 00:10:05,090
+For example, true ends with -e.
+
+147
+00:10:05,090 --> 00:10:11,120
+When you add the suffix -ly, the -e disappears.
+
+148
+00:10:11,120 --> 00:10:19,220
+Change also ends with -e, but when you add
+the suffix -able¬, the -e doesn’t disappear.
+
+149
+00:10:19,230 --> 00:10:23,320
+Do you know why this is?
+
+150
+00:10:23,320 --> 00:10:29,380
+Whether the -e disappears or not depends on
+two things: the spelling of the root word,
+
+151
+00:10:29,380 --> 00:10:32,220
+and the suffix you are adding.
+
+152
+00:10:32,220 --> 00:10:37,650
+Firstly, the -e can only disappear if you
+add a suffix which starts with a vowel, like
+
+153
+00:10:37,650 --> 00:10:44,720
+-able, -ible, -ing, -ity or -ed.
+
+154
+00:10:44,720 --> 00:10:46,280
+For example:
+
+155
+00:10:46,280 --> 00:10:49,380
+achievable
+taking
+
+156
+00:10:49,380 --> 00:10:51,860
+activity
+
+157
+00:10:51,860 --> 00:10:58,070
+However, if a word ends with -ue, then you
+can sometimes drop the -e, even if the suffix
+
+158
+00:10:58,070 --> 00:10:59,670
+begins with a consonant.
+
+159
+00:10:59,670 --> 00:11:01,630
+For example:
+
+160
+00:11:01,630 --> 00:11:09,180
+truly
+argument
+
+161
+00:11:09,180 --> 00:11:13,960
+Even when you’re using a suffix which starts
+with a vowel, you don’t always drop the
+
+162
+00:11:13,960 --> 00:11:14,960
+-e.
+
+163
+00:11:14,960 --> 00:11:23,690
+If the word ends -ce and the ending has an
+/s/ sound, or if a word ends -ge and the ending
+
+164
+00:11:23,690 --> 00:11:30,010
+has a /dʒ/ sound, then you might need to
+keep the -e in order to keep the pronunciation
+
+165
+00:11:30,010 --> 00:11:32,140
+the same.
+
+166
+00:11:32,140 --> 00:11:33,750
+For example:
+
+167
+00:11:33,750 --> 00:11:38,100
+manageable
+encouragement
+
+168
+00:11:38,100 --> 00:11:42,500
+graceful
+unpronounceable
+
+169
+00:11:42,500 --> 00:11:46,260
+As always, these rules have exceptions.
+
+170
+00:11:46,270 --> 00:11:56,210
+Even if a word ends -ce or -ge, you still
+drop the -e when you add an -ing suffix.
+
+171
+00:11:56,210 --> 00:12:01,780
+One important exception is the word ageing,
+which can be spelled both ways: with an -e
+
+172
+00:12:01,780 --> 00:12:06,180
+(in British English) or without (in American
+English).
+
+173
+00:12:06,180 --> 00:12:11,690
+Also, you don’t drop the -e if this would
+change the pronunciation.
+
+174
+00:12:11,690 --> 00:12:18,940
+For example, the word agree needs to keep
+two -e’s in order to keep its pronunciation:
+
+175
+00:12:18,940 --> 00:12:21,200
+agreeing
+agreement
+
+176
+00:12:21,200 --> 00:12:23,520
+agreeable
+
+177
+00:12:23,520 --> 00:12:27,850
+Let’s do a quick test to see how well you
+can use these rules!
+
+178
+00:12:27,850 --> 00:12:29,950
+Listen to five more words.
+
+179
+00:12:29,950 --> 00:12:31,370
+Write them down carefully.
+
+180
+00:12:31,370 --> 00:12:34,460
+You’ll hear the words twice.
+
+181
+00:12:34,460 --> 00:12:44,060
+Valuable, interchangeable, faking, seeing,
+activity.
+
+182
+00:12:44,060 --> 00:12:54,280
+Valuable, interchangeable, faking, seeing,
+activity.
+
+183
+00:12:54,280 --> 00:12:57,530
+Here are the answers.
+
+184
+00:12:57,530 --> 00:13:00,600
+How did you do?
+
+185
+00:13:00,600 --> 00:13:07,360
+Finally let’s look at some words which are
+very commonly misspelled, even by native English
+
+186
+00:13:07,360 --> 00:13:10,750
+speakers.
+
+187
+00:13:10,750 --> 00:13:12,230
+Look at four words.
+
+188
+00:13:12,230 --> 00:13:18,370
+They all have spelling mistakes; can you correct
+them?
+
+189
+00:13:18,370 --> 00:13:24,130
+Here are the four words; did you get them
+all right?
+
+190
+00:13:24,130 --> 00:13:28,000
+What makes these words difficult to spell?
+
+191
+00:13:28,000 --> 00:13:33,130
+In words like accommodation, it’s difficult
+to know where to put double letters.
+
+192
+00:13:33,130 --> 00:13:36,450
+What other words are like this?
+
+193
+00:13:36,450 --> 00:13:38,360
+How about committee.
+
+194
+00:13:38,360 --> 00:13:39,690
+How many -m’s?
+
+195
+00:13:39,690 --> 00:13:41,610
+How many -t’s?
+
+196
+00:13:41,610 --> 00:13:48,130
+What about embarrassed, millennium, possession,
+correspondence, or harassment?
+
+197
+00:13:48,130 --> 00:13:52,120
+These are difficult because they aren’t
+very consistent.
+
+198
+00:13:52,120 --> 00:13:56,610
+Why does embarrass have two -r’s, but harass
+only has one?
+
+199
+00:13:56,610 --> 00:14:01,060
+It’s not logical; you have to remember them.
+
+200
+00:14:01,060 --> 00:14:07,280
+In words like conscious or guarantee, the
+relationship between the spelling and the
+
+201
+00:14:07,280 --> 00:14:11,260
+pronunciation is strange, even by English
+standards.
+
+202
+00:14:11,260 --> 00:14:17,430
+It’s rare that the letters ‘sci’ make
+a /ʃ/ sound.
+
+203
+00:14:17,430 --> 00:14:25,780
+There are many words with the letters ‘sci’,
+but normally, these letters make a /saɪ/
+
+204
+00:14:25,780 --> 00:14:33,000
+sound—like science—or a /sɪ/ sound—like
+discipline.
+
+205
+00:14:33,000 --> 00:14:35,280
+It’s similar with guarantee.
+
+206
+00:14:35,280 --> 00:14:40,240
+Normally, the /g/ sound is produced by the
+letters ‘ge’ or ‘gi’.
+
+207
+00:14:40,240 --> 00:14:46,560
+There’s only one other word family where
+‘gua’ makes a /g/ sound.
+
+208
+00:14:46,560 --> 00:14:50,380
+Do you know which?
+
+209
+00:14:50,380 --> 00:14:55,980
+The word guard, and words made from it, like
+guardian, are the only other words which behave
+
+210
+00:14:55,980 --> 00:14:57,430
+like this.
+
+211
+00:14:57,430 --> 00:15:03,490
+Again, these spellings are not consistent,
+and you need to remember them as exceptions.
+
+212
+00:15:03,490 --> 00:15:07,780
+Finally, what’s the problem with independent?
+
+213
+00:15:07,780 --> 00:15:15,730
+This is difficult because there are two endings
+which have the same pronunciation: A-N-C-E
+
+214
+00:15:15,730 --> 00:15:19,340
+and E-N-C-E.
+
+215
+00:15:19,340 --> 00:15:28,340
+So, you have audience with an ‘e’, but
+ambulance with an ‘a’; competence with
+
+216
+00:15:28,360 --> 00:15:39,140
+‘e’, but clearance with ‘a’, interference
+with ‘e’, but importance with ‘a’.
+
+217
+00:15:39,140 --> 00:15:42,480
+You can’t hear the difference between these
+two endings.
+
+218
+00:15:42,480 --> 00:15:45,380
+Again, you have to remember the spellings.
+
+219
+00:15:45,380 --> 00:15:49,760
+However, it’s not all bad news: there is
+some logic here.
+
+220
+00:15:49,760 --> 00:15:56,120
+Important is written with an ‘a’, so the
+noun importance keeps the same spelling.
+
+221
+00:15:56,120 --> 00:16:01,560
+Interfere ends with an ‘e’, so again the
+noun keeps the same spelling.
+
+222
+00:16:01,570 --> 00:16:09,680
+Now, we want to ask you something: which words
+in English do you find most difficult to spell?
+
+223
+00:16:09,680 --> 00:16:11,860
+Let us know in the comments!
+
+224
+00:16:11,860 --> 00:16:17,190
+Check out our website for more free English
+lessons: Oxford Online English dot com.
+
+225
+00:16:17,190 --> 00:16:18,440
+Thanks for watching!
+
+226
+00:16:18,440 --> 00:16:20,110
+See you next time!
+

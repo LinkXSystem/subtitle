@@ -1,0 +1,846 @@
+1
+00:00:02,180 --> 00:00:03,180
+Hi!
+
+2
+00:00:03,180 --> 00:00:04,180
+I’m Martin.
+
+3
+00:00:04,180 --> 00:00:06,700
+Welcome to Oxford Online English.
+
+4
+00:00:06,700 --> 00:00:11,570
+Are you taking the IELTS examination?
+
+5
+00:00:11,570 --> 00:00:13,730
+What do you know about the reading paper?
+
+6
+00:00:13,730 --> 00:00:17,710
+Are you having problems with any of the question
+types?
+
+7
+00:00:17,710 --> 00:00:26,750
+In this lesson, you're going to learn how
+to complete matching headings questions in
+
+8
+00:00:26,750 --> 00:00:28,500
+the IELTS reading exam.
+
+9
+00:00:28,500 --> 00:00:32,619
+Part 1: basic tips for the matching headings
+section.
+
+10
+00:00:32,619 --> 00:00:41,470
+Matching headings is often one of the most
+difficult question types for students.
+
+11
+00:00:41,470 --> 00:00:42,470
+Why?
+
+12
+00:00:42,470 --> 00:00:51,020
+The main reason is that the headings are usually
+very similar to each other.
+
+13
+00:00:51,020 --> 00:00:57,350
+Also, you have more headings than you need
+for the question.
+
+14
+00:00:57,350 --> 00:01:01,750
+So, how can we make this a little easier?
+
+15
+00:01:01,750 --> 00:01:10,070
+Firstly, if there’s an example - and there
+usually is - cross out that answer.
+
+16
+00:01:10,070 --> 00:01:13,810
+You don’t need it; don’t let it confuse
+you.
+
+17
+00:01:13,810 --> 00:01:21,950
+Also, the example isn’t always the first
+paragraph, so make sure you check carefully.
+
+18
+00:01:21,950 --> 00:01:27,170
+Secondly, check how many questions you need
+to answer.
+
+19
+00:01:27,170 --> 00:01:30,470
+How many extra answers are there?
+
+20
+00:01:30,470 --> 00:01:37,080
+If you are matching headings, do not use any
+answer more than once.
+
+21
+00:01:37,080 --> 00:01:43,210
+Finally, and most importantly, you do not
+need to read the whole text!
+
+22
+00:01:43,210 --> 00:01:45,010
+You don’t have time.
+
+23
+00:01:45,010 --> 00:01:51,210
+You get marks for answering the questions,
+not understanding the whole text.
+
+24
+00:01:51,210 --> 00:01:55,770
+Your only job is to choose the correct answers.
+
+25
+00:01:55,770 --> 00:01:59,860
+So, how can we find them?
+
+26
+00:01:59,860 --> 00:02:07,170
+Part 2: how to answer a matching headings
+question.
+
+27
+00:02:07,170 --> 00:02:10,660
+Take a look at these headings:
+
+28
+00:02:10,660 --> 00:02:11,859
+1.
+
+29
+00:02:11,859 --> 00:02:16,200
+How wildlife benefits from big trees
+2.
+
+30
+00:02:16,200 --> 00:02:19,249
+How large trees are being destroyed
+3.
+
+31
+00:02:19,249 --> 00:02:22,609
+How to support a functioning ecosystem
+
+32
+00:02:22,609 --> 00:02:30,819
+Before you read any of the text, one technique
+is to read the headings first.
+
+33
+00:02:30,819 --> 00:02:36,969
+Read the headings and think about the topic
+of the text.
+
+34
+00:02:36,969 --> 00:02:41,840
+So, what were your ideas?
+
+35
+00:02:41,840 --> 00:02:43,680
+Something about trees?
+
+36
+00:02:43,680 --> 00:02:44,719
+The environment?
+
+37
+00:02:44,719 --> 00:02:51,949
+Now, let’s take a look at the first paragraph.
+
+38
+00:02:51,949 --> 00:02:55,849
+That is a lot of text.
+
+39
+00:02:55,849 --> 00:02:58,049
+We could read it all, but why would we?
+
+40
+00:02:58,049 --> 00:03:04,489
+We don’t need the details, we just need
+to work out what the main idea of the paragraph
+
+41
+00:03:04,489 --> 00:03:05,489
+is.
+
+42
+00:03:05,489 --> 00:03:15,499
+And, to do that, we only need the first, second
+and last sentences.
+
+43
+00:03:15,499 --> 00:03:18,439
+Much better.
+
+44
+00:03:18,439 --> 00:03:20,480
+Read the first sentence.
+
+45
+00:03:20,480 --> 00:03:27,809
+Most paragraphs will start with a mini-introduction
+that will often tell you what the paragraph
+
+46
+00:03:27,809 --> 00:03:29,870
+is about.
+
+47
+00:03:29,870 --> 00:03:35,980
+Large trees are an essential part of any successfully
+functioning ecosystem.
+
+48
+00:03:35,980 --> 00:03:42,279
+OK, so from our three headings, which one
+could it be?
+
+49
+00:03:42,279 --> 00:03:48,799
+Try looking for synonyms and phrases that
+have a similar meaning to the first sentence.
+
+50
+00:03:48,799 --> 00:03:52,959
+Can we rule out any answers yet?
+
+51
+00:03:52,959 --> 00:03:55,790
+Well, it could be number one.
+
+52
+00:03:55,790 --> 00:04:02,219
+We have a mention of trees, and the words
+‘essential part’ and ‘successfully’
+
+53
+00:04:02,219 --> 00:04:08,040
+could connect to the idea of ‘benefits’
+in heading number one.
+
+54
+00:04:08,040 --> 00:04:10,299
+What about number two?
+
+55
+00:04:10,299 --> 00:04:11,799
+We have ‘trees’ again.
+
+56
+00:04:11,799 --> 00:04:18,959
+However, number two contains the word ‘destroyed’,
+and there is nothing which connects to this
+
+57
+00:04:18,959 --> 00:04:20,690
+in the first sentence.
+
+58
+00:04:20,690 --> 00:04:28,199
+In number three, we have the phrase ‘functioning
+ecosystem’, which appears in the first sentence.
+
+59
+00:04:28,199 --> 00:04:31,330
+So, three is another possibility.
+
+60
+00:04:31,330 --> 00:04:39,740
+Even if you think you know, make sure you
+read the last sentence of the paragraph to
+
+61
+00:04:39,740 --> 00:04:41,720
+check your ideas.
+
+62
+00:04:41,720 --> 00:04:45,180
+Most paragraphs will end with a mini-conclusion.
+
+63
+00:04:45,180 --> 00:04:50,729
+If this mini-conclusion is on the same topic
+as the first sentence, that is often enough
+
+64
+00:04:50,729 --> 00:04:52,490
+to give you the answer.
+
+65
+00:04:52,490 --> 00:04:56,180
+Let’s look at the last sentence:
+
+66
+00:04:56,180 --> 00:05:06,930
+This allows the trees to support a substantial
+proportion of the life in the forest.
+
+67
+00:05:06,930 --> 00:05:09,949
+What is the meaning of the sentence?
+
+68
+00:05:09,949 --> 00:05:16,009
+Can you see any synonyms or other words which
+we can connect to words or phrases in the
+
+69
+00:05:16,009 --> 00:05:19,000
+headings?
+
+70
+00:05:19,000 --> 00:05:23,550
+At this point, we can say that it can’t
+be heading number two.
+
+71
+00:05:23,550 --> 00:05:28,850
+In both sentences we have nothing about the
+destruction of trees.
+
+72
+00:05:28,850 --> 00:05:32,870
+Number one is looking very likely.
+
+73
+00:05:32,870 --> 00:05:37,909
+We have ‘support’ - a similar idea to
+‘benefits’ - and ‘life’ - similar
+
+74
+00:05:37,909 --> 00:05:40,360
+to ‘wildlife’.
+
+75
+00:05:40,360 --> 00:05:41,360
+Number 3?
+
+76
+00:05:41,360 --> 00:05:48,129
+‘How to support a functioning ecosystem’
+suggests that the text should give people
+
+77
+00:05:48,129 --> 00:05:49,129
+advice.
+
+78
+00:05:49,129 --> 00:05:52,910
+Are these sentences giving us advice or not?
+
+79
+00:05:52,910 --> 00:05:58,969
+They aren’t, and so we can rule out heading
+number three.
+
+80
+00:05:58,969 --> 00:06:05,720
+So you could now choose heading number one
+and move onto the next question.
+
+81
+00:06:05,720 --> 00:06:10,259
+However, if you aren’t sure, don’t worry.
+
+82
+00:06:10,259 --> 00:06:12,629
+Read the second sentence in the paragraph.
+
+83
+00:06:12,629 --> 00:06:18,970
+This should help you to find the right answer
+with more certainty.
+
+84
+00:06:18,970 --> 00:06:25,499
+Without the trees, innumerable species would
+be left without habitats and would cease to
+
+85
+00:06:25,499 --> 00:06:26,650
+exist.
+
+86
+00:06:26,650 --> 00:06:33,780
+OK, even if you weren’t sure before, you
+can see that this is about trees and how they
+
+87
+00:06:33,780 --> 00:06:34,780
+help wildlife.
+
+88
+00:06:34,780 --> 00:06:42,139
+The answer must be heading number one: How
+wildlife benefits from large trees.
+
+89
+00:06:42,139 --> 00:06:46,050
+Let’s do one more example.
+
+90
+00:06:46,050 --> 00:06:49,979
+We’ll use the same technique.
+
+91
+00:06:49,979 --> 00:06:53,020
+Look at these headings:
+
+92
+00:06:53,020 --> 00:06:54,900
+1.
+
+93
+00:06:54,900 --> 00:06:58,650
+Working conditions in the UK
+2.
+
+94
+00:06:58,650 --> 00:07:01,229
+The benefits of being a member of a trade
+union
+
+95
+00:07:01,229 --> 00:07:03,099
+3.
+
+96
+00:07:03,099 --> 00:07:07,850
+Declining membership of trade unions in the
+UK
+
+97
+00:07:07,850 --> 00:07:15,129
+Again, read the headings and think about the
+topic of the text.
+
+98
+00:07:15,129 --> 00:07:19,669
+So, what were your ideas?
+
+99
+00:07:19,669 --> 00:07:21,650
+Something about work in the UK?
+
+100
+00:07:21,650 --> 00:07:24,780
+Membership of trade unions?
+
+101
+00:07:24,780 --> 00:07:33,150
+Now, let’s take a look at our paragraph:
+
+102
+00:07:33,150 --> 00:07:42,409
+Remember, we don’t need the details yet,
+we just need the main idea of the paragraph.
+
+103
+00:07:42,409 --> 00:07:49,469
+Again, you just need the first, second and
+last sentences.
+
+104
+00:07:49,469 --> 00:07:55,599
+Let’s have a look at the first sentence.
+
+105
+00:07:55,599 --> 00:07:58,550
+How does that help us?
+
+106
+00:07:58,550 --> 00:08:05,669
+Trade unions provide an essential defence
+against exploitative working practices.
+
+107
+00:08:05,669 --> 00:08:12,909
+Okay, exactly the same as before: try looking
+for synonyms and phrases that have a similar
+
+108
+00:08:12,909 --> 00:08:16,509
+meaning to the rest of the sentence.
+
+109
+00:08:16,509 --> 00:08:19,569
+Can we rule any answers out yet?
+
+110
+00:08:19,569 --> 00:08:22,550
+It could be heading number one.
+
+111
+00:08:22,550 --> 00:08:25,419
+We have the word ‘working’ in both.
+
+112
+00:08:25,419 --> 00:08:28,629
+The sentence also says ‘exploitative’.
+
+113
+00:08:28,629 --> 00:08:35,599
+‘Exploitative’ describes a relationship
+where one side is more powerful, and uses
+
+114
+00:08:35,599 --> 00:08:39,709
+that power to treat the other side unfairly.
+
+115
+00:08:39,709 --> 00:08:43,599
+This could link to ‘working conditions’.
+
+116
+00:08:43,599 --> 00:08:46,040
+What about heading number two?
+
+117
+00:08:46,040 --> 00:08:48,650
+The phrase ‘trade union’ is in both.
+
+118
+00:08:48,650 --> 00:08:51,260
+Also, we have the word ‘defence’.
+
+119
+00:08:51,260 --> 00:08:58,399
+‘Defence’ here connects to the idea of
+helping people by protecting their rights.
+
+120
+00:08:58,399 --> 00:09:05,000
+Heading number two talks about ‘benefits’,
+so it could still be number two.
+
+121
+00:09:05,000 --> 00:09:06,440
+What about the third heading?
+
+122
+00:09:06,440 --> 00:09:11,870
+‘Trade union’ is in both, but there’s
+nothing else to connect the heading to the
+
+123
+00:09:11,870 --> 00:09:13,000
+first sentence.
+
+124
+00:09:13,000 --> 00:09:21,660
+So, it looks less likely, but we don’t have
+enough information to rule any headings out
+
+125
+00:09:21,660 --> 00:09:23,190
+yet.
+
+126
+00:09:23,190 --> 00:09:26,970
+You can see that this example is a little
+more difficult.
+
+127
+00:09:26,970 --> 00:09:33,100
+With our first example, we had a good idea
+of which heading was right after reading one
+
+128
+00:09:33,100 --> 00:09:34,100
+sentence.
+
+129
+00:09:34,100 --> 00:09:41,079
+Here, the first sentence of the paragraph
+hasn’t helped us much yet.
+
+130
+00:09:41,079 --> 00:09:42,180
+What do you do?
+
+131
+00:09:42,180 --> 00:09:43,960
+No problem!
+
+132
+00:09:43,960 --> 00:09:49,410
+Remember: the next step is to look at the
+final sentence of the paragraph:
+
+133
+00:09:49,410 --> 00:09:56,380
+A large decrease in the number of members
+means that trade unions currently have far
+
+134
+00:09:56,380 --> 00:10:04,570
+less influence compared to the height of their
+power in the 1980s.
+
+135
+00:10:04,570 --> 00:10:07,560
+Does this make things any clearer?
+
+136
+00:10:07,560 --> 00:10:13,300
+The sentence says the number of members has
+decreased.
+
+137
+00:10:13,300 --> 00:10:19,779
+So, heading number three is looking more probable,
+because it talks about ‘declining membership
+
+138
+00:10:19,779 --> 00:10:22,180
+of trade unions’.
+
+139
+00:10:22,180 --> 00:10:26,829
+But, what about headings one and two?
+
+140
+00:10:26,829 --> 00:10:33,139
+There’s nothing obvious in the last sentence
+which connects to one or two.
+
+141
+00:10:33,139 --> 00:10:37,970
+However, there’s also nothing which lets
+us rule them out.
+
+142
+00:10:37,970 --> 00:10:43,750
+So, I think we need to do some more work.
+
+143
+00:10:43,750 --> 00:10:46,029
+What should you do?
+
+144
+00:10:46,029 --> 00:10:49,130
+Read the second sentence.
+
+145
+00:10:49,130 --> 00:10:57,089
+Yet, due to a lack of awareness surrounding
+the benefits of joining a union and an increase
+
+146
+00:10:57,089 --> 00:11:05,550
+in temporary work, union membership in the
+UK continues to fall year-on-year.
+
+147
+00:11:05,550 --> 00:11:07,720
+Can we make a final decision now?
+
+148
+00:11:07,720 --> 00:11:14,600
+The second sentence mentions ‘benefits’,
+which appears in heading number two, but this
+
+149
+00:11:14,600 --> 00:11:20,540
+sentence says that people don’t know the
+benefits of joining a trade union, which is
+
+150
+00:11:20,540 --> 00:11:23,800
+a different context from heading number two.
+
+151
+00:11:23,800 --> 00:11:31,180
+So, there’s nothing to connect this sentence
+to headings one or two.
+
+152
+00:11:31,180 --> 00:11:34,370
+What about heading number three?
+
+153
+00:11:34,370 --> 00:11:40,190
+The sentence tells us that trade union membership
+continues to fall.
+
+154
+00:11:40,190 --> 00:11:43,620
+‘Fall’ is a synonym for ‘decline’.
+
+155
+00:11:43,620 --> 00:11:48,639
+Therefore, we can match heading number three
+to this paragraph.
+
+156
+00:11:48,639 --> 00:11:51,620
+Is that any clearer?
+
+157
+00:11:51,620 --> 00:11:57,060
+If you aren’t sure why number three is the
+answer, remember that you can review this
+
+158
+00:11:57,060 --> 00:11:59,790
+section as many times as you need.
+
+159
+00:11:59,790 --> 00:12:06,660
+Follow each step and think about the logic
+you need to use to reach the right answer.
+
+160
+00:12:06,660 --> 00:12:13,660
+These questions can be challenging, but by
+practising the technique, you will feel more
+
+161
+00:12:13,660 --> 00:12:18,720
+confident when matching headings in your IELTS
+reading exam.
+
+162
+00:12:18,720 --> 00:12:27,890
+So, that is how you answer matching headings
+questions in the IELTS reading exam.
+
+163
+00:12:27,890 --> 00:12:33,160
+Make sure you practise this technique to improve
+your speed.
+
+164
+00:12:33,160 --> 00:12:38,050
+Some key points to remember for your IELTS
+reading exam:
+
+165
+00:12:38,050 --> 00:12:39,420
+1.
+
+166
+00:12:39,420 --> 00:12:42,110
+Do not read the whole text.
+
+167
+00:12:42,110 --> 00:12:48,370
+You only need to read the first, last and
+maybe the second sentences.
+
+168
+00:12:48,370 --> 00:12:50,300
+2.
+
+169
+00:12:50,300 --> 00:12:56,110
+Look for synonyms and similar ideas between
+the headings and sentences.
+
+170
+00:12:56,110 --> 00:13:01,690
+Is the paragraph saying the same thing, but
+in a different way?
+
+171
+00:13:01,690 --> 00:13:03,510
+3.
+
+172
+00:13:03,510 --> 00:13:10,769
+Remember that seeing synonyms or even the
+same words in the paragraph and the heading
+
+173
+00:13:10,769 --> 00:13:15,730
+DOES NOT mean that this heading is the right
+one.
+
+174
+00:13:15,730 --> 00:13:18,759
+Always check that the meaning fits.
+
+175
+00:13:18,759 --> 00:13:20,519
+4.
+
+176
+00:13:20,519 --> 00:13:26,720
+If you’ve used the technique and still aren’t
+sure of an answer, move on to the next question.
+
+177
+00:13:26,720 --> 00:13:32,300
+When you’ve answered a few more questions
+and used more of the headings, you can come
+
+178
+00:13:32,300 --> 00:13:36,800
+back to questions you haven’t answered.
+
+179
+00:13:36,800 --> 00:13:38,310
+5.
+
+180
+00:13:38,310 --> 00:13:39,899
+Answer all the questions.
+
+181
+00:13:39,899 --> 00:13:45,790
+Even if nothing works, make sure you write
+an answer, even if you have to guess between
+
+182
+00:13:45,790 --> 00:13:49,260
+2 or 3 options.
+
+183
+00:13:49,260 --> 00:13:52,860
+Well, that’s the end of the lesson.
+
+184
+00:13:52,860 --> 00:14:00,230
+I hope this helps you answer matching headings
+questions in the IELTS reading exam.
+
+185
+00:14:00,230 --> 00:14:06,410
+Good luck if you have an IELTS exam coming
+up soon!
+
+186
+00:14:06,410 --> 00:14:13,319
+You can check out our website for more free
+English lessons, including IELTS preparation
+
+187
+00:14:13,319 --> 00:14:17,730
+lessons: Oxford Online English dot com.
+
+188
+00:14:17,730 --> 00:14:19,759
+Thanks for watching.
+
+189
+00:14:19,759 --> 00:14:22,440
+See you soon!
+

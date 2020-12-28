@@ -1,0 +1,1119 @@
+1
+00:00:00,960 --> 00:00:02,530
+Hi, I’m Oli.
+
+2
+00:00:02,530 --> 00:00:04,660
+Welcome to Oxford Online English!
+
+3
+00:00:04,660 --> 00:00:09,740
+In this lesson, you can learn how to answer
+IELTS academic writing task one questions.
+
+4
+00:00:09,740 --> 00:00:15,410
+In task one of the academic IELTS writing
+exam, you have to summarise and describe the
+
+5
+00:00:15,410 --> 00:00:19,570
+information given to you in some kind of chart.
+
+6
+00:00:19,570 --> 00:00:27,119
+You might have to summarise and describe a
+pie chart, a line graph, a bar chart, a table,
+
+7
+00:00:27,120 --> 00:00:29,820
+a diagram, or even a map.
+
+8
+00:00:29,820 --> 00:00:31,500
+Are you watching on YouTube?
+
+9
+00:00:31,509 --> 00:00:35,899
+If so, you can find a link to our website
+in the video description.
+
+10
+00:00:35,899 --> 00:00:41,660
+The lesson page on our website includes the
+task as well as a model answer.
+
+11
+00:00:41,660 --> 00:00:46,350
+We recommend watching the video on our website
+so you can refer to the task and the model
+
+12
+00:00:46,350 --> 00:00:49,370
+answer while you watch.
+
+13
+00:00:49,370 --> 00:00:53,530
+One more thing: do you want to watch this
+video with subtitles?
+
+14
+00:00:53,530 --> 00:00:54,829
+You can!
+
+15
+00:00:54,829 --> 00:00:59,359
+Just click the ‘CC’ button in the bottom
+right of your video player.
+
+16
+00:00:59,359 --> 00:01:04,400
+In this lesson, you’ll see a sample IELTS
+academic writing task 1 question.
+
+17
+00:01:04,400 --> 00:01:08,190
+You can learn how to approach these questions
+and write your own answer.
+
+18
+00:01:08,190 --> 00:01:13,540
+You’ll also see some useful tips to help
+you improve your IELTS writing score.
+
+19
+00:01:13,540 --> 00:01:24,140
+Let’s start by looking at our sample question:
+So, what should you do first?
+
+20
+00:01:24,159 --> 00:01:29,910
+With all IELTS writing, you need to organise
+your ideas before you start.
+
+21
+00:01:29,910 --> 00:01:34,840
+For a chart such as this one, think about
+how to connect the data.
+
+22
+00:01:34,840 --> 00:01:39,360
+Often, IELTS academic task one questions contain
+lots of data.
+
+23
+00:01:39,360 --> 00:01:45,060
+Many students try to present every piece of
+information, like a big list, but this is
+
+24
+00:01:45,060 --> 00:01:45,940
+a mistake.
+
+25
+00:01:45,940 --> 00:01:48,020
+Do you know why?
+
+26
+00:01:48,020 --> 00:01:52,359
+If you do this, your writing will probably
+be too long and repetitive.
+
+27
+00:01:52,359 --> 00:01:57,670
+You also won’t have much progression in
+your writing, which is needed for C&C scores
+
+28
+00:01:57,670 --> 00:01:59,740
+of six or higher.
+
+29
+00:01:59,740 --> 00:02:03,630
+So, you need to connect and group the data,
+but how?
+
+30
+00:02:03,630 --> 00:02:09,390
+There’s no general rule here, but here’s
+a good starting point: look for *similarities*
+
+31
+00:02:09,390 --> 00:02:11,280
+and *contrasts*.
+
+32
+00:02:11,280 --> 00:02:16,300
+In this question, you should look for similarities
+and contrasts both within each chart, and
+
+33
+00:02:16,300 --> 00:02:18,610
+between the two charts.
+
+34
+00:02:18,610 --> 00:02:20,050
+Think about it now.
+
+35
+00:02:20,050 --> 00:02:24,770
+Look at the charts, and try to find similarities
+and contrasts in the data.
+
+36
+00:02:24,770 --> 00:02:29,260
+You can see the full-sized chart on the webpage
+for this lesson.
+
+37
+00:02:29,260 --> 00:02:34,860
+Don’t forget: if you’re watching on YouTube,
+there’s a link in the video description.
+
+38
+00:02:34,860 --> 00:02:39,020
+Pause the video, and do it now!
+
+39
+00:02:39,020 --> 00:02:40,310
+Ready?
+
+40
+00:02:40,310 --> 00:02:42,050
+Here are some ideas.
+
+41
+00:02:42,050 --> 00:02:47,550
+In the first chart, the proportions for ‘living
+with flatmates’ and ‘living with parents’
+
+42
+00:02:47,550 --> 00:02:53,700
+are similar, and they’re much larger than
+the other two segments, which are similar
+
+43
+00:02:53,700 --> 00:02:56,430
+to each other.
+
+44
+00:02:56,430 --> 00:03:01,700
+In the second chart, the proportions for ‘living
+with flatmates’ and ‘living alone’ are
+
+45
+00:03:01,700 --> 00:03:03,220
+similar.
+
+46
+00:03:03,220 --> 00:03:09,320
+‘Living with a partner or spouse’ is much
+larger than all the other groups.
+
+47
+00:03:09,320 --> 00:03:14,820
+Between the two charts, the proportions for
+‘living alone’ are very similar.
+
+48
+00:03:14,820 --> 00:03:21,890
+The other segments are all quite different,
+especially ‘living with a partner or spouse’.
+
+49
+00:03:21,890 --> 00:03:28,180
+Did you get these ideas, or did you have different
+ideas for similarities and contrasts?
+
+50
+00:03:28,180 --> 00:03:30,300
+There’s more than one way to do this.
+
+51
+00:03:30,300 --> 00:03:34,540
+But, you should think about this point before
+you start writing.
+
+52
+00:03:34,540 --> 00:03:39,220
+Try to make connections in your head, and
+put the data you’re given into groups.
+
+53
+00:03:39,220 --> 00:03:45,680
+This will help you to link the data when you
+write, which is necessary for higher scores.
+
+54
+00:03:45,680 --> 00:03:48,980
+What else should you do before you start writing?
+
+55
+00:03:48,980 --> 00:03:55,990
+One: for a chart, check whether it shows figures,
+or percentages, or a mix.
+
+56
+00:03:55,990 --> 00:03:59,330
+You need different language to talk about
+these things.
+
+57
+00:03:59,330 --> 00:04:06,810
+If the chart shows figures, you’ll need
+to talk about numbers, figures, amounts, and
+
+58
+00:04:06,810 --> 00:04:07,810
+so on.
+
+59
+00:04:07,810 --> 00:04:14,470
+If the chart shows percentages, you’ll need
+to talk about percentages and proportions.
+
+60
+00:04:14,470 --> 00:04:20,700
+Here, these are pie charts, so you need to
+talk about percentages and proportions.
+
+61
+00:04:20,700 --> 00:04:28,300
+Two: check if the data relates to the past,
+the present, the future, or a combination.
+
+62
+00:04:28,300 --> 00:04:33,639
+Sometimes, we see IELTS students who don’t
+pay attention to this, and then they mix different
+
+63
+00:04:33,639 --> 00:04:36,639
+verb tenses in their answer.
+
+64
+00:04:36,639 --> 00:04:38,289
+This could hurt your score.
+
+65
+00:04:38,289 --> 00:04:46,490
+Decide what verb tenses you need (past or present or future or mixed) and try
+to keep it in your head as you write.
+
+66
+00:04:46,490 --> 00:04:51,960
+Here, the charts are from 2015, so you’ll
+need past verb forms.
+
+67
+00:04:51,960 --> 00:04:57,940
+Three: ask yourself if the charts refer to
+a moment in time, or changes over time.
+
+68
+00:04:57,940 --> 00:05:01,000
+You’ll need different language in each case.
+
+69
+00:05:01,000 --> 00:05:05,199
+Here, the charts refer to a moment in time.
+
+70
+00:05:05,199 --> 00:05:09,280
+This means you’ll need to use the verb ‘be’
+a lot.
+
+71
+00:05:09,280 --> 00:05:13,820
+You won’t use verbs like ‘increase’
+or ‘change’, like you would in some IELTS
+
+72
+00:05:13,820 --> 00:05:16,260
+task one questions.
+
+73
+00:05:16,260 --> 00:05:20,750
+Make sure you organise your ideas clearly
+*before* you start writing.
+
+74
+00:05:20,750 --> 00:05:25,919
+Time spent planning will increase your chances
+of writing a well-structured, complete task.
+
+75
+00:05:25,919 --> 00:05:29,219
+Now, you’re ready to write.
+
+76
+00:05:29,219 --> 00:05:33,919
+How should you start?
+
+77
+00:05:33,920 --> 00:05:37,740
+At the start of your answer, you should do
+two things.
+
+78
+00:05:37,740 --> 00:05:43,920
+One: write a short paragraph – one or two
+sentences – saying what the chart shows.
+
+79
+00:05:43,930 --> 00:05:49,080
+Two: write another short paragraph with an
+overview.
+
+80
+00:05:49,080 --> 00:05:54,060
+This doesn’t have to be a separate paragraph;
+you can put it together with the first paragraph
+
+81
+00:05:54,060 --> 00:05:55,060
+if you want.
+
+82
+00:05:55,060 --> 00:05:56,740
+It doesn’t matter.
+
+83
+00:05:56,740 --> 00:06:00,080
+Let’s look at these one by one.
+
+84
+00:06:00,080 --> 00:06:04,919
+For the first paragraph, you just need to
+restate the information in the instructions,
+
+85
+00:06:04,919 --> 00:06:11,169
+*but* you should use paraphrase or different
+structures to avoid too much repetition.
+
+86
+00:06:11,169 --> 00:06:19,279
+Look at the example from our model answer:
+Often, IELTS students have problems with this.
+
+87
+00:06:19,279 --> 00:06:24,289
+This is because they try to follow the sentence
+structure in the task, and just change the
+
+88
+00:06:24,289 --> 00:06:25,700
+words.
+
+89
+00:06:25,700 --> 00:06:30,600
+Paraphrase is useful, but you need to use
+other skills, too.
+
+90
+00:06:30,610 --> 00:06:34,199
+For example, you can use different references.
+
+91
+00:06:34,199 --> 00:06:40,580
+The task refers to ‘two charts’ while
+our model answer refers to ‘pie charts’.
+
+92
+00:06:40,580 --> 00:06:43,070
+You can put ideas in a different order.
+
+93
+00:06:43,070 --> 00:06:49,409
+The task says ‘living arrangements of two
+different age groups’, but in our model
+
+94
+00:06:49,409 --> 00:06:55,789
+answer, we switch the order of these ideas,
+as well as changing the words.
+
+95
+00:06:55,789 --> 00:06:58,509
+Sometimes, paraphrase is enough.
+
+96
+00:06:58,509 --> 00:07:01,599
+The task mentions ‘a certain country’.
+
+97
+00:07:01,599 --> 00:07:07,159
+In our model answer, we paraphrase this to
+‘an unspecified country’.
+
+98
+00:07:07,159 --> 00:07:14,449
+Finally, you can avoid repetition by using
+different levels of generality or specificity.
+
+99
+00:07:14,449 --> 00:07:20,759
+The task refers to ‘living arrangements’;
+in our model answer, we list the four specific
+
+100
+00:07:20,759 --> 00:07:22,969
+categories.
+
+101
+00:07:22,969 --> 00:07:26,520
+You don’t need to change *everything* from
+the task.
+
+102
+00:07:26,520 --> 00:07:30,259
+It’s fine to copy and repeat small chunks
+of language.
+
+103
+00:07:30,259 --> 00:07:33,979
+Also, there are some things you have to repeat.
+
+104
+00:07:33,980 --> 00:07:40,320
+Here, there’s no way to change ‘in 2015’,
+so we kept it the same.
+
+105
+00:07:40,320 --> 00:07:46,060
+One final point: it’s fine to copy any text
+which appears on the chart itself.
+
+106
+00:07:46,069 --> 00:07:52,300
+This means you can – and should – copy
+the categories, like ‘living alone’, ‘living
+
+107
+00:07:52,300 --> 00:07:55,569
+with parents’ and so on.
+
+108
+00:07:55,569 --> 00:07:57,740
+That gives you your first paragraph.
+
+109
+00:07:57,740 --> 00:08:01,279
+Next, you need to write the overview.
+
+110
+00:08:01,279 --> 00:08:05,520
+You can also put your overview paragraph at
+the end, if you want.
+
+111
+00:08:05,520 --> 00:08:10,409
+For your overview, think about this: imagine
+you want to tell someone about the chart,
+
+112
+00:08:10,409 --> 00:08:13,470
+but you can only say one or two sentences.
+
+113
+00:08:13,470 --> 00:08:16,340
+How would you do it?
+
+114
+00:08:16,340 --> 00:08:22,759
+Hopefully, this question is easier, because
+you planned your answer, and found connections
+
+115
+00:08:22,759 --> 00:08:28,650
+between different points, and looked
+for contrasts and similarities.
+
+116
+00:08:28,650 --> 00:08:30,680
+You did that, didn’t you?
+
+117
+00:08:30,680 --> 00:08:33,310
+You can use that here!
+
+118
+00:08:33,310 --> 00:08:38,750
+Your goal in the overview is to take the most
+important points from the chart, without going
+
+119
+00:08:38,750 --> 00:08:41,020
+into detail.
+
+120
+00:08:41,020 --> 00:08:46,810
+If you want to try, then pause the video and
+write your own overview sentence.
+
+121
+00:08:46,810 --> 00:08:51,490
+We’ll show you our example in a few seconds.
+
+122
+00:08:51,490 --> 00:08:52,490
+Did you do it?
+
+123
+00:08:52,490 --> 00:08:59,330
+Here’s our model sentence:
+Our model overview is two sentences.
+
+124
+00:08:59,330 --> 00:09:02,850
+An overview should be one or two sentences
+long.
+
+125
+00:09:02,850 --> 00:09:08,410
+If your overview is longer, it’s probable
+that you’re either including too much detail,
+
+126
+00:09:08,410 --> 00:09:13,040
+or separating ideas which should be combined
+into one sentence.
+
+127
+00:09:13,040 --> 00:09:17,900
+Don’t mention any specific numbers or statistics
+in the overview.
+
+128
+00:09:17,900 --> 00:09:21,220
+Include big-picture details only.
+
+129
+00:09:21,220 --> 00:09:24,640
+Here, you can see two ideas.
+
+130
+00:09:24,640 --> 00:09:30,500
+One was comparing the two charts, and highlighting
+that the trends are different in each one.
+
+131
+00:09:30,500 --> 00:09:36,740
+The second idea highlights the most popular
+living arrangement in each group.
+
+132
+00:09:36,740 --> 00:09:41,020
+Like many things here, there isn’t just
+one way to write an overview.
+
+133
+00:09:41,020 --> 00:09:46,220
+However, someone who reads your overview should
+have a general idea of what the charts will
+
+134
+00:09:46,220 --> 00:09:47,220
+show.
+
+135
+00:09:47,220 --> 00:09:54,260
+Now, let’s see some skills you need to write
+the rest of your answer.
+
+136
+00:09:54,260 --> 00:10:00,010
+After your overview, you’ll write one or
+more paragraphs, explaining the contents of
+
+137
+00:10:00,010 --> 00:10:02,930
+the charts in more detail.
+
+138
+00:10:02,930 --> 00:10:08,890
+In this and the next three sections, you’ll
+see some common problems which IELTS students
+
+139
+00:10:08,890 --> 00:10:12,180
+have, and how you can avoid them.
+
+140
+00:10:12,180 --> 00:10:17,440
+First, it’s easy for IELTS task one answers
+to become repetitive.
+
+141
+00:10:17,440 --> 00:10:22,240
+Look at a sentence:
+Looks fine, right?
+
+142
+00:10:22,240 --> 00:10:26,240
+Let’s add another one.
+
+143
+00:10:26,240 --> 00:10:27,360
+Hmm…
+
+144
+00:10:27,360 --> 00:10:29,520
+Not sure this is going well.
+
+145
+00:10:29,520 --> 00:10:33,300
+Let’s add one more.
+
+146
+00:10:33,300 --> 00:10:36,330
+Do you see the problem?
+
+147
+00:10:36,330 --> 00:10:43,000
+If you write like this, your writing becomes
+repetitive, and starts to feel like a list.
+
+148
+00:10:43,000 --> 00:10:48,930
+Even if you change some words, like using
+‘approximately’ instead of ‘about’,
+
+149
+00:10:48,930 --> 00:10:54,640
+or ‘proportion’ instead of ‘percentage’,
+it won’t solve the problem.
+
+150
+00:10:54,640 --> 00:10:57,820
+So, what should you do?
+
+151
+00:10:57,820 --> 00:11:04,260
+There’s more than one idea here, but first,
+you need to try to use varied sentence structures.
+
+152
+00:11:04,260 --> 00:11:08,600
+Look at the first sentence you saw before.
+
+153
+00:11:08,600 --> 00:11:14,020
+Here’s a challenge: how many ways can you
+think of to say the same idea, without changing
+
+154
+00:11:14,020 --> 00:11:16,920
+the meaning, or losing any detail?
+
+155
+00:11:16,920 --> 00:11:21,620
+Pause the video, and try to write this idea
+in at least three different ways.
+
+156
+00:11:21,620 --> 00:11:24,970
+Do it now!
+
+157
+00:11:24,970 --> 00:11:25,970
+Could you do it?
+
+158
+00:11:25,970 --> 00:11:28,010
+Here are some possibilities.
+
+159
+00:11:28,010 --> 00:11:34,100
+‘Around 20% of 25-34-year-olds lived alone.’
+
+160
+00:11:34,100 --> 00:11:41,180
+‘Among 25-34-year-olds, around 20% of people
+lived alone.’
+
+161
+00:11:41,180 --> 00:11:48,360
+‘In the 25-34 age group, about 20% opted
+to live alone.’
+
+162
+00:11:48,360 --> 00:11:57,220
+‘Approximately one fifth of those aged 25-34
+lived by themselves.’
+
+163
+00:11:57,220 --> 00:11:58,690
+What about your ideas?
+
+164
+00:11:58,690 --> 00:12:02,240
+Were they similar to these, or different?
+
+165
+00:12:02,240 --> 00:12:05,290
+So, what’s going on here?
+
+166
+00:12:05,290 --> 00:12:11,670
+First, you can simply change the order of
+the ideas, as in sentence one.
+
+167
+00:12:11,670 --> 00:12:18,120
+You can use an adverbial, like ‘among 25-34-year-olds’
+in sentence two.
+
+168
+00:12:18,120 --> 00:12:21,110
+You can use different words to refer to the
+same thing.
+
+169
+00:12:21,110 --> 00:12:27,680
+For example, instead of ’25-34-year-olds’,
+sentence three refers to ‘the 25-34 age
+
+170
+00:12:27,680 --> 00:12:28,660
+group’.
+
+171
+00:12:28,660 --> 00:12:35,580
+Instead of ‘around 20 per cent’, sentence
+four refers to ‘approximately one fifth’.
+
+172
+00:12:35,580 --> 00:12:41,980
+Sentences three and four also change the words
+‘lived alone’, either by adding an idea
+
+173
+00:12:41,990 --> 00:12:48,120
+– ‘opted to live alone’ in sentence
+three – or by paraphrasing – ‘lived
+
+174
+00:12:48,120 --> 00:12:51,360
+by themselves’ in sentence four.
+
+175
+00:12:51,360 --> 00:12:57,560
+Be careful with this, because when you change
+the words, it’s easy to change the meaning.
+
+176
+00:12:57,560 --> 00:13:03,100
+Make sure that your words have the same meaning
+as whatever you’re referring to.
+
+177
+00:13:03,100 --> 00:13:08,310
+Learning to vary your sentence structure is
+vital if you want to get higher scores for
+
+178
+00:13:08,310 --> 00:13:10,010
+C&C and grammar.
+
+179
+00:13:10,010 --> 00:13:13,110
+However, there are other key skills you need.
+
+180
+00:13:13,110 --> 00:13:17,610
+Let’s look at another!
+
+181
+00:13:17,610 --> 00:13:20,230
+Look at two sentences.
+
+182
+00:13:20,230 --> 00:13:25,100
+These sentences are fine, *but* if you write
+your whole answer like this, it will probably
+
+183
+00:13:25,100 --> 00:13:27,500
+get overlong and repetitive.
+
+184
+00:13:27,500 --> 00:13:33,770
+Also, to get higher grammar scores, you need
+to use a range of complex sentence structures.
+
+185
+00:13:33,770 --> 00:13:38,490
+So, you should try to combine ideas where
+you can.
+
+186
+00:13:38,490 --> 00:13:44,860
+For example:
+You can also combine contrasting ideas, using
+
+187
+00:13:44,860 --> 00:13:50,650
+conjunctions like ‘while’, ‘whereas’,
+‘although’ and so on.
+
+188
+00:13:50,650 --> 00:13:52,760
+Here’s a task for you.
+
+189
+00:13:52,760 --> 00:13:57,140
+Look at the two charts, and find two contrasting
+data points.
+
+190
+00:13:57,140 --> 00:14:03,150
+Write *one* sentence describing them both,
+linking the two ideas with a conjunction.
+
+191
+00:14:03,150 --> 00:14:08,260
+Pause the video and try it now!
+
+192
+00:14:08,260 --> 00:14:09,330
+Did you do it?
+
+193
+00:14:09,330 --> 00:14:11,960
+Let’s look at one example:
+
+194
+00:14:11,960 --> 00:14:18,710
+‘Among 35-44-year-olds, almost half lived
+with their partner or spouse, while a much
+
+195
+00:14:18,710 --> 00:14:24,860
+smaller proportion lived with their parents
+(around 10-15%).’
+
+196
+00:14:24,860 --> 00:14:28,440
+Of course, there are many possibilities here.
+
+197
+00:14:28,440 --> 00:14:33,120
+But, you should be thinking about this all
+the way through your answer.
+
+198
+00:14:33,120 --> 00:14:34,820
+Look through the model answer.
+
+199
+00:14:34,820 --> 00:14:40,180
+Try to find where we’ve combined two or
+more ideas in one sentence.
+
+200
+00:14:40,180 --> 00:14:45,110
+Take note of different ways to combine similar
+or different ideas, and try to use them in
+
+201
+00:14:45,110 --> 00:14:46,900
+your writing.
+
+202
+00:14:46,900 --> 00:14:53,060
+Let’s move on and look at one more key skill.
+
+203
+00:14:53,060 --> 00:14:55,340
+Look at these three sentences.
+
+204
+00:14:55,340 --> 00:15:03,380
+‘The number of 35-44-year-olds living with
+their parents was quite high – around 50.’
+
+205
+00:15:03,380 --> 00:15:10,010
+‘The percentage of 35-44-year-olds living
+with flatmates decreased dramatically compared
+
+206
+00:15:10,010 --> 00:15:13,300
+to the younger age group.’
+
+207
+00:15:13,300 --> 00:15:20,150
+‘Just over a quarter of 35-44-year-olds
+lived by themselves.’
+
+208
+00:15:20,150 --> 00:15:21,550
+What do you think?
+
+209
+00:15:21,550 --> 00:15:24,820
+Good sentences, or not?
+
+210
+00:15:24,820 --> 00:15:27,350
+All three sentences have problems.
+
+211
+00:15:27,350 --> 00:15:28,350
+Can you find them?
+
+212
+00:15:28,350 --> 00:15:30,730
+You’ll need to look at the charts, too.
+
+213
+00:15:30,730 --> 00:15:36,160
+Pause the video and think about it if you
+want.
+
+214
+00:15:36,160 --> 00:15:37,160
+Any ideas?
+
+215
+00:15:37,160 --> 00:15:38,830
+Let’s look together.
+
+216
+00:15:38,830 --> 00:15:43,100
+All three sentences have issues with precision
+of language.
+
+217
+00:15:43,100 --> 00:15:47,700
+We see these problems often in our students’
+IELTS writing.
+
+218
+00:15:47,700 --> 00:15:51,950
+The first sentence refers to ‘number’
+and ‘around 50’.
+
+219
+00:15:51,950 --> 00:15:53,570
+This is too loose.
+
+220
+00:15:53,570 --> 00:15:58,030
+First, the pie charts don’t give you *numbers*,
+in the sense of quantities.
+
+221
+00:15:58,030 --> 00:16:03,320
+It’s a percentage, so you should use the
+word ‘percentage’ or ‘proportion’.
+
+222
+00:16:03,320 --> 00:16:06,060
+Secondly, what does ‘50’
+mean?
+
+223
+00:16:06,060 --> 00:16:07,800
+50 what?
+
+224
+00:16:07,810 --> 00:16:13,430
+If you mention a number, you should add the
+units, in this case, ‘per cent’.
+
+225
+00:16:13,430 --> 00:16:16,840
+The second sentence has two problems.
+
+226
+00:16:16,840 --> 00:16:22,200
+First, it doesn’t make sense to say that
+the percentage ‘decreased’.
+
+227
+00:16:22,200 --> 00:16:28,280
+‘Decrease’, ‘increase’ and similar
+verbs are used when things change over time,
+
+228
+00:16:28,280 --> 00:16:32,140
+but these pie charts refer to one moment.
+
+229
+00:16:32,140 --> 00:16:38,630
+Secondly, ‘dramatically’ suggests a very
+large difference or change, but in this case,
+
+230
+00:16:38,630 --> 00:16:43,930
+the difference between the two percentages
+was not that great.
+
+231
+00:16:43,930 --> 00:16:49,480
+IELTS students often try to use words like
+this to increase their vocabulary score.
+
+232
+00:16:49,480 --> 00:16:55,340
+However, it’s more important that your words
+fit the data accurately.
+
+233
+00:16:55,340 --> 00:17:03,820
+Here’s a better version of sentence two:
+What about the third sentence?
+
+234
+00:17:03,820 --> 00:17:07,459
+Very simple: the information is incorrect.
+
+235
+00:17:07,459 --> 00:17:12,980
+The pie chart shows that just *under* a quarter
+of this age group lived alone.
+
+236
+00:17:12,980 --> 00:17:16,569
+When you’re under time pressure, it’s
+easy to make mistakes like this.
+
+237
+00:17:16,569 --> 00:17:22,350
+However, mistakes with the data will limit
+your TA score to six, so it’s important
+
+238
+00:17:22,350 --> 00:17:26,500
+to make sure you get every detail accurate.
+
+239
+00:17:26,500 --> 00:17:30,340
+Don’t forget to practise this further by
+visiting the full version of this lesson on
+
+240
+00:17:30,340 --> 00:17:31,509
+our website.
+
+241
+00:17:31,509 --> 00:17:35,300
+You could also try writing your own answer
+for this task.
+
+242
+00:17:35,300 --> 00:17:38,370
+Good luck if you have an IELTS exam coming
+up soon!
+
+243
+00:17:38,370 --> 00:17:40,299
+Thanks for watching!
+
+244
+00:17:40,299 --> 00:17:40,870
+See you next time!
+

@@ -1,0 +1,956 @@
+1
+00:00:01,250 --> 00:00:02,490
+Hi, I’m Oli.
+
+2
+00:00:02,490 --> 00:00:04,770
+Welcome to Oxford Online English!
+
+3
+00:00:04,770 --> 00:00:10,190
+In this lesson, you can learn how to improve
+your grammar for the IELTS writing exam.
+
+4
+00:00:10,190 --> 00:00:16,270
+You’ll see exactly what resources you need
+to improve your grammar score for IELTS writing.
+
+5
+00:00:16,270 --> 00:00:21,250
+You’ll also get a practical plan which you
+can follow.
+
+6
+00:00:21,250 --> 00:00:24,600
+If you haven’t already seen our website,
+then you should go and take a look!
+
+7
+00:00:24,600 --> 00:00:29,820
+We have free IELTS preparation lessons, and
+you can also find a professional teacher who
+
+8
+00:00:29,820 --> 00:00:33,370
+can help you to prepare for your IELTS exam.
+
+9
+00:00:33,370 --> 00:00:38,680
+But now, you’re going to see a three-step
+plan for working on your IELTS grammar.
+
+10
+00:00:38,680 --> 00:00:43,040
+First, we want you to understand two things.
+
+11
+00:00:43,040 --> 00:00:47,320
+One, do you know how IELTS grammar scores
+work?
+
+12
+00:00:47,320 --> 00:00:53,330
+You can read the IELTS score scheme, which
+is available online, but here’s a summary.
+
+13
+00:00:53,330 --> 00:00:59,280
+Your grammar score depends on two things:
+range and accuracy.
+
+14
+00:00:59,280 --> 00:01:04,180
+‘Range’ means the variety of sentence
+patterns which you use.
+
+15
+00:01:04,180 --> 00:01:09,630
+If you only write in short, simple sentences,
+or if you repeat the same sentence patterns,
+
+16
+00:01:09,630 --> 00:01:11,939
+you’ll get a lower score.
+
+17
+00:01:11,940 --> 00:01:18,020
+To get a higher score, you need to use a wide
+range of sentence patterns.
+
+18
+00:01:18,020 --> 00:01:24,100
+Accuracy includes the quantity of mistakes
+you make, where you make them, and whether
+
+19
+00:01:24,100 --> 00:01:28,670
+your mistakes affect communication or not.
+
+20
+00:01:28,670 --> 00:01:33,570
+What does this mean for IELTS scores?
+
+21
+00:01:33,570 --> 00:01:38,400
+If you only use simple sentence structures,
+or if you make a large number of mistakes,
+
+22
+00:01:38,400 --> 00:01:43,829
+then you’ll get band five or lower for grammar.
+
+23
+00:01:43,829 --> 00:01:49,479
+If you try to use more complex sentence structures,
+and if your meaning is clear in spite of your
+
+24
+00:01:49,479 --> 00:01:53,710
+mistakes, then you’ll get band six.
+
+25
+00:01:53,710 --> 00:01:59,780
+To get band seven, you need both good range
+and good accuracy.
+
+26
+00:01:59,780 --> 00:02:07,229
+You need to use a wide range of sentence patterns
+without making many mistakes.
+
+27
+00:02:07,229 --> 00:02:16,090
+Above band seven, it’s a question of degree:
+you need wider range and better accuracy.
+
+28
+00:02:16,090 --> 00:02:21,010
+Our second important point before you see
+your three-step study plan: you need the right
+
+29
+00:02:21,010 --> 00:02:23,400
+resources to practise.
+
+30
+00:02:23,400 --> 00:02:28,730
+You need: a good reference book, a source
+of IELTS writing tasks, an understanding of
+
+31
+00:02:28,730 --> 00:02:34,720
+how to learn grammar in context, a memorisation
+tool, and a source of feedback.
+
+32
+00:02:34,720 --> 00:02:38,980
+Let’s look at these one by one.
+
+33
+00:02:38,980 --> 00:02:41,760
+You need a good grammar reference book.
+
+34
+00:02:41,760 --> 00:02:47,450
+The best is the most popular: English Grammar
+in Use by Raymond Murphy.
+
+35
+00:02:47,450 --> 00:02:51,010
+This is the intermediate version, which has
+a blue cover.
+
+36
+00:02:51,010 --> 00:02:55,190
+The elementary and advanced versions are also
+useful.
+
+37
+00:02:55,190 --> 00:02:58,260
+You need a source of IELTS writing tasks.
+
+38
+00:02:58,260 --> 00:03:03,990
+Cambridge publish books with past exam papers;
+you can also type ‘IELTS writing tasks’
+
+39
+00:03:03,990 --> 00:03:09,659
+into Google or another search engine, and
+you’ll find plenty of results.
+
+40
+00:03:09,659 --> 00:03:13,450
+You need to know how to learn grammar in context.
+
+41
+00:03:13,450 --> 00:03:20,959
+This means you need to learn grammar by understanding
+and producing full, meaningful sentences.
+
+42
+00:03:20,960 --> 00:03:26,360
+We explained how to do this in another video,
+which you should watch now if you haven’t
+
+43
+00:03:26,360 --> 00:03:28,060
+already.
+
+44
+00:03:28,060 --> 00:03:30,500
+You need a memorisation tool.
+
+45
+00:03:30,500 --> 00:03:38,220
+Language learning partly depends on memorisation,
+and memorisation is often slow and inefficient.
+
+46
+00:03:38,220 --> 00:03:43,540
+We’ve also talked about this in other videos,
+but the best solution is a digital flashcard
+
+47
+00:03:43,549 --> 00:03:46,400
+app such as Anki.
+
+48
+00:03:46,400 --> 00:03:51,799
+Invest some time and learn how to use Anki
+or a similar tool, because this will save
+
+49
+00:03:51,799 --> 00:03:54,890
+you time and frustration later.
+
+50
+00:03:54,890 --> 00:03:58,819
+Finally, you need a source of feedback.
+
+51
+00:03:58,819 --> 00:04:01,760
+This probably means you need a professional
+teacher.
+
+52
+00:04:01,760 --> 00:04:08,080
+I know many of you want to study independently,
+but it’s extremely difficult to improve
+
+53
+00:04:08,080 --> 00:04:12,189
+your grammatical accuracy without feedback.
+
+54
+00:04:12,189 --> 00:04:17,330
+To put it simply: if you don’t know when
+you make a mistake, then there’s no way
+
+55
+00:04:17,330 --> 00:04:19,650
+to correct it.
+
+56
+00:04:19,650 --> 00:04:29,050
+You need someone who can show you where you’re
+making mistakes, and explain the reasons why.
+
+57
+00:04:29,050 --> 00:04:34,340
+Once you have these four things, you’re
+ready to start with our three-step plan.
+
+58
+00:04:34,340 --> 00:04:40,270
+Let’s look at step one!
+
+59
+00:04:40,270 --> 00:04:45,500
+The IELTS scoring system differentiates simple
+and complex sentences.
+
+60
+00:04:45,500 --> 00:04:51,860
+Here, ‘simple’ means that a sentence only
+has one clause, with one main verb.
+
+61
+00:04:51,860 --> 00:04:58,560
+For example, these are simple sentences: ‘Fruit
+is good for you.’
+
+62
+00:04:58,560 --> 00:05:04,640
+‘I am writing to ask for three days off
+work next month.’
+
+63
+00:05:04,640 --> 00:05:09,340
+‘People from different cultures and backgrounds
+can have very different attitudes towards
+
+64
+00:05:09,340 --> 00:05:14,780
+the role of marriage in a society.’
+
+65
+00:05:14,780 --> 00:05:19,590
+Note that ‘simple’ relates to sentence
+structure, not length.
+
+66
+00:05:19,590 --> 00:05:23,760
+‘Simple’ sentences can be shorter or longer.
+
+67
+00:05:23,760 --> 00:05:30,650
+The important point is that simple sentences
+have one and only one main verb.
+
+68
+00:05:30,650 --> 00:05:37,419
+In your IELTS writing exam, the first step
+is to learn to write simple sentences accurately.
+
+69
+00:05:37,420 --> 00:05:43,180
+If you can’t do this, your grammar score
+will be limited to band six maximum.
+
+70
+00:05:43,180 --> 00:05:48,600
+So, how can you practise this skill?
+
+71
+00:05:48,600 --> 00:05:54,130
+Find an IELTS writing task; write your answer,
+but you need to follow some rules.
+
+72
+00:05:54,130 --> 00:05:57,280
+One: you can’t use any conjunctions.
+
+73
+00:05:57,280 --> 00:06:02,560
+That includes simple words like ‘and’,
+‘but’, ‘so’, as well as subordinating
+
+74
+00:06:02,560 --> 00:06:05,520
+conjunctions like ‘although’ or ‘because’.
+
+75
+00:06:05,520 --> 00:06:07,780
+No conjunctions!
+
+76
+00:06:07,780 --> 00:06:10,380
+Two: you can’t use commas.
+
+77
+00:06:10,389 --> 00:06:14,979
+That doesn’t mean that you need commas but
+you don’t use them, it means that you never
+
+78
+00:06:14,979 --> 00:06:16,889
+need a comma.
+
+79
+00:06:16,889 --> 00:06:21,480
+Commas in the greeting of general task one
+are OK.
+
+80
+00:06:21,480 --> 00:06:27,780
+Three: you can’t use the words ‘that’,
+‘than’, ‘which’ or ‘if’.
+
+81
+00:06:27,780 --> 00:06:30,060
+What’s the point of these rules?
+
+82
+00:06:30,060 --> 00:06:33,600
+Can you work it out?
+
+83
+00:06:33,600 --> 00:06:39,080
+The idea is to write your answer using *only*
+simple sentences.
+
+84
+00:06:39,080 --> 00:06:44,930
+A common problem for IELTS students is that
+they try to use complex sentence structures,
+
+85
+00:06:44,930 --> 00:06:49,050
+but they can’t write simple sentences accurately.
+
+86
+00:06:49,050 --> 00:06:54,710
+If you can’t form simple sentences without
+making mistakes, then you can’t form more
+
+87
+00:06:54,710 --> 00:06:58,620
+complex sentences without making mistakes.
+
+88
+00:06:58,620 --> 00:07:06,140
+So, write your answer, and get feedback, for
+example from a teacher.
+
+89
+00:07:06,140 --> 00:07:10,880
+See how many mistakes you make, and where
+they are.
+
+90
+00:07:10,880 --> 00:07:11,880
+What next?
+
+91
+00:07:11,880 --> 00:07:15,360
+You’ll probably find that you made more
+mistakes than you expected.
+
+92
+00:07:15,360 --> 00:07:18,180
+That’s fine; don’t worry about it.
+
+93
+00:07:18,180 --> 00:07:20,600
+Think about what you can do next.
+
+94
+00:07:20,600 --> 00:07:24,889
+First, you need to learn and practise any
+grammar points which you don’t understand
+
+95
+00:07:24,889 --> 00:07:26,289
+well.
+
+96
+00:07:26,289 --> 00:07:31,190
+Look through your mistakes, or ask your teacher,
+and see if you repeat similar mistakes.
+
+97
+00:07:31,190 --> 00:07:37,490
+Use your grammar book to read and do exercises
+on any topics which are weak.
+
+98
+00:07:37,490 --> 00:07:41,150
+Secondly, you need to practise again.
+
+99
+00:07:41,150 --> 00:07:45,199
+Find a new IELTS writing task and write your
+answer.
+
+100
+00:07:45,199 --> 00:07:51,199
+As a first step, aim to get 50% of your sentences
+error-free.
+
+101
+00:07:51,199 --> 00:07:55,780
+That means zero errors, including small mistakes.
+
+102
+00:07:55,780 --> 00:08:02,200
+Once you can do this, aim to get 75% of your
+sentences error-free.
+
+103
+00:08:02,200 --> 00:08:05,300
+Next, work on the total number of errors.
+
+104
+00:08:05,300 --> 00:08:12,860
+If 75% of your sentences are correct, and
+you make a total of ten errors in the remaining
+
+105
+00:08:12,860 --> 00:08:20,360
+sentences, try to write an IELTS answer which
+only has five errors total.
+
+106
+00:08:20,360 --> 00:08:22,210
+The exact numbers are flexible.
+
+107
+00:08:22,210 --> 00:08:28,440
+What’s important is that you set yourself
+a target which represents progress for you.
+
+108
+00:08:28,440 --> 00:08:34,320
+If you make 50 mistakes in your first attempt,
+then making 30 mistakes would be progress.
+
+109
+00:08:34,320 --> 00:08:38,510
+It depends on you and where you’re starting.
+
+110
+00:08:38,510 --> 00:08:41,290
+This step might take you a long time.
+
+111
+00:08:41,290 --> 00:08:46,110
+Although we’re talking about ‘simple’
+sentences, you need a lot of grammar knowledge
+
+112
+00:08:46,110 --> 00:08:48,180
+to get through this.
+
+113
+00:08:48,180 --> 00:08:54,250
+You need to be able to use all common verb
+tenses, modal verbs, prepositions, articles,
+
+114
+00:08:54,250 --> 00:08:55,760
+and more.
+
+115
+00:08:55,760 --> 00:08:58,380
+However, don’t be impatient!
+
+116
+00:08:58,399 --> 00:09:01,480
+This step is the foundation of your preparation.
+
+117
+00:09:01,480 --> 00:09:07,140
+Remember: if you can’t write simple sentences
+accurately, then you can’t do anything more
+
+118
+00:09:07,140 --> 00:09:08,990
+complex.
+
+119
+00:09:08,990 --> 00:09:15,149
+If your target score is seven or higher, you
+need to work on this step until you can do
+
+120
+00:09:15,149 --> 00:09:18,000
+it consistently.
+
+121
+00:09:18,000 --> 00:09:24,060
+When you can write an IELTS answer using only
+simple sentences and without making many mistakes,
+
+122
+00:09:24,060 --> 00:09:30,950
+you’re ready to move on to step two.
+
+123
+00:09:30,950 --> 00:09:36,660
+At step two, you’re going to do the same
+things, but the rules are different.
+
+124
+00:09:36,660 --> 00:09:40,330
+Here are some suggested rules: for step two:
+
+125
+00:09:40,330 --> 00:09:44,610
+One: you can use any coordinating conjunctions.
+
+126
+00:09:44,610 --> 00:09:49,100
+That means ‘and’, ‘but’, ‘so’
+and ‘or’.
+
+127
+00:09:49,100 --> 00:09:54,010
+Two: you can use two or three subordinating
+conjunctions.
+
+128
+00:09:54,010 --> 00:09:59,700
+We suggest you start with ‘because’, ‘although’
+and ‘in order to’.
+
+129
+00:09:59,700 --> 00:10:05,140
+Three: you can use ‘when’, ‘if’ and
+‘than’.
+
+130
+00:10:05,140 --> 00:10:10,180
+Just with these simple rules, your range is
+now much wider.
+
+131
+00:10:10,180 --> 00:10:15,329
+You can now connect simple sentences using
+coordinating conjunctions.
+
+132
+00:10:15,329 --> 00:10:20,610
+For example: ‘Social media allows us to
+connect with others more easily, but it can
+
+133
+00:10:20,610 --> 00:10:25,450
+also lead to feelings of loneliness and disconnection.’
+
+134
+00:10:25,450 --> 00:10:29,890
+You can form complex sentences with subordinate
+conjunctions.
+
+135
+00:10:29,890 --> 00:10:36,010
+For example: ‘Although social media does
+not normally cost money to use, its numerous
+
+136
+00:10:36,010 --> 00:10:41,760
+disadvantages mean that it should not be considered
+‘free.’’
+
+137
+00:10:41,760 --> 00:10:48,060
+You can make conditional sentences with ‘if’;
+for example: ‘If social media is used responsibly
+
+138
+00:10:48,060 --> 00:10:53,959
+and moderately, it can be a great tool for
+meeting new people.’
+
+139
+00:10:53,959 --> 00:11:00,050
+You can also make comparatives, using ‘than’,
+as in: ‘Some people argue that social media
+
+140
+00:11:00,050 --> 00:11:06,380
+has made face-to-face communication less important
+than in the past, but I do not agree.’
+
+141
+00:11:06,380 --> 00:11:09,800
+So, you have more tools to use when writing.
+
+142
+00:11:09,800 --> 00:11:16,540
+However, your general task is the same: find
+an IELTS writing task, write your answer,
+
+143
+00:11:16,540 --> 00:11:18,640
+and get feedback.
+
+144
+00:11:18,640 --> 00:11:24,810
+During this step, you need to make sure you’re
+using ALL of the language in the rules.
+
+145
+00:11:24,810 --> 00:11:31,140
+We said in the rules that you *can* use these
+things, but actually, you should try to use
+
+146
+00:11:31,140 --> 00:11:34,810
+every rule at least once.
+
+147
+00:11:34,810 --> 00:11:40,430
+That means that your answer should have *at
+least* one sentence with a coordinating conjunction,
+
+148
+00:11:40,430 --> 00:11:45,930
+at least one sentence with a subordinating
+conjunction, and at least one sentence with
+
+149
+00:11:45,930 --> 00:11:49,100
+‘when’, ‘if’ or ‘than’.
+
+150
+00:11:49,100 --> 00:11:54,829
+If you can do that, then set yourself a new
+target: make two sentences for each rule,
+
+151
+00:11:54,829 --> 00:11:58,389
+then three sentences, and so on.
+
+152
+00:11:58,389 --> 00:12:02,980
+If you did the work on step one, then your
+writing should be quite accurate.
+
+153
+00:12:02,980 --> 00:12:07,389
+However, you also need to think about accuracy.
+
+154
+00:12:07,389 --> 00:12:14,820
+Set yourself targets like you did in step
+one; for example, aim to get over 75% of your
+
+155
+00:12:14,820 --> 00:12:22,190
+sentences error-free, or aim to make less
+than ten errors in total.
+
+156
+00:12:22,190 --> 00:12:29,260
+The idea here is to start using more complex
+sentence patterns, but in a controlled way.
+
+157
+00:12:29,260 --> 00:12:34,279
+There are still rules and limits, making it
+easier to focus on accuracy.
+
+158
+00:12:34,279 --> 00:12:40,829
+However, your writing is hopefully now closer
+to natural writing, with a wider range of
+
+159
+00:12:40,829 --> 00:12:42,960
+sentence forms.
+
+160
+00:12:42,960 --> 00:12:48,260
+During this step, you can be flexible with
+the rules to make this easier or more difficult
+
+161
+00:12:48,279 --> 00:12:49,420
+for you.
+
+162
+00:12:49,420 --> 00:12:54,910
+If you find it difficult, then just use one
+or two rules at the beginning.
+
+163
+00:12:54,910 --> 00:13:00,510
+If you find this step easy, then you can make
+the rules more complex, for example by using
+
+164
+00:13:00,510 --> 00:13:02,959
+a wider range of conjunctions.
+
+165
+00:13:02,959 --> 00:13:06,149
+You can also add more rules.
+
+166
+00:13:06,149 --> 00:13:13,670
+When you start doing this, you’re ready
+for step three.
+
+167
+00:13:13,670 --> 00:13:20,089
+Step three is similar to step two, but you
+need to add more rules, so that you need to
+
+168
+00:13:20,089 --> 00:13:25,570
+use a wider range of structures in each piece
+of writing.
+
+169
+00:13:25,570 --> 00:13:31,829
+Remember that the rules are not just what
+you *can* use; you *must* use each rule at
+
+170
+00:13:31,829 --> 00:13:34,339
+least once.
+
+171
+00:13:34,339 --> 00:13:37,990
+Here are some possible rules you could add:
+
+172
+00:13:37,990 --> 00:13:43,730
+Use a relative clause with ‘which’ or
+‘that’.
+
+173
+00:13:43,730 --> 00:13:47,420
+Use a passive sentence.
+
+174
+00:13:47,420 --> 00:13:51,800
+Use a second conditional sentence.
+
+175
+00:13:51,800 --> 00:13:58,260
+Use a comparative with ‘as…as…’
+
+176
+00:13:58,260 --> 00:14:03,279
+These are just suggestions; there are other
+possibilities!
+
+177
+00:14:03,279 --> 00:14:09,600
+Continue practising as before: find a task,
+write your answer, and get feedback.
+
+178
+00:14:09,600 --> 00:14:15,639
+If you can write your answer with a high level
+of accuracy, add another rule.
+
+179
+00:14:15,639 --> 00:14:21,170
+If your accuracy gets worse, then practise
+with the same rules until you can write an
+
+180
+00:14:21,170 --> 00:14:23,269
+accurate answer.
+
+181
+00:14:23,269 --> 00:14:28,140
+You may need to work on specific grammar points
+if you have weaknesses.
+
+182
+00:14:28,140 --> 00:14:33,740
+That’s the system; follow these steps and
+your grammar will get stronger, and this will
+
+183
+00:14:33,740 --> 00:14:36,750
+improve your IELTS writing score.
+
+184
+00:14:36,750 --> 00:14:41,220
+We imagine it would be useful for your speaking
+score, too.
+
+185
+00:14:41,220 --> 00:14:46,660
+However, we imagine some of you have questions
+or objections, like: ‘How long will all
+
+186
+00:14:46,660 --> 00:14:48,520
+of this take?’
+
+187
+00:14:48,520 --> 00:14:49,860
+‘This seems like too much work!
+
+188
+00:14:49,860 --> 00:14:52,720
+Do I need to do all this?’
+
+189
+00:14:52,720 --> 00:14:57,220
+‘Do I really need a teacher to get feedback?’
+
+190
+00:14:57,230 --> 00:15:00,750
+To answer these: it will take a long time.
+
+191
+00:15:00,750 --> 00:15:06,850
+The exact amount of time depends on you, but
+expect to spend several months working on
+
+192
+00:15:06,850 --> 00:15:08,360
+this.
+
+193
+00:15:08,360 --> 00:15:10,680
+Do you need to do all of these things?
+
+194
+00:15:10,680 --> 00:15:15,280
+It depends on your score target, and how much
+time you have.
+
+195
+00:15:15,280 --> 00:15:20,980
+Here’s the key fact: if you can’t use
+a wide range of sentence patterns, and if
+
+196
+00:15:20,990 --> 00:15:26,649
+you can’t write simple sentences accurately,
+then you’ll struggle to get more than six
+
+197
+00:15:26,649 --> 00:15:28,959
+for your grammar score.
+
+198
+00:15:28,959 --> 00:15:34,130
+This is the exact situation which many of
+the IELTS students we meet find themselves
+
+199
+00:15:34,130 --> 00:15:35,700
+in.
+
+200
+00:15:35,700 --> 00:15:40,000
+Finally, you need feedback from somewhere;
+it’s essential.
+
+201
+00:15:40,010 --> 00:15:46,100
+Feedback can come from a teacher or from elsewhere,
+but it’s difficult to get from other sources.
+
+202
+00:15:46,100 --> 00:15:50,610
+If your IELTS result is important to you,
+then we recommend finding the best teacher
+
+203
+00:15:50,610 --> 00:15:52,010
+you can.
+
+204
+00:15:52,010 --> 00:15:57,220
+Without a teacher, your potential progress
+will be much slower.
+
+205
+00:15:57,220 --> 00:16:02,259
+Do you have any other tips for improving your
+grammar for IELTS writing?
+
+206
+00:16:02,259 --> 00:16:05,870
+Please share your ideas in the comments!
+
+207
+00:16:05,870 --> 00:16:07,060
+Thanks for watching!
+
+208
+00:16:07,060 --> 00:16:08,369
+See you next time!
+

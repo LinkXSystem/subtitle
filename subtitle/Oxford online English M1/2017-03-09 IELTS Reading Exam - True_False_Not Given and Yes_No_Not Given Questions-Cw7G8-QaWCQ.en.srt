@@ -1,0 +1,1055 @@
+1
+00:00:01,819 --> 00:00:02,819
+Hi!
+
+2
+00:00:02,819 --> 00:00:04,620
+I’m Martin.
+
+3
+00:00:04,620 --> 00:00:08,810
+Welcome to Oxford Online English!
+
+4
+00:00:08,810 --> 00:00:17,170
+In this lesson, you’re going to learn how
+to complete true/false/not given, and yes/no/not
+
+5
+00:00:17,170 --> 00:00:22,300
+given questions in the IELTS reading exam.
+
+6
+00:00:22,300 --> 00:00:27,359
+But what is the difference between these two
+types of question?
+
+7
+00:00:27,359 --> 00:00:32,710
+True/false/not given questions ask you about
+facts.
+
+8
+00:00:32,710 --> 00:00:39,690
+Yes/no/not given questions can include facts
+or the writer’s opinion.
+
+9
+00:00:39,690 --> 00:00:46,530
+However, you can think about these two kinds
+of question in exactly the same way.
+
+10
+00:00:46,530 --> 00:00:52,480
+But, please check what type of question you’re
+answering.
+
+11
+00:00:52,480 --> 00:00:57,579
+If you write the answer ‘yes’ in a ‘true,
+false, not given’ question, the answer is
+
+12
+00:00:57,579 --> 00:01:00,429
+obviously not correct.
+
+13
+00:01:00,429 --> 00:01:04,739
+This is mistake is easier to make than you
+might imagine.
+
+14
+00:01:04,739 --> 00:01:13,490
+Let’s have a look at some techniques you
+can use to answer true/false/not given questions
+
+15
+00:01:13,490 --> 00:01:18,750
+in your IELTS reading exam.
+
+16
+00:01:18,750 --> 00:01:25,170
+Part One: how to find the relevant part of
+the text.
+
+17
+00:01:25,170 --> 00:01:31,259
+Before you can answer the question, you need
+to find the right part of the text.
+
+18
+00:01:31,259 --> 00:01:37,210
+First, remember that the questions follow
+the text.
+
+19
+00:01:37,210 --> 00:01:42,430
+That means that for the first question, you
+should start looking near the beginning of
+
+20
+00:01:42,430 --> 00:01:43,770
+the text.
+
+21
+00:01:43,770 --> 00:01:50,020
+Now, let’s do an example.
+
+22
+00:01:50,020 --> 00:01:55,010
+Imagine that you see this question:
+
+23
+00:01:55,010 --> 00:01:59,420
+"Zander cannot live in salt water."
+
+24
+00:01:59,420 --> 00:02:04,159
+Probably, your first thought is, “What’s
+a zander?”
+
+25
+00:02:04,159 --> 00:02:05,280
+Perfectly reasonable.
+
+26
+00:02:05,280 --> 00:02:08,630
+I had to look it up, too!
+
+27
+00:02:08,630 --> 00:02:17,840
+However, you know that the zander is something
+which can (or can’t) live in salt water.
+
+28
+00:02:17,840 --> 00:02:19,840
+What lives in water?
+
+29
+00:02:19,840 --> 00:02:26,770
+Many things, but we know the zander must be
+some kind of animal or plant which lives in
+
+30
+00:02:26,770 --> 00:02:27,770
+water.
+
+31
+00:02:27,770 --> 00:02:33,840
+So, look for words in the text related to
+fish or sea life.
+
+32
+00:02:33,840 --> 00:02:37,370
+You can also look for the word 'zander', obviously.
+
+33
+00:02:37,370 --> 00:02:40,600
+Also, the question mentions salt water.
+
+34
+00:02:40,600 --> 00:02:43,520
+Where do you find salt water?
+
+35
+00:02:43,520 --> 00:02:44,860
+In the sea, right?
+
+36
+00:02:44,860 --> 00:02:49,050
+So, look for words like sea, ocean etc.
+
+37
+00:02:49,050 --> 00:02:51,670
+What’s the opposite of salt water?
+
+38
+00:02:51,670 --> 00:02:53,080
+It’s fresh water.
+
+39
+00:02:53,080 --> 00:02:56,340
+Where do you find fresh water?
+
+40
+00:02:56,340 --> 00:02:58,510
+Mostly in rivers and lakes.
+
+41
+00:02:58,510 --> 00:03:04,650
+If the answer is ‘true’, and zander cannot
+live in salt water, then they must live in
+
+42
+00:03:04,650 --> 00:03:06,710
+fresh water.
+
+43
+00:03:06,710 --> 00:03:12,970
+This means you should also look for references
+to fresh water in the text, so look for words
+
+44
+00:03:12,970 --> 00:03:15,940
+like river or lake.
+
+45
+00:03:15,940 --> 00:03:20,680
+Let’s do one more example.
+
+46
+00:03:20,680 --> 00:03:23,580
+You see this question:
+
+47
+00:03:23,580 --> 00:03:28,980
+"Before 1900, there were no zander in the
+UK."
+
+48
+00:03:28,980 --> 00:03:32,420
+What should you look for in the text?
+
+49
+00:03:32,420 --> 00:03:35,560
+Look for dates or time references.
+
+50
+00:03:35,560 --> 00:03:43,680
+The question mentions 1900, so you could look
+for time expressions like 19th century, 20th
+
+51
+00:03:43,680 --> 00:03:47,780
+century, turn of the century, and so on.
+
+52
+00:03:47,780 --> 00:03:52,960
+You could also look for references to the
+UK or parts of the UK.
+
+53
+00:03:52,960 --> 00:03:59,510
+This means you should look for words like
+Britain, England, Scotland, etc.
+
+54
+00:03:59,510 --> 00:04:07,250
+Use these techniques to find the section in
+the text which will let you answer the question.
+
+55
+00:04:07,250 --> 00:04:12,540
+Okay, so now you’ve found the relevant part
+of the text.
+
+56
+00:04:12,540 --> 00:04:13,740
+What next?
+
+57
+00:04:13,740 --> 00:04:18,780
+Part two: finding key ideas in the text.
+
+58
+00:04:18,780 --> 00:04:23,930
+Take a look at this extract from a text.
+
+59
+00:04:23,930 --> 00:04:31,220
+"The zander is a type of fish, thought originally
+to be from Western Europe.
+
+60
+00:04:31,220 --> 00:04:37,260
+Zander were introduced into the UK in the
+late 20th century, and now can be found in
+
+61
+00:04:37,260 --> 00:04:42,940
+many rivers and freshwater lakes around the
+UK.
+
+62
+00:04:42,940 --> 00:04:51,100
+Scientists claim that zander have harmed many
+native English fish species since their introduction."
+
+63
+00:04:51,100 --> 00:04:56,960
+Pause the video if you want extra time to
+read it.
+
+64
+00:04:56,960 --> 00:05:00,820
+What should you focus on here?
+
+65
+00:05:00,820 --> 00:05:05,640
+Here are a few things to look for and think
+about:
+
+66
+00:05:05,640 --> 00:05:11,610
+First, look for time and date references.
+
+67
+00:05:11,610 --> 00:05:15,130
+The statement says 'late 20th century'.
+
+68
+00:05:15,130 --> 00:05:16,840
+What does that mean?
+
+69
+00:05:16,840 --> 00:05:18,150
+1990?
+
+70
+00:05:18,150 --> 00:05:21,000
+Is 2000 late 20th century?
+
+71
+00:05:21,000 --> 00:05:22,600
+When does late start?
+
+72
+00:05:22,600 --> 00:05:26,440
+Is 1970 late 20th century?
+
+73
+00:05:26,440 --> 00:05:33,980
+Secondly, look for expressions of quantity
+like 'all', 'many', 'some', 'most', and so
+
+74
+00:05:33,980 --> 00:05:34,980
+on.
+
+75
+00:05:34,980 --> 00:05:38,900
+Here, the text says 'many rivers and freshwater
+lakes'.
+
+76
+00:05:38,900 --> 00:05:41,990
+Does that mean all zander live in rivers?
+
+77
+00:05:41,990 --> 00:05:46,760
+Does it tell you whether zander are more common
+in rivers or lakes?
+
+78
+00:05:46,760 --> 00:05:51,810
+Thirdly, look for specific details and facts.
+
+79
+00:05:51,810 --> 00:05:59,250
+What do you know for sure after reading this
+text?
+
+80
+00:05:59,250 --> 00:06:06,360
+You know that the zander is a fish, and that
+there weren’t any zander in the UK before
+
+81
+00:06:06,360 --> 00:06:09,390
+1950 (because they were introduced).
+
+82
+00:06:09,390 --> 00:06:15,610
+You know that zander live in rivers and freshwater
+lakes in the UK.
+
+83
+00:06:15,610 --> 00:06:22,490
+Those are the only facts in the text, so they're
+the only things you can be sure about.
+
+84
+00:06:22,490 --> 00:06:30,889
+To do well with IELTS true/false/not given
+questions, you need to separate fact from
+
+85
+00:06:30,889 --> 00:06:32,460
+speculation.
+
+86
+00:06:32,460 --> 00:06:37,210
+Finally, look for expressions of uncertainty.
+
+87
+00:06:37,210 --> 00:06:40,490
+This is the opposite of the point we just
+mentioned.
+
+88
+00:06:40,490 --> 00:06:45,400
+Look for modal verbs like 'could', 'might'
+or 'must'.
+
+89
+00:06:45,400 --> 00:06:52,461
+Look for expressions which indicate uncertainty,
+for example 'it is thought that…' or 'many
+
+90
+00:06:52,461 --> 00:06:55,260
+experts believe that…'
+
+91
+00:06:55,260 --> 00:07:00,950
+For example, the text says that zander are
+thought to be from Western Europe.
+
+92
+00:07:00,950 --> 00:07:08,150
+Does that mean they are definitely from Western
+Europe, or is it uncertain?
+
+93
+00:07:08,150 --> 00:07:16,010
+The text says that scientists claim that zander
+have harmed many native English fish species.
+
+94
+00:07:16,010 --> 00:07:25,180
+From this, can you say for sure that zander
+have damaged English wildlife?
+
+95
+00:07:25,180 --> 00:07:32,000
+Of course, the exact points you consider depend
+on the question you’re trying to answer.
+
+96
+00:07:32,000 --> 00:07:40,110
+However, it’s good practice to think about
+these different things when you’re preparing
+
+97
+00:07:40,110 --> 00:07:42,750
+for your IELTS reading test.
+
+98
+00:07:42,750 --> 00:07:50,640
+To get a high score, you need really good
+attention to detail.
+
+99
+00:07:50,640 --> 00:07:55,889
+Part three: how to answer true/false/not given
+questions.
+
+100
+00:07:55,889 --> 00:08:02,300
+Let’s do a few questions together to practise.
+
+101
+00:08:02,300 --> 00:08:08,840
+First I’m going to give you the statement
+which you need to read, then I’ll give you
+
+102
+00:08:08,840 --> 00:08:13,460
+the part of the text where you would find
+the answer.
+
+103
+00:08:13,460 --> 00:08:20,080
+All you have to do is decide if the statement
+is true, false, or not given.
+
+104
+00:08:20,080 --> 00:08:23,160
+Here’s your first statement.
+
+105
+00:08:23,160 --> 00:08:28,320
+Read it and think about what you could be
+looking for.
+
+106
+00:08:28,320 --> 00:08:36,760
+"Bananas became popular as soon as they were
+brought to Europe."
+
+107
+00:08:36,760 --> 00:08:38,729
+Here is the text:
+
+108
+00:08:38,729 --> 00:08:47,830
+"After their introduction to Europe bananas
+were an immediate sensation and became a staple
+
+109
+00:08:47,830 --> 00:08:50,840
+in many people’s diets."
+
+110
+00:08:50,840 --> 00:08:53,930
+So, what do you think?
+
+111
+00:08:53,930 --> 00:08:59,610
+Is the statement true, false or not given?
+
+112
+00:08:59,610 --> 00:09:03,630
+It’s true.
+
+113
+00:09:03,630 --> 00:09:11,190
+The text says 'immediate sensation' and the
+statement says that 'bananas were popular
+
+114
+00:09:11,190 --> 00:09:16,000
+as soon as they were brought to Europe'.
+
+115
+00:09:16,000 --> 00:09:18,820
+These are exactly the same thing.
+
+116
+00:09:18,820 --> 00:09:24,660
+Even if you don’t know the exact meaning
+of 'sensation' or 'staple', you could still
+
+117
+00:09:24,660 --> 00:09:28,110
+could still make a good guess based on:
+
+118
+00:09:28,110 --> 00:09:29,110
+1.
+
+119
+00:09:29,110 --> 00:09:33,640
+The link between 'as soon as' and 'immediate'.
+
+120
+00:09:33,640 --> 00:09:34,790
+2.
+
+121
+00:09:34,790 --> 00:09:38,260
+'Many people’s diets'.
+
+122
+00:09:38,260 --> 00:09:43,430
+Even if you don’t know what 'staple' means,
+you can hopefully work out that many people
+
+123
+00:09:43,430 --> 00:09:45,890
+were eating bananas.
+
+124
+00:09:45,890 --> 00:09:49,260
+That allows you to say that bananas were popular.
+
+125
+00:09:49,260 --> 00:09:52,570
+Let’s do one more.
+
+126
+00:09:52,570 --> 00:09:55,390
+Here’s the statement:
+
+127
+00:09:55,390 --> 00:10:01,750
+"Capsaicin can irreversibly damage the mouth."
+
+128
+00:10:01,750 --> 00:10:06,040
+And here’s the relevant sentence from the
+text.
+
+129
+00:10:06,040 --> 00:10:16,140
+"Capsaicin, found in chili peppers, causes
+temporary irritation of the cells in the mouth."
+
+130
+00:10:16,140 --> 00:10:19,070
+Do you know what capsaicin is?
+
+131
+00:10:19,070 --> 00:10:20,070
+Does it matter?
+
+132
+00:10:20,070 --> 00:10:22,810
+Not really.
+
+133
+00:10:22,810 --> 00:10:30,760
+Even if you have no idea what capsaicin is,
+you can still be sure that this one is false.
+
+134
+00:10:30,760 --> 00:10:33,500
+How can you be sure?
+
+135
+00:10:33,500 --> 00:10:39,740
+If something is irreversibly damaged, then
+it’s permanent; the text says it is only
+
+136
+00:10:39,740 --> 00:10:41,670
+temporary irritation.
+
+137
+00:10:41,670 --> 00:10:45,730
+Therefore, it has to be false.
+
+138
+00:10:45,730 --> 00:10:49,430
+Let’s do another one.
+
+139
+00:10:49,430 --> 00:10:52,940
+Here’s the statement:
+
+140
+00:10:52,940 --> 00:10:58,110
+"Bananas can be part of a parrot's diet.
+
+141
+00:10:58,110 --> 00:10:59,110
+"
+
+142
+00:10:59,110 --> 00:11:01,460
+And here’s the text:
+
+143
+00:11:01,460 --> 00:11:08,541
+"Parrots must compete with larger animals,
+such as monkeys, for the available food, and
+
+144
+00:11:08,541 --> 00:11:10,800
+especially fruit.
+
+145
+00:11:10,800 --> 00:11:17,149
+Larger fruits, such as bananas, are mostly
+consumed by monkeys, who can reach them easily
+
+146
+00:11:17,149 --> 00:11:19,680
+by climbing."
+
+147
+00:11:19,680 --> 00:11:22,850
+What do you think?
+
+148
+00:11:22,850 --> 00:11:32,660
+The text doesn’t say that parrots eat bananas,
+but the statement includes the word 'can'.
+
+149
+00:11:32,660 --> 00:11:39,110
+Is there anything in the text which tells
+us that it’s possible for parrots to eat
+
+150
+00:11:39,110 --> 00:11:40,850
+bananas?
+
+151
+00:11:40,850 --> 00:11:43,490
+No, there isn’t.
+
+152
+00:11:43,490 --> 00:11:48,560
+We know that parrots eat fruit, and that bananas
+are mostly consumed by monkeys.
+
+153
+00:11:48,560 --> 00:11:55,610
+The text suggests strongly that parrots can
+eat bananas, but it doesn’t directly say
+
+154
+00:11:55,610 --> 00:11:56,670
+so.
+
+155
+00:11:56,670 --> 00:12:01,600
+So, the answer is ‘not given’.
+
+156
+00:12:01,600 --> 00:12:04,180
+Be careful with questions like these.
+
+157
+00:12:04,180 --> 00:12:10,000
+It’s natural to read something like this
+and guess that parrots can eat bananas.
+
+158
+00:12:10,000 --> 00:12:16,180
+It’s reasonable to guess—the text does
+suggest this.
+
+159
+00:12:16,180 --> 00:12:25,900
+However, your answers must be based on what
+the text says or doesn’t say.
+
+160
+00:12:25,900 --> 00:12:31,910
+Part four: how to answer yes/no/not given
+questions.
+
+161
+00:12:31,910 --> 00:12:38,750
+So, you’ve seen how to answer some true/false/not
+given questions.
+
+162
+00:12:38,750 --> 00:12:44,670
+Now we’ll look at some yes/no/not given
+questions.
+
+163
+00:12:44,670 --> 00:12:49,620
+Remember, you can approach these in the same
+way.
+
+164
+00:12:49,620 --> 00:12:56,960
+The only difference is that yes/no/not given
+questions may also include the writer’s
+
+165
+00:12:56,960 --> 00:12:57,960
+opinions.
+
+166
+00:12:57,960 --> 00:13:01,339
+Here’s a text.
+
+167
+00:13:01,339 --> 00:13:06,720
+Pause the video to read it if you need extra
+time.
+
+168
+00:13:06,720 --> 00:13:15,920
+"Wainwright’s, established in 1863, are
+now among the leading exporters of glass tankards
+
+169
+00:13:15,920 --> 00:13:21,060
+and other glass products anywhere in the Northern
+hemisphere.
+
+170
+00:13:21,060 --> 00:13:28,529
+Although not immediately profitable, the company,
+now based in Chicago, has grown prodigiously
+
+171
+00:13:28,529 --> 00:13:35,510
+into a brand whose elegant receptacles are
+widely sought after and admired by many.
+
+172
+00:13:35,510 --> 00:13:36,510
+"
+
+173
+00:13:36,510 --> 00:13:37,510
+Alright?
+
+174
+00:13:37,510 --> 00:13:40,630
+Here’s your first statement:
+
+175
+00:13:40,630 --> 00:13:46,260
+"Wainwright’s success was instantaneous."
+
+176
+00:13:46,260 --> 00:13:51,240
+'Instantaneous' has the same meaning as 'immediate'.
+
+177
+00:13:51,240 --> 00:13:58,570
+We know Wainwright’s brand is now sought
+after (well-known and wanted by people), but
+
+178
+00:13:58,570 --> 00:14:03,140
+also that it was not immediately profitable.
+
+179
+00:14:03,140 --> 00:14:09,560
+The statement says 'instantaneous success',
+but our text says Wainwright’s wasn’t
+
+180
+00:14:09,560 --> 00:14:12,110
+immediately profitable.
+
+181
+00:14:12,110 --> 00:14:16,180
+If a company isn’t profitable, is it a success?
+
+182
+00:14:16,180 --> 00:14:17,180
+No.
+
+183
+00:14:17,180 --> 00:14:22,910
+So, you should choose ‘no.’
+
+184
+00:14:22,910 --> 00:14:24,800
+Question number two:
+
+185
+00:14:24,800 --> 00:14:31,519
+"Wainwright’s is one of the leading exporters
+in North America."
+
+186
+00:14:31,519 --> 00:14:37,710
+The text tells us Wainwright’s is one of
+the leading exporters of glass tankards and
+
+187
+00:14:37,710 --> 00:14:44,190
+products in the northern hemisphere, which
+includes North America.
+
+188
+00:14:44,190 --> 00:14:52,830
+However, the statement just says 'leading
+exporters', while the text says leading exporters
+
+189
+00:14:52,830 --> 00:14:57,080
+of glass tankards and other glass products.
+
+190
+00:14:57,080 --> 00:15:04,720
+So, we know that Wainwright’s is a leading
+exporter in one particular area, but we don’t
+
+191
+00:15:04,720 --> 00:15:10,200
+know if it’s one of the biggest exporters
+overall.
+
+192
+00:15:10,200 --> 00:15:14,860
+What should we choose in this situation?
+
+193
+00:15:14,860 --> 00:15:18,310
+The correct answer is ‘not given’.
+
+194
+00:15:18,310 --> 00:15:26,540
+There’s nothing in the text which tells
+you how Wainwright’s compares to other companies
+
+195
+00:15:26,540 --> 00:15:30,990
+in different sectors.
+
+196
+00:15:30,990 --> 00:15:33,310
+Question number three:
+
+197
+00:15:33,310 --> 00:15:39,490
+"Wainwright’s was founded in Chicago."
+
+198
+00:15:39,490 --> 00:15:43,149
+What is this statement asking us?
+
+199
+00:15:43,149 --> 00:15:51,050
+The text tells us Wainwright’s is based
+in Chicago now, but does that mean it started
+
+200
+00:15:51,050 --> 00:15:53,620
+in Chicago?
+
+201
+00:15:53,620 --> 00:16:00,770
+If it is now based in Chicago, that means
+it was set up somewhere else, otherwise why
+
+202
+00:16:00,770 --> 00:16:04,649
+would the text use the word 'now'?
+
+203
+00:16:04,649 --> 00:16:09,460
+The answer must be no.
+
+204
+00:16:09,460 --> 00:16:11,440
+Our last question:
+
+205
+00:16:11,440 --> 00:16:16,540
+"Many people own Wainwright’s glass products."
+
+206
+00:16:16,540 --> 00:16:23,149
+Okay, let’s focus on the word 'own' here.
+
+207
+00:16:23,149 --> 00:16:31,410
+The text tells you the tankards are admired
+and sought after by many people, which suggests
+
+208
+00:16:31,410 --> 00:16:34,490
+that they are popular products.
+
+209
+00:16:34,490 --> 00:16:41,570
+We also know that the company is successful,
+which also strongly suggests that many people
+
+210
+00:16:41,570 --> 00:16:45,700
+buy and own their products.
+
+211
+00:16:45,700 --> 00:16:53,480
+However, does it say anything about people
+owning Wainwright’s products?
+
+212
+00:16:53,480 --> 00:16:58,040
+Remember that ‘suggests’ is not enough.
+
+213
+00:16:58,040 --> 00:17:04,850
+We need something concrete in the text that
+tells us that many people own Wainwright’s
+
+214
+00:17:04,850 --> 00:17:07,610
+glass products.
+
+215
+00:17:07,610 --> 00:17:17,159
+There isn’t anything like that in the text,
+so we should select ‘not given.’
+
+216
+00:17:17,159 --> 00:17:20,509
+Part 5: final tips.
+
+217
+00:17:20,509 --> 00:17:29,039
+Hopefully you are feeling a little more confident
+answering true/false/not given and yes/no/not
+
+218
+00:17:29,039 --> 00:17:30,480
+given questions.
+
+219
+00:17:30,480 --> 00:17:36,210
+Here are just a few more things to remember:
+
+220
+00:17:36,210 --> 00:17:38,010
+1.
+
+221
+00:17:38,010 --> 00:17:45,289
+There will always be at least one true, one
+false and one not given answer.
+
+222
+00:17:45,289 --> 00:17:48,830
+If you are missing one, one answer has to
+be wrong.
+
+223
+00:17:48,830 --> 00:17:56,149
+The same is true for yes/no/not given questions:
+there will always be at least one of each
+
+224
+00:17:56,149 --> 00:17:57,529
+answer.
+
+225
+00:17:57,529 --> 00:17:58,919
+2.
+
+226
+00:17:58,919 --> 00:18:04,409
+If you aren’t sure, or you can’t find
+an answer, put ‘not given’.
+
+227
+00:18:04,409 --> 00:18:06,600
+You don’t have a lot of time for this exam.
+
+228
+00:18:06,600 --> 00:18:12,669
+Don’t spend all your time looking for an
+answer that isn’t there.
+
+229
+00:18:12,669 --> 00:18:13,749
+3.
+
+230
+00:18:13,749 --> 00:18:15,580
+Answer all the questions!
+
+231
+00:18:15,580 --> 00:18:21,159
+Never leave blank spaces, even if you’re
+running out of time or you have no idea.
+
+232
+00:18:21,159 --> 00:18:27,900
+You have a one in three chance of guessing
+correctly, so always put an answer for every
+
+233
+00:18:27,900 --> 00:18:28,900
+question.
+
+234
+00:18:28,900 --> 00:18:32,350
+Well, that’s all from me.
+
+235
+00:18:32,350 --> 00:18:36,279
+Good luck if you have an IELTS exam coming
+soon!
+
+236
+00:18:36,279 --> 00:18:39,990
+Thanks a lot for watching.
+
+237
+00:18:39,990 --> 00:18:40,929
+See you next time!
+

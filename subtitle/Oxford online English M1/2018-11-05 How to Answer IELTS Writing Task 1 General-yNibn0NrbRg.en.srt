@@ -1,0 +1,703 @@
+1
+00:00:01,100 --> 00:00:02,940
+Hi, I’m Justin.
+
+2
+00:00:02,940 --> 00:00:05,700
+Welcome to Oxford Online English!
+
+3
+00:00:05,700 --> 00:00:11,680
+In this lesson, you can learn how to answer
+task one of the IELTS general writing exam.
+
+4
+00:00:11,680 --> 00:00:17,390
+In the general IELTS writing exam, task one
+involves writing a letter.
+
+5
+00:00:17,390 --> 00:00:21,340
+Usually, you have to do three things in your
+letter.
+
+6
+00:00:21,340 --> 00:00:27,390
+You have 20 minutes and you need to write
+at least 150 words.
+
+7
+00:00:27,390 --> 00:00:34,809
+In this lesson, you’ll see how to plan and
+write an effective general task 1 IELTS answer.
+
+8
+00:00:34,809 --> 00:00:41,249
+You’ll learn simple strategies you can use
+to write a better answer and improve your
+
+9
+00:00:41,249 --> 00:00:42,780
+IELTS writing score.
+
+10
+00:00:42,780 --> 00:00:46,100
+Let’s start by looking at a sample question:
+
+11
+00:00:46,100 --> 00:00:49,690
+Your neighbour has been making a lot of noise
+recently.
+
+12
+00:00:49,690 --> 00:00:54,850
+This has been causing you problems, and you
+want to ask them to stop.
+
+13
+00:00:54,850 --> 00:00:56,159
+Write a letter to your neighbour.
+
+14
+00:00:56,159 --> 00:00:58,199
+In your letter:
+
+15
+00:00:58,199 --> 00:01:02,620
+- ask for an explanation for the noise
+- explain the problems this has caused for
+
+16
+00:01:02,620 --> 00:01:05,729
+you
+- say what will happen if the problem is not
+
+17
+00:01:05,729 --> 00:01:06,969
+solved
+
+18
+00:01:06,969 --> 00:01:13,180
+Pause the video if you want more time to look
+at the question.
+
+19
+00:01:13,180 --> 00:01:20,950
+Let’s begin by looking at what you need
+to think about before you write.
+
+20
+00:01:20,950 --> 00:01:27,560
+Planning for IELTS general task one answers
+is easier than for other IELTS writing tasks.
+
+21
+00:01:27,560 --> 00:01:32,170
+All general task one questions have the same
+structure.
+
+22
+00:01:32,170 --> 00:01:37,710
+This means that your answer can have the same
+structure every time.
+
+23
+00:01:37,710 --> 00:01:43,240
+The question asks you to do three things.
+
+24
+00:01:43,240 --> 00:01:45,869
+Each point can go in its own paragraph.
+
+25
+00:01:45,869 --> 00:01:52,000
+So, your answer will have three short paragraphs,
+like this:
+
+26
+00:01:52,000 --> 00:01:55,280
+Then, you need a short introduction.
+
+27
+00:01:55,280 --> 00:02:01,189
+For this question, you can just write a single
+sentence to explain why you’re writing,
+
+28
+00:02:01,189 --> 00:02:03,040
+like this:
+
+29
+00:02:03,040 --> 00:02:09,390
+I am writing to complain about the noise levels
+coming from your apartment in recent weeks.
+
+30
+00:02:09,390 --> 00:02:12,520
+The introduction might be different in other
+tasks.
+
+31
+00:02:12,520 --> 00:02:18,140
+For example, if you’re writing to a friend,
+you’d write something much simpler.
+
+32
+00:02:18,140 --> 00:02:23,720
+There is one more thing you need to think
+about when planning: tone.
+
+33
+00:02:23,720 --> 00:02:30,600
+When we say ‘tone’, we mean how formal
+or informal your letter should be.
+
+34
+00:02:30,600 --> 00:02:37,080
+Task one of the general IELTS writing exam
+is the only place where tone is clearly mentioned
+
+35
+00:02:37,080 --> 00:02:38,930
+in the scoring scheme.
+
+36
+00:02:38,930 --> 00:02:44,670
+You need to write in an appropriate tone,
+and your tone needs to be consistent.
+
+37
+00:02:44,670 --> 00:02:47,510
+What tone do you think you need here?
+
+38
+00:02:47,510 --> 00:02:53,840
+Should your letter be formal, neutral, or
+informal?
+
+39
+00:02:53,840 --> 00:02:58,460
+Probably, your letter will be somewhere between
+neutral and formal.
+
+40
+00:02:58,470 --> 00:03:03,330
+You’re writing to your neighbour, so you
+don’t need to be incredibly formal, but
+
+41
+00:03:03,330 --> 00:03:07,930
+you’re also writing to complain, which adds
+formality.
+
+42
+00:03:07,930 --> 00:03:13,980
+In our experience, one of the most common
+mistakes with task one answers is not getting
+
+43
+00:03:13,980 --> 00:03:15,870
+the tone right.
+
+44
+00:03:15,870 --> 00:03:21,260
+Either candidates choose an inappropriate
+level of formality, or they mix different
+
+45
+00:03:21,260 --> 00:03:23,950
+levels in the same answer.
+
+46
+00:03:23,950 --> 00:03:27,540
+Both of these mistakes will hurt your score.
+
+47
+00:03:27,540 --> 00:03:33,140
+So, before you write anything, think about
+how formal your letter should be.
+
+48
+00:03:33,140 --> 00:03:40,300
+Now, you have a plan; let’s write our first
+paragraph!
+
+49
+00:03:40,300 --> 00:03:43,470
+Look at the beginning of a letter:
+
+50
+00:03:43,470 --> 00:03:44,470
+Dear Emily,
+
+51
+00:03:44,470 --> 00:03:45,940
+How’s it going?
+
+52
+00:03:45,940 --> 00:03:52,110
+I’m actually writing because I have some
+issues with noise coming from your apartment.
+
+53
+00:03:52,110 --> 00:03:56,510
+I would like to demand an explanation for
+the noise levels.
+
+54
+00:03:56,510 --> 00:04:01,470
+I mean, what on earth are you doing that’s
+so noisy?
+
+55
+00:04:01,470 --> 00:04:08,370
+I can hardly have a conversation with someone
+sitting next to me, because it’s so loud.
+
+56
+00:04:08,370 --> 00:04:11,820
+Please inform me what is occurring.
+
+57
+00:04:11,820 --> 00:04:16,060
+Pause the video if you want more time to look
+at the answer.
+
+58
+00:04:16,060 --> 00:04:21,480
+Think about whether this is good, or whether
+it needs some work.
+
+59
+00:04:21,480 --> 00:04:23,920
+There’s a problem with this beginning.
+
+60
+00:04:23,930 --> 00:04:27,720
+Do you know what it is?
+
+61
+00:04:27,720 --> 00:04:29,590
+The problem is tone.
+
+62
+00:04:29,590 --> 00:04:34,650
+As you heard before, it’s a common mistake
+to mix formal and informal language.
+
+63
+00:04:34,650 --> 00:04:38,460
+Here, you can see very formal sentences, like:
+
+64
+00:04:38,460 --> 00:04:43,620
+I would like to demand an explanation for
+the noise levels.
+
+65
+00:04:43,620 --> 00:04:46,520
+You can also see more informal language, like:
+
+66
+00:04:46,520 --> 00:04:50,290
+I mean, what on earth are you doing that’s
+so noisy?
+
+67
+00:04:50,290 --> 00:04:55,590
+The start of the letter also mixes different
+levels of formality.
+
+68
+00:04:55,590 --> 00:05:01,990
+Writing how’s it going? is a more informal
+way to start a letter or an email, but if
+
+69
+00:05:01,990 --> 00:05:08,130
+you’re writing to complain, you would almost
+certainly need to use a more neutral or formal
+
+70
+00:05:08,130 --> 00:05:09,340
+tone.
+
+71
+00:05:09,340 --> 00:05:16,350
+To get a high score in the general IELTS writing
+exam, you need to write in a consistent tone.
+
+72
+00:05:16,350 --> 00:05:22,500
+If you want to practice, think about how you
+could improve the answer you saw before.
+
+73
+00:05:22,500 --> 00:05:26,590
+You can pause the video, and start again when
+you’re ready.
+
+74
+00:05:26,590 --> 00:05:33,870
+Let’s see how you could improve this answer:
+Pause the video if you need more time to read.
+
+75
+00:05:33,870 --> 00:05:38,700
+You can see that we’ve got rid of some of
+the more informal language, like how’s it
+
+76
+00:05:38,700 --> 00:05:40,380
+going?
+
+77
+00:05:40,380 --> 00:05:44,960
+This is also better because it’s consistent
+without being too formal.
+
+78
+00:05:44,960 --> 00:05:51,340
+Our original answer included very formal language,
+like Please inform me what is occurring.
+
+79
+00:05:51,340 --> 00:05:56,560
+You don’t get more points for being more
+formal; you get a high score by writing in
+
+80
+00:05:56,560 --> 00:05:59,430
+an appropriate and consistent tone.
+
+81
+00:05:59,430 --> 00:06:08,210
+Next, let’s continue by thinking about use
+of language in your answer.
+
+82
+00:06:08,210 --> 00:06:15,050
+Task one of the general IELTS writing exam
+is the simplest of all the IELTS writing tasks.
+
+83
+00:06:15,050 --> 00:06:20,680
+This is an advantage, but it also means you
+need to think carefully about using a wide
+
+84
+00:06:20,680 --> 00:06:21,690
+range of language.
+
+85
+00:06:21,690 --> 00:06:26,490
+Let’s look at this by adding another paragraph
+to our model answer:
+
+86
+00:06:26,490 --> 00:06:30,400
+This situation is having a bad effect on my
+entire family.
+
+87
+00:06:30,400 --> 00:06:36,950
+I have been unable to sleep, because of the
+loud noises even late at night.
+
+88
+00:06:36,950 --> 00:06:40,710
+My son complains that he cannot do his homework.
+
+89
+00:06:40,710 --> 00:06:47,870
+Even our dog has been behaving oddly; she
+is not eating well and has no energy.
+
+90
+00:06:47,870 --> 00:06:52,389
+This is a good paragraph, and the use of language
+is already good.
+
+91
+00:06:52,389 --> 00:06:58,490
+However, to get higher scores, you would need
+to use a wider range of language.
+
+92
+00:06:58,490 --> 00:07:01,350
+Let’s do two things here.
+
+93
+00:07:01,350 --> 00:07:05,930
+First, look at the five underlined words and
+phrases.
+
+94
+00:07:05,930 --> 00:07:11,080
+Can you change these words and phrases to
+make them more detailed and more specific?
+
+95
+00:07:11,080 --> 00:07:15,560
+Think about it—you’ll see some possible
+answers in a minute.
+
+96
+00:07:15,560 --> 00:07:21,790
+Your second job is to take two sentences and
+combine them into a more complex sentence.
+
+97
+00:07:21,790 --> 00:07:28,790
+There’s more than one way you could do this,
+so find an idea which makes sense to you.
+
+98
+00:07:28,790 --> 00:07:30,680
+Think about your answers now.
+
+99
+00:07:30,680 --> 00:07:34,680
+Pause the video if you need more time.
+
+100
+00:07:34,680 --> 00:07:35,720
+Ready?
+
+101
+00:07:35,730 --> 00:07:41,389
+Let’s look:
+You can see that you don’t need to make
+
+102
+00:07:41,389 --> 00:07:43,180
+big changes.
+
+103
+00:07:43,180 --> 00:07:48,670
+A lot of students think that you need to use
+a lot of very academic language to get high
+
+104
+00:07:48,670 --> 00:07:50,770
+scores in IELTS.
+
+105
+00:07:50,770 --> 00:07:52,020
+You don’t.
+
+106
+00:07:52,020 --> 00:07:58,729
+To get high scores—even band 9—you need
+to use a range of language with flexibility
+
+107
+00:07:58,729 --> 00:08:00,820
+and precision.
+
+108
+00:08:00,820 --> 00:08:06,790
+That might include academic language in some
+cases, but for a letter, that wouldn’t be
+
+109
+00:08:06,790 --> 00:08:08,020
+appropriate.
+
+110
+00:08:08,020 --> 00:08:12,560
+Collocations are very important for your IELTS
+vocabulary score.
+
+111
+00:08:12,570 --> 00:08:19,330
+Using collocations like sleep properly, noise
+levels, lose your appetite, or focus on your
+
+112
+00:08:19,330 --> 00:08:22,870
+homework will boost your vocabulary score.
+
+113
+00:08:22,870 --> 00:08:28,419
+For grammar, we simply connected two sentences
+with the conjunction while.
+
+114
+00:08:28,419 --> 00:08:33,219
+This adds variety to the sentence structures,
+which will also help your score.
+
+115
+00:08:33,219 --> 00:08:36,490
+At this point, you need to write one more
+paragraph.
+
+116
+00:08:36,490 --> 00:08:43,600
+Here, you’re going to see how you can connect
+your ideas more effectively.
+
+117
+00:08:43,600 --> 00:08:48,680
+There’s a common problem we see with IELTS
+writing in our students.
+
+118
+00:08:48,689 --> 00:08:51,790
+Students often plan each paragraph separately.
+
+119
+00:08:51,790 --> 00:08:57,889
+Then, they write each paragraph as a separate
+unit, and the paragraphs don’t have much
+
+120
+00:08:57,889 --> 00:09:00,550
+connection to each other.
+
+121
+00:09:00,550 --> 00:09:07,079
+This will hurt your score; 25 per cent of
+your score is for coherence and cohesion.
+
+122
+00:09:07,080 --> 00:09:14,600
+To get a higher score for coherence and cohesion,
+your writing needs to have a clear progression.
+
+123
+00:09:14,600 --> 00:09:20,779
+That means it needs to have a clear beginning,
+middle, and end.
+
+124
+00:09:20,779 --> 00:09:24,329
+Let’s look at a final paragraph which doesn’t
+handle this well:
+
+125
+00:09:24,329 --> 00:09:28,990
+I must ask you to reduce the amount of noise
+you make, and try to keep quiet during the
+
+126
+00:09:28,990 --> 00:09:31,070
+evening when we are at home.
+
+127
+00:09:31,070 --> 00:09:35,509
+If you continue making noise at these levels,
+I will have no choice but to make a noise
+
+128
+00:09:35,509 --> 00:09:39,630
+complaint to the police and/or to the city
+council.
+
+129
+00:09:39,630 --> 00:09:40,899
+Regards,
+
+130
+00:09:40,899 --> 00:09:42,180
+Samira
+
+131
+00:09:42,180 --> 00:09:45,769
+Pause the video if you want more time to read
+the paragraph.
+
+132
+00:09:45,769 --> 00:09:50,670
+This is not bad, but it doesn’t include
+any links or references to the other points
+
+133
+00:09:50,670 --> 00:09:52,649
+you’ve made in the letter.
+
+134
+00:09:52,649 --> 00:09:58,769
+It also lacks a concluding phrase, which could
+provide a strong, clear end to your letter.
+
+135
+00:09:58,769 --> 00:10:05,279
+Let’s see how you could improve this:
+Can you see what’s changed?
+
+136
+00:10:05,279 --> 00:10:08,759
+Pause the video to read.
+
+137
+00:10:08,759 --> 00:10:10,470
+There are four changes.
+
+138
+00:10:10,470 --> 00:10:21,519
+First, we made a reference to the first paragraph,
+then we added a reference to the second paragraph.
+
+139
+00:10:21,519 --> 00:10:28,259
+We also avoided repetition by adding a reference
+to ‘this situation’, instead of talking
+
+140
+00:10:28,259 --> 00:10:31,450
+about noise levels again.
+
+141
+00:10:31,450 --> 00:10:36,850
+Finally, we added a concluding phrase.
+
+142
+00:10:36,850 --> 00:10:38,300
+And you’ve finished!
+
+143
+00:10:38,300 --> 00:10:43,319
+Practice these steps and ideas and you should
+be able to get a high score in task one of
+
+144
+00:10:43,319 --> 00:10:44,709
+the general IELTS exam.
+
+145
+00:10:44,709 --> 00:10:51,220
+Here’s a question for you: what do you find
+most difficult in task one of the general
+
+146
+00:10:51,220 --> 00:10:52,760
+IELTS writing exam?
+
+147
+00:10:52,760 --> 00:10:55,670
+Please let us know in the comments.
+
+148
+00:10:55,670 --> 00:11:02,170
+You can see the full text of the model answer
+on our website: Oxford Online English dot
+
+149
+00:11:02,170 --> 00:11:03,350
+com.
+
+150
+00:11:03,350 --> 00:11:07,269
+Look for a link in the video description if
+you’re watching on YouTube.
+
+151
+00:11:07,269 --> 00:11:08,759
+Thanks for watching!
+
+152
+00:11:08,759 --> 00:11:09,290
+See you next time!
+

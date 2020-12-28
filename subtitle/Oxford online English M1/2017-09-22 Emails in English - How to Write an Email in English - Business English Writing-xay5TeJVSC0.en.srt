@@ -1,0 +1,960 @@
+1
+00:00:01,660 --> 00:00:02,980
+Hi, I'm Mike.
+
+2
+00:00:02,980 --> 00:00:06,279
+Welcome to Oxford Online English.
+
+3
+00:00:06,279 --> 00:00:11,990
+In this lesson, you can learn how to write
+an email in English.
+
+4
+00:00:11,990 --> 00:00:15,570
+Do you need to write emails at work?
+
+5
+00:00:15,570 --> 00:00:20,590
+Are you worried that your emails aren’t
+clear, or that you make mistakes in English?
+
+6
+00:00:20,590 --> 00:00:26,920
+In this lesson, you can see a how to write
+clear, natural-sounding emails easily and
+
+7
+00:00:26,920 --> 00:00:28,240
+quickly.
+
+8
+00:00:28,240 --> 00:00:35,710
+We’ll show you how to write an email in
+English from beginning to end, in simple,
+
+9
+00:00:35,710 --> 00:00:40,350
+clear steps that you can follow right now!
+
+10
+00:00:40,350 --> 00:00:43,660
+Let’s start at the beginning.
+
+11
+00:00:47,180 --> 00:00:50,080
+With emails, you can start like a letter.
+
+12
+00:00:50,090 --> 00:00:51,559
+For example:
+
+13
+00:00:51,559 --> 00:00:56,450
+Dear Lina,
+Dear Sir/Madam,
+
+14
+00:00:56,450 --> 00:00:58,739
+Dear Mr Hill,
+
+15
+00:00:58,739 --> 00:01:04,800
+However, emails are generally much less formal
+than letters.
+
+16
+00:01:04,800 --> 00:01:09,780
+Use a greeting with 'dear' only if you’re
+writing something formal.
+
+17
+00:01:09,780 --> 00:01:14,300
+So, what else can you use?
+
+18
+00:01:14,300 --> 00:01:19,320
+Many emails start with hello, or hi plus the
+person’s name.
+
+19
+00:01:19,320 --> 00:01:21,230
+For example,
+
+20
+00:01:21,230 --> 00:01:24,750
+Hello,
+Hi Ryan,
+
+21
+00:01:24,750 --> 00:01:28,600
+In many business emails, you’ll follow the
+greeting with something like:
+
+22
+00:01:28,600 --> 00:01:32,920
+I hope you’re well.
+
+23
+00:01:32,920 --> 00:01:37,630
+or
+How are you?
+
+24
+00:01:37,630 --> 00:01:43,860
+In business emails, these are simply polite
+phrases, and they don’t generally need an
+
+25
+00:01:44,020 --> 00:01:45,900
+answer.
+
+26
+00:01:45,900 --> 00:01:51,700
+For more informal emails, you can start with
+just the word hi or hey, plus a comma:
+
+27
+00:01:53,600 --> 00:01:58,460
+You can also just write the person’s name
+plus a comma.
+
+28
+00:01:58,460 --> 00:02:02,930
+This is a more professional style, even though
+it’s more informal.
+
+29
+00:02:02,930 --> 00:02:07,780
+It’s best with people you already know.
+
+30
+00:02:07,780 --> 00:02:13,770
+For a very informal email, you might not need
+a greeting at all.
+
+31
+00:02:13,770 --> 00:02:19,950
+This is also true if you’re sending several
+emails to the same person in a short time:
+
+32
+00:02:19,950 --> 00:02:23,260
+you don’t need to write a greeting every
+time.
+
+33
+00:02:23,260 --> 00:02:26,600
+Let’s review quickly:
+
+34
+00:02:26,600 --> 00:02:34,280
+For very formal emails, use a greeting with
+dear plus a name, like a letter.
+
+35
+00:02:34,280 --> 00:02:42,170
+For most everyday emails, use either hello
+or hi plus a name.
+
+36
+00:02:42,170 --> 00:02:49,570
+For less formal emails, use hi or hey without
+a name, or don’t use a greeting at all.
+
+37
+00:02:49,570 --> 00:02:52,440
+Okay, but what next?
+
+38
+00:02:55,320 --> 00:02:59,600
+After your greeting, you should explain why
+you’re writing.
+
+39
+00:02:59,600 --> 00:03:02,420
+Make this as short as possible.
+
+40
+00:03:02,420 --> 00:03:07,970
+If you’re writing to someone who receives
+hundreds of emails every day, you need to
+
+41
+00:03:07,970 --> 00:03:12,319
+make your purpose clear quickly.
+
+42
+00:03:12,319 --> 00:03:17,150
+Someone who’s very busy won’t spend a
+lot of time trying to work out what you’re
+
+43
+00:03:17,150 --> 00:03:20,020
+trying to say!
+
+44
+00:03:20,020 --> 00:03:23,550
+How can you do this?
+
+45
+00:03:23,550 --> 00:03:26,050
+Start with a simple phrase, like:
+
+46
+00:03:26,050 --> 00:03:29,000
+I’m writing regarding…
+
+47
+00:03:29,000 --> 00:03:32,110
+I wanted to follow up on…
+
+48
+00:03:32,110 --> 00:03:35,800
+I would like to ask about…
+
+49
+00:03:35,800 --> 00:03:38,600
+These phrases are slightly more formal.
+
+50
+00:03:38,600 --> 00:03:42,500
+Let’s see how you could use them:
+
+51
+00:03:42,500 --> 00:03:50,090
+I’m writing regarding the issues we’ve
+been having with our database system.
+
+52
+00:03:50,090 --> 00:03:57,710
+I wanted to follow up on our meeting last
+week and confirm our plans for this month.
+
+53
+00:03:57,710 --> 00:04:05,160
+I would like to ask about the new budget and
+whether this will affect our department.
+
+54
+00:04:05,160 --> 00:04:09,420
+In a more informal email, you wouldn’t use
+a phrase like this.
+
+55
+00:04:09,420 --> 00:04:16,010
+You might ask a more direct question or make
+a direct statement, like this:
+
+56
+00:04:16,010 --> 00:04:20,090
+Do you know when the database issues will
+be fixed?
+
+57
+00:04:20,090 --> 00:04:26,200
+Let’s confirm our plans for this month.
+
+58
+00:04:26,200 --> 00:04:31,720
+How will the new budget affect our department?
+
+59
+00:04:31,720 --> 00:04:37,160
+If you’re writing because you want to find
+a solution to a problem, here are some useful
+
+60
+00:04:37,160 --> 00:04:38,200
+phrases:
+
+61
+00:04:38,200 --> 00:04:46,640
+I’m concerned about… or
+I need to bring something to your attention.
+
+62
+00:04:46,780 --> 00:04:50,680
+Again, these are more formal phrases.
+
+63
+00:04:50,680 --> 00:04:54,530
+Let’s see how you can use them:
+
+64
+00:04:54,530 --> 00:05:00,690
+I’m concerned about the number of sick days
+staff have been taking recently.
+
+65
+00:05:00,690 --> 00:05:07,320
+I need to bring something to your attention:
+using outdated software puts us at risk of
+
+66
+00:05:07,320 --> 00:05:12,460
+malware infections and data loss.
+
+67
+00:05:12,460 --> 00:05:14,300
+Now it’s your turn.
+
+68
+00:05:14,300 --> 00:05:19,720
+Imagine that you’re writing an email to
+your manager, colleague, or client.
+
+69
+00:05:19,720 --> 00:05:26,740
+You need to write an appropriate greeting,
+then write one or two sentences to explain
+
+70
+00:05:26,740 --> 00:05:29,970
+why you’re writing.
+
+71
+00:05:29,970 --> 00:05:32,320
+Pause the video and do it now!
+
+72
+00:05:32,320 --> 00:05:36,770
+Start again when you’ve finished.
+
+73
+00:05:36,770 --> 00:05:38,460
+Ready?
+
+74
+00:05:38,460 --> 00:05:40,540
+Let’s move on.
+
+75
+00:05:43,320 --> 00:05:50,920
+After you introduce why you’re writing,
+you need to add more details and supporting information,
+
+76
+00:05:50,930 --> 00:05:56,490
+so that your reader understands the situation
+you’re describing.
+
+77
+00:05:56,490 --> 00:06:01,479
+Put this information in a new paragraph.
+
+78
+00:06:01,479 --> 00:06:06,080
+This will make your email clear and easy to
+follow.
+
+79
+00:06:06,080 --> 00:06:15,560
+First, ask yourself what the person you’re
+writing to needs to know.
+
+80
+00:06:15,560 --> 00:06:17,770
+With emails, less is more.
+
+81
+00:06:17,770 --> 00:06:22,460
+No one wants to read a very long email, and
+it’s hard to make yourself clear if you
+
+82
+00:06:22,460 --> 00:06:24,650
+write too much.
+
+83
+00:06:24,650 --> 00:06:30,180
+So, try to limit yourself to two to three
+sentences.
+
+84
+00:06:30,180 --> 00:06:32,460
+Put your most important point first.
+
+85
+00:06:32,460 --> 00:06:36,750
+Let’s look at some examples:
+
+86
+00:06:36,750 --> 00:06:42,990
+I’m writing regarding the issues we’ve
+been having with our database
+
+87
+00:06:42,990 --> 00:06:49,449
+Both clients and staff have been experiencing
+severe problems for several days now.
+
+88
+00:06:49,449 --> 00:06:56,870
+We are unable to update records or access
+information on customer interactions.
+
+89
+00:06:56,870 --> 00:07:04,139
+This is costing us large amounts of money,
+both in time spent trying to fix the problem,
+
+90
+00:07:04,139 --> 00:07:06,330
+and in lost sales.
+
+91
+00:07:06,330 --> 00:07:09,070
+Here’s one more:
+
+92
+00:07:09,070 --> 00:07:16,000
+I’m concerned about the number of sick days
+staff have been taking recently.
+
+93
+00:07:16,000 --> 00:07:22,940
+Staff in the IT department have taken a total
+of 44 sick days so far this month, compared
+
+94
+00:07:22,940 --> 00:07:28,960
+to a total of 23 for last month, and just
+18 for the previous month.
+
+95
+00:07:28,960 --> 00:07:36,150
+This is affecting productivity, and also placing
+a lot of stress on the employees who do come
+
+96
+00:07:36,150 --> 00:07:37,880
+to work.
+
+97
+00:07:37,900 --> 00:07:42,720
+In both cases, you’re writing to describe
+a problem.
+
+98
+00:07:42,729 --> 00:07:51,400
+Your first sentence introduces the problem,
+and then your next paragraph gives more details.
+
+99
+00:07:51,400 --> 00:07:58,870
+You can see that in both examples, we use
+just two sentences, but you can include a
+
+100
+00:07:58,870 --> 00:08:02,449
+lot of useful information in two sentences.
+
+101
+00:08:02,449 --> 00:08:10,810
+If you have more than one point to make in
+your email, you can repeat this pattern: first
+
+102
+00:08:10,810 --> 00:08:18,960
+put a short sentence to introduce your point,
+then add a paragraph with two to three sentences
+
+103
+00:08:18,960 --> 00:08:21,280
+to add details.
+
+104
+00:08:21,280 --> 00:08:26,370
+You can move from one point to another using
+a phrase like:
+
+105
+00:08:26,370 --> 00:08:31,590
+There’s one more thing I’d like to discuss
+with you.
+
+106
+00:08:31,590 --> 00:08:33,380
+Regarding…
+
+107
+00:08:33,380 --> 00:08:38,959
+I’d also like to ask you about…
+
+108
+00:08:38,959 --> 00:08:44,939
+Use one of these phrases to change the topic,
+and then introduce your next point.
+
+109
+00:08:44,939 --> 00:08:47,139
+For example:
+
+110
+00:08:47,139 --> 00:08:51,970
+There’s one more thing I’d like to discuss
+with you.
+
+111
+00:08:51,970 --> 00:08:58,389
+It seems like the number of customer complaints
+has been increasing for three months…
+
+112
+00:08:58,389 --> 00:09:02,459
+Now, you can practice.
+
+113
+00:09:02,459 --> 00:09:04,410
+Take the email you started before.
+
+114
+00:09:04,410 --> 00:09:11,180
+Add a new paragraph, which should be two to
+three sentences long.
+
+115
+00:09:11,180 --> 00:09:15,990
+Add details to the point you introduced before.
+
+116
+00:09:15,990 --> 00:09:18,629
+Pause the video and do it now.
+
+117
+00:09:18,629 --> 00:09:25,360
+If you want extra practice, add another topic
+to your email, using one of the linking phrases
+
+118
+00:09:25,360 --> 00:09:27,769
+you just saw.
+
+119
+00:09:27,769 --> 00:09:32,540
+After you explain all the points you want
+to make, what should you do next?
+
+120
+00:09:35,920 --> 00:09:42,620
+When you write an email, you should make it
+clear what you expect from the person you’re
+
+121
+00:09:42,639 --> 00:09:45,199
+sending it to.
+
+122
+00:09:45,199 --> 00:09:49,970
+Even if you’re writing just to give the
+other person some information, it’s a good
+
+123
+00:09:49,970 --> 00:09:53,529
+idea to make that clear.
+
+124
+00:09:53,529 --> 00:09:56,420
+Put your call to action in a new paragraph.
+
+125
+00:09:56,420 --> 00:10:03,680
+Again, putting each thing in its own paragraph
+makes your email structured and easy to follow.
+
+126
+00:10:03,680 --> 00:10:06,850
+So, what can you write here?
+
+127
+00:10:06,850 --> 00:10:15,949
+First, let’s consider situations where you
+need the other person to do something urgently.
+
+128
+00:10:15,949 --> 00:10:18,420
+You could say:
+
+129
+00:10:18,420 --> 00:10:23,499
+Please … by tomorrow at the latest.
+
+130
+00:10:23,499 --> 00:10:26,959
+As a matter of urgency, you need to…
+
+131
+00:10:26,959 --> 00:10:30,160
+For example:
+
+132
+00:10:30,160 --> 00:10:36,540
+Please arrange a meeting of all department
+heads by tomorrow at the latest.
+
+133
+00:10:36,540 --> 00:10:42,759
+As a matter of urgency, you need to contact
+all the clients who may have been affected
+
+134
+00:10:42,759 --> 00:10:45,000
+by this data breach.
+
+135
+00:10:45,000 --> 00:10:50,699
+If your request is less urgent, you could
+use phrases such as:
+
+136
+00:10:50,699 --> 00:10:53,930
+Could you please…?
+
+137
+00:10:53,930 --> 00:10:56,369
+I would like you to…
+
+138
+00:10:56,369 --> 00:10:59,749
+For example:
+
+139
+00:10:59,749 --> 00:11:05,989
+Could you please talk to Matt in the HR department
+and clarify our options on this?
+
+140
+00:11:05,989 --> 00:11:11,639
+I would like you to design a poster to inform
+staff about the new policies.
+
+141
+00:11:11,639 --> 00:11:18,360
+With calls to action, you should think about
+your relationship with the person you’re
+
+142
+00:11:18,360 --> 00:11:20,060
+writing to.
+
+143
+00:11:20,060 --> 00:11:29,790
+For example, saying something like, you need
+to… or I would like you to… is relatively
+
+144
+00:11:29,790 --> 00:11:31,180
+direct.
+
+145
+00:11:31,180 --> 00:11:39,709
+That’s fine if you’re a manager writing
+to one of your team, but it might sound inappropriate
+
+146
+00:11:39,709 --> 00:11:43,329
+if you write that to your manager.
+
+147
+00:11:43,329 --> 00:11:47,120
+This also depends on the corporate culture
+where you work.
+
+148
+00:11:47,120 --> 00:11:54,019
+Generally, if you aren’t sure, it’s better
+to be less direct.
+
+149
+00:11:54,019 --> 00:11:55,199
+For example:
+
+150
+00:11:55,199 --> 00:12:00,540
+I suggest that you contact all clients who
+may have been affected by the data breach.
+
+151
+00:12:00,540 --> 00:12:07,540
+Can I ask you to design a poster to inform
+staff about the new policies?
+
+152
+00:12:07,540 --> 00:12:10,500
+But, be careful!
+
+153
+00:12:10,500 --> 00:12:18,320
+Don’t be so indirect that the other person
+doesn’t understand what you need.
+
+154
+00:12:18,320 --> 00:12:23,949
+If you don’t need a response from the other
+person, say something like:
+
+155
+00:12:23,949 --> 00:12:28,260
+This is just to keep you updated.
+
+156
+00:12:28,260 --> 00:12:35,139
+This doesn’t require any immediate response,
+but please keep an eye on the situation.
+
+157
+00:12:35,139 --> 00:12:38,269
+Now, it’s your turn!
+
+158
+00:12:38,269 --> 00:12:44,990
+Pause the video and add a call to action to
+the end of your email.
+
+159
+00:12:44,990 --> 00:12:50,500
+Think about who you’re writing to, and make
+your call-to-action appropriately direct or
+
+160
+00:12:50,500 --> 00:12:52,379
+indirect.
+
+161
+00:12:52,380 --> 00:12:55,820
+So, now you’re nearly finished.
+
+162
+00:12:55,820 --> 00:12:57,520
+What’s left?
+
+163
+00:13:00,500 --> 00:13:05,379
+Finish your email with a sign-off and your
+name.
+
+164
+00:13:05,379 --> 00:13:12,509
+You can use a lot of the same sign-offs you
+can use in a paper letter, such as:
+
+165
+00:13:12,509 --> 00:13:16,350
+Regards,
+Best Wishes,
+
+166
+00:13:16,350 --> 00:13:18,910
+Kind Regards,
+
+167
+00:13:18,910 --> 00:13:24,179
+Like with greetings, you wouldn’t generally
+use very formal sign-offs like Yours Sincerely
+
+168
+00:13:24,179 --> 00:13:26,709
+in an email.
+
+169
+00:13:26,709 --> 00:13:30,759
+You might see it sometimes, but only in very
+formal emails.
+
+170
+00:13:30,759 --> 00:13:35,649
+Don’t forget to write each word of your
+sign-off with a capital letter, and put a
+
+171
+00:13:35,649 --> 00:13:38,279
+comma at the end.
+
+172
+00:13:38,279 --> 00:13:44,759
+The sign-offs you’ve just seen are neutral
+and can be used in almost any situation.
+
+173
+00:13:44,759 --> 00:13:53,029
+If you’re writing something more informal,
+you might use a sign-off like:
+
+174
+00:13:53,029 --> 00:13:56,029
+Cheers,
+Take care,
+
+175
+00:13:56,029 --> 00:14:02,889
+In this case, you wouldn’t capitalise each
+word, which is why care in take care has a
+
+176
+00:14:02,889 --> 00:14:05,970
+small ‘c’.
+
+177
+00:14:05,970 --> 00:14:11,509
+Like with greetings, you might not need a
+sign-off at all in an informal email.
+
+178
+00:14:11,509 --> 00:14:16,720
+Just write your name at the bottom, or don’t
+write anything at all!
+
+179
+00:14:16,720 --> 00:14:23,020
+After you put your sign-off, add your name,
+and you’ve finished!
+
+180
+00:14:23,020 --> 00:14:23,880
+For example,
+
+181
+00:14:23,880 --> 00:14:25,100
+Regards,
+
+182
+00:14:25,100 --> 00:14:26,880
+Vijay
+
+183
+00:14:26,880 --> 00:14:27,980
+Cheers,
+
+184
+00:14:27,980 --> 00:14:28,840
+Katya
+
+185
+00:14:30,700 --> 00:14:36,499
+Now you know how to write a clear, effective
+email in English.
+
+186
+00:14:36,500 --> 00:14:40,180
+Let’s put everything you’ve learned together.
+
+187
+00:14:44,300 --> 00:14:50,000
+To write an effective email in English, you
+need to:
+
+188
+00:14:50,000 --> 00:14:53,080
+1. Use an appropriate greeting.
+
+189
+00:14:53,080 --> 00:14:57,380
+2. Introduce your topic in a single sentence.
+
+190
+00:14:57,380 --> 00:15:03,720
+3. Add details to your topic in a short paragraph.
+
+191
+00:15:03,720 --> 00:15:09,460
+4. Add a call-to-action to explain what you need
+the other person to do.
+
+192
+00:15:09,460 --> 00:15:13,240
+5. Use an appropriate signoff.
+
+193
+00:15:13,240 --> 00:15:17,400
+Let’s do a longer example together:
+
+194
+00:15:17,410 --> 00:15:18,410
+Dear Lina,
+
+195
+00:15:18,410 --> 00:15:25,439
+I need to bring something to your attention:
+many staff are using very weak passwords on
+
+196
+00:15:25,439 --> 00:15:29,899
+their laptops and for database access.
+
+197
+00:15:29,899 --> 00:15:36,509
+Our work depends on keeping our clients’
+personal financial information safe.
+
+198
+00:15:36,509 --> 00:15:42,910
+If we lose our clients’ trust on this issue,
+it will not be easy to recover.
+
+199
+00:15:42,910 --> 00:15:49,619
+I trust that you can see that it is better
+to take action now, rather than after something
+
+200
+00:15:49,619 --> 00:15:51,730
+goes wrong.
+
+201
+00:15:51,730 --> 00:15:58,869
+I suggest we make a rule that passwords must
+be a specific length, and that staff must
+
+202
+00:15:58,869 --> 00:16:03,689
+change their passwords at least once a month.
+
+203
+00:16:03,689 --> 00:16:07,819
+Please let me know what you think about this.
+
+204
+00:16:07,819 --> 00:16:10,069
+Regards,
+
+205
+00:16:10,069 --> 00:16:12,319
+Vijay
+
+206
+00:16:12,319 --> 00:16:16,759
+What do you think: could you write an email
+like this?
+
+207
+00:16:16,759 --> 00:16:18,329
+Try it!
+
+208
+00:16:18,329 --> 00:16:21,559
+Use words and phrases from the lesson.
+
+209
+00:16:21,559 --> 00:16:27,549
+Remember to organise your email into paragraphs,
+like we showed you.
+
+210
+00:16:27,549 --> 00:16:33,760
+This will make it easier to keep your ideas
+structured and clear.
+
+211
+00:16:33,760 --> 00:16:37,300
+For more free English lessons check out our website:
+
+212
+00:16:37,300 --> 00:16:41,040
+Oxford Online English dot com
+
+213
+00:16:41,040 --> 00:16:44,360
+Thanks for watching! See you next time!
+

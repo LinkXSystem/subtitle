@@ -1,0 +1,729 @@
+1
+00:00:02,060 --> 00:00:03,060
+Hello, I'm Oli.
+
+2
+00:00:03,060 --> 00:00:05,130
+Welcome to Oxford Online English.
+
+3
+00:00:05,130 --> 00:00:09,040
+In this lesson, you can learn about using
+commas.
+
+4
+00:00:09,040 --> 00:00:13,900
+Students often seem very confused about commas
+and how to use them correctly.
+
+5
+00:00:13,900 --> 00:00:18,289
+Commas are quite complicated, because they
+don't just do one thing.
+
+6
+00:00:18,289 --> 00:00:22,630
+Actually, commas have many different jobs
+in the sentence.
+
+7
+00:00:22,630 --> 00:00:28,279
+So in this lesson, I'll explain the different
+types of comma, what they do and how you can
+
+8
+00:00:28,279 --> 00:00:30,109
+use them.
+
+9
+00:00:30,109 --> 00:00:34,940
+Let's start with our first type of comma:
+the listing comma.
+
+10
+00:00:34,940 --> 00:00:41,540
+As the name suggests, the listing comma is
+used to list items or ideas one after another.
+
+11
+00:00:41,540 --> 00:00:49,480
+For example: "We need two cucumbers, four
+tomatoes, some onions and a lettuce."
+
+12
+00:00:49,480 --> 00:00:53,300
+We use commas to separate the items on the
+list.
+
+13
+00:00:53,300 --> 00:00:58,030
+Before the word 'and' in British English,
+we don't usually use a comma.
+
+14
+00:00:58,030 --> 00:01:02,990
+In American English, a comma is often used
+before 'and'.
+
+15
+00:01:02,990 --> 00:01:05,390
+It's your choice which style you use.
+
+16
+00:01:05,390 --> 00:01:07,100
+Both are correct.
+
+17
+00:01:07,100 --> 00:01:12,259
+This comma - the listing comma - replaces
+the words 'and' or 'or'.
+
+18
+00:01:12,259 --> 00:01:19,159
+You could say: "We need two cucumbers and
+four tomatoes and some onions and a lettuce."
+
+19
+00:01:19,159 --> 00:01:25,770
+It's not wrong, but it doesn't sound good,
+so it's better to use the commas.
+
+20
+00:01:25,770 --> 00:01:30,420
+Your list could include phrases, or even complete
+sentences.
+
+21
+00:01:30,420 --> 00:01:32,350
+The principle is the same.
+
+22
+00:01:32,350 --> 00:01:38,579
+For example: "We spent our time relaxing on
+the beach, swimming in the sea and drinking
+
+23
+00:01:38,579 --> 00:01:41,670
+coffee in the seaside cafés."
+
+24
+00:01:41,670 --> 00:01:46,900
+In this case, the items on our list are whole
+phrases; they're not just single words, but
+
+25
+00:01:46,900 --> 00:01:48,719
+the principle is the same.
+
+26
+00:01:48,719 --> 00:01:56,289
+We use a comma after each item, and in British
+English, not before the word 'and'.
+
+27
+00:01:56,289 --> 00:02:02,840
+You can also use the listing comma - sometimes-
+to separate adjectives before a noun.
+
+28
+00:02:02,840 --> 00:02:07,220
+Look at two sentences: "She has long, dark,
+shiny hair."
+
+29
+00:02:07,220 --> 00:02:12,129
+"He bought a bottle of dark, German beer."
+
+30
+00:02:12,129 --> 00:02:17,370
+In the first sentence, we use listing commas
+to separate the adjectives.
+
+31
+00:02:17,370 --> 00:02:20,290
+In the second sentence, we don't.
+
+32
+00:02:20,290 --> 00:02:22,019
+Can you see why?
+
+33
+00:02:22,019 --> 00:02:28,640
+Well, remember we said that the listing comma
+replaces the words 'and' or 'or'.
+
+34
+00:02:28,640 --> 00:02:33,319
+You can say: "She has long and dark and shiny
+hair."
+
+35
+00:02:33,319 --> 00:02:36,510
+It doesn't sound good, but it's possible.
+
+36
+00:02:36,510 --> 00:02:41,629
+so in this case we use listing commas between
+the adjectives.
+
+37
+00:02:41,629 --> 00:02:46,829
+But you cannot say: "He bought a bottle of
+dark and German beer."
+
+38
+00:02:46,829 --> 00:02:51,420
+It's not possible, so in this case we don't
+use listing commas.
+
+39
+00:02:51,420 --> 00:02:57,819
+If you're not sure, you can use this trick:
+try replacing the commas with the word 'and'.
+
+40
+00:02:57,819 --> 00:03:00,940
+If it sounds OK, then you need commas.
+
+41
+00:03:00,940 --> 00:03:04,560
+If it doesn't sound right, you don't need
+commas.
+
+42
+00:03:04,560 --> 00:03:07,150
+OK, what's our second comma?
+
+43
+00:03:07,150 --> 00:03:08,680
+It's the joining comma!
+
+44
+00:03:08,680 --> 00:03:14,110
+The joining comma is used to join two complete
+sentences, together with a linking word.
+
+45
+00:03:14,110 --> 00:03:21,610
+For example: "We were tired, and we really
+didn't feel like going anywhere."
+
+46
+00:03:21,610 --> 00:03:26,379
+In this sentence, each half of the sentence
+could stand by itself.
+
+47
+00:03:26,379 --> 00:03:33,780
+"We were tired," is a complete sentence, and
+"We really didn't feel like going anywhere,"
+
+48
+00:03:33,780 --> 00:03:36,220
+is also a complete sentence.
+
+49
+00:03:36,220 --> 00:03:43,359
+So we can put the two sentences together with
+a comma and the linking word 'and'.
+
+50
+00:03:43,359 --> 00:03:49,670
+Other linking words you can use in this way
+include 'and', 'but', 'or' or 'although'.
+
+51
+00:03:49,670 --> 00:03:53,860
+There are many others as well; that's not
+a complete list.
+
+52
+00:03:53,860 --> 00:03:59,209
+However, you do need to be careful with these
+commas; you can't use a comma to join two
+
+53
+00:03:59,209 --> 00:04:03,170
+complete sentences without using a linking
+word.
+
+54
+00:04:03,170 --> 00:04:07,459
+You also can't use joining commas with some
+linking words.
+
+55
+00:04:07,459 --> 00:04:14,670
+Let's practise: look at some sentences and
+see if they're right or wrong.
+
+56
+00:04:14,670 --> 00:04:17,000
+Here are the four sentences.
+
+57
+00:04:17,000 --> 00:04:22,150
+Read them, pause the video and think about
+your answer - which are correct and which
+
+58
+00:04:22,150 --> 00:04:25,780
+are not correct in terms of comma use?
+
+59
+00:04:25,780 --> 00:04:28,380
+OK, ready?
+
+60
+00:04:28,380 --> 00:04:29,820
+Let's look at the answers.
+
+61
+00:04:29,820 --> 00:04:32,510
+(1) and (4) are correct.
+
+62
+00:04:32,510 --> 00:04:35,530
+(2) and (3) are not correct.
+
+63
+00:04:35,530 --> 00:04:38,600
+Let's see why.
+
+64
+00:04:38,600 --> 00:04:43,950
+Sentence two: "I applied for the job, I really
+hope I get it," is not correct because there's
+
+65
+00:04:43,950 --> 00:04:46,980
+no linking word between the sentences.
+
+66
+00:04:46,980 --> 00:04:53,120
+You could say: "I applied for the job, and
+I really hope I get it."
+
+67
+00:04:53,120 --> 00:04:55,500
+You could also say: "I applied for the job."
+
+68
+00:04:55,500 --> 00:04:59,080
+- full stop - "I really hope I get it."
+
+69
+00:04:59,080 --> 00:05:05,490
+But you can't use a comma to join two full
+sentences like this.
+
+70
+00:05:05,490 --> 00:05:10,139
+In the second sentence: "She didn't get the
+grades she needed, however she got into the
+
+71
+00:05:10,139 --> 00:05:12,550
+university in any case."
+
+72
+00:05:12,550 --> 00:05:18,770
+We use the linking word 'however', but we
+don't use commas with 'however'.
+
+73
+00:05:18,770 --> 00:05:24,520
+The best way to link these sentences is with
+a full stop, so we put a full stop after the
+
+74
+00:05:24,520 --> 00:05:30,680
+word 'needed', and then start a new sentence
+with 'however'.
+
+75
+00:05:30,680 --> 00:05:35,020
+You might be thinking that number four is
+wrong because the second part of the sentence
+
+76
+00:05:35,020 --> 00:05:37,130
+isn't a full sentence.
+
+77
+00:05:37,130 --> 00:05:42,100
+That's true, but the important point is that
+it could be a full sentence.
+
+78
+00:05:42,100 --> 00:05:47,270
+You could say: "You'll either have to start
+again, or you'll have to find someone to help
+
+79
+00:05:47,270 --> 00:05:48,410
+you."
+
+80
+00:05:48,410 --> 00:05:54,650
+We shorten the sentence to make it simpler
+and easier to say, so it's OK to use the joining
+
+81
+00:05:54,650 --> 00:05:56,919
+comma here.
+
+82
+00:05:56,919 --> 00:05:59,500
+Number three is the bracketing comma.
+
+83
+00:05:59,500 --> 00:06:02,790
+This is possibly the most difficult comma
+to use.
+
+84
+00:06:02,790 --> 00:06:07,960
+It's used to add an extra phrase or piece
+of information into a sentence.
+
+85
+00:06:07,960 --> 00:06:10,550
+It's often used in pairs.
+
+86
+00:06:10,550 --> 00:06:19,160
+For example: "This book, first published in
+1956, is still useful for students today."
+
+87
+00:06:19,160 --> 00:06:24,389
+The phrase in red is extra information about
+the book, and so we put it between a pair
+
+88
+00:06:24,389 --> 00:06:25,960
+of commas.
+
+89
+00:06:25,960 --> 00:06:33,370
+"One of my colleagues, who used to be a semi-professional
+footballer, invited me to play in their five-a-side
+
+90
+00:06:33,370 --> 00:06:35,050
+team this weekend."
+
+91
+00:06:35,050 --> 00:06:41,199
+Again, the information in red is extra information
+about my colleague, and so the information
+
+92
+00:06:41,199 --> 00:06:49,490
+goes between a pair of commas.To use bracketing
+commas, the sentence must make sense and be
+
+93
+00:06:49,490 --> 00:06:54,220
+grammatically complete without the extra information.
+
+94
+00:06:54,220 --> 00:07:01,910
+In these cases you can see that if we remove
+the information in red: "This book is still
+
+95
+00:07:01,910 --> 00:07:08,389
+useful for students today" - that's still
+a complete sentence and it makes sense.
+
+96
+00:07:08,389 --> 00:07:13,889
+Also, if I say: "One of my colleagues invited
+me to play in their five-a-side team this
+
+97
+00:07:13,889 --> 00:07:19,930
+weekend," again, that's a full sentence; it's
+grammatically correct; it's clear - we don't
+
+98
+00:07:19,930 --> 00:07:27,270
+need the information between the bracketing
+commas for the sentence to make sense.
+
+99
+00:07:27,270 --> 00:07:33,789
+In both cases, the sentence is complete and
+the meaning is clear without the extra information.
+
+100
+00:07:33,789 --> 00:07:37,600
+This makes it easy to see if your commas are
+correct or not.
+
+101
+00:07:37,600 --> 00:07:43,040
+If you're using commas in this way, ask yourself
+whether the sentence would make sense without
+
+102
+00:07:43,040 --> 00:07:45,880
+the phrase between commas.
+
+103
+00:07:45,880 --> 00:07:48,620
+If not, something is wrong.
+
+104
+00:07:48,620 --> 00:07:56,319
+For example: "He was a strict, and sometimes
+cruel leader, who was feared by his staff."
+
+105
+00:07:56,319 --> 00:08:04,159
+This might look OK, but if we try to remove
+the red text between commas, we get: "He was
+
+106
+00:08:04,159 --> 00:08:07,300
+a strict who was feared by his staff."
+
+107
+00:08:07,300 --> 00:08:08,470
+This doesn't make sense.
+
+108
+00:08:08,470 --> 00:08:11,729
+He was a strict what?
+
+109
+00:08:11,729 --> 00:08:18,229
+Another example: "Pens, which can write upside-down,
+are used by NASA astronauts on the International
+
+110
+00:08:18,229 --> 00:08:19,229
+Space Station."
+
+111
+00:08:19,229 --> 00:08:28,629
+Again, it looks OK, but if we remove the red
+text - the extra information - we get: "Pens
+
+112
+00:08:28,629 --> 00:08:32,530
+are used by NASA astronauts on the International
+Space Station."
+
+113
+00:08:32,530 --> 00:08:38,950
+Now this is a clear sentence and it's grammatically
+correct, but it has a different meaning.
+
+114
+00:08:38,950 --> 00:08:42,690
+We didn't want to say that just any pens are
+used.
+
+115
+00:08:42,690 --> 00:08:48,940
+We wanted to say that a special kind of pen
+is used, so we've changed the meaning of the
+
+116
+00:08:48,940 --> 00:08:51,020
+sentence.
+
+117
+00:08:51,020 --> 00:08:56,100
+If the extra phrase is near the beginning
+or the end of a sentence, you might just use
+
+118
+00:08:56,100 --> 00:09:00,200
+one bracketing comma instead of using a pair.
+
+119
+00:09:00,200 --> 00:09:05,940
+Let's look: "Similar to most people his age,
+he isn't really thinking about his future."
+
+120
+00:09:05,940 --> 00:09:12,650
+Again, the text in red is extra information,
+but it comes at the beginning of the sentence.
+
+121
+00:09:12,650 --> 00:09:16,500
+That means we don't need two commas; we can
+just use one.
+
+122
+00:09:16,500 --> 00:09:22,800
+"He told me that he wanted to quit and become
+a painter, which surprised me."
+
+123
+00:09:22,800 --> 00:09:27,890
+Again, it's extra information, but it's at
+the end of the sentence, so we just use one
+
+124
+00:09:27,890 --> 00:09:30,810
+comma and then a full stop.
+
+125
+00:09:30,810 --> 00:09:34,790
+Finally, let's look at some common mistakes
+with commas.
+
+126
+00:09:34,790 --> 00:09:39,149
+There are three mistakes which I see students
+making a lot.
+
+127
+00:09:39,149 --> 00:09:43,630
+Let's look so you can hopefully avoid making
+these mistakes.
+
+128
+00:09:43,630 --> 00:09:48,240
+Don't put a comma between a subject and its
+verb.
+
+129
+00:09:48,240 --> 00:09:55,470
+For example, this sentence is incorrect, because
+'The people we met on holiday' is the subject;
+
+130
+00:09:55,470 --> 00:09:58,380
+'were' is the main verb.
+
+131
+00:09:58,380 --> 00:10:04,290
+There should not be a comma between the subject
+and the main verb.
+
+132
+00:10:04,290 --> 00:10:07,070
+In this sentence, we have the same problem.
+
+133
+00:10:07,070 --> 00:10:13,040
+The subject, again, is not one word; it's
+a phrase: 'Everything in those cupboards'.
+
+134
+00:10:13,040 --> 00:10:17,990
+The main verb is 'needs', so again, there
+should not be a comma between the subject
+
+135
+00:10:17,990 --> 00:10:21,820
+and the main verb.
+
+136
+00:10:21,820 --> 00:10:24,110
+Don't use a comma before 'that'.
+
+137
+00:10:24,110 --> 00:10:27,070
+This is a useful rule, because it's quite
+easy.
+
+138
+00:10:27,070 --> 00:10:34,639
+"She told me, that she wanted to move to London,"
+or: "I had no idea, that he could speak Japanese."
+
+139
+00:10:34,639 --> 00:10:41,240
+In both of these sentences there should not
+be a comma before 'that'.
+
+140
+00:10:41,240 --> 00:10:47,280
+Don't use a comma to join two sentences if
+you don't use a linking word.
+
+141
+00:10:47,280 --> 00:10:53,880
+In this case, both parts of the sentence before
+and after the comma could be full sentences
+
+142
+00:10:53,880 --> 00:10:55,800
+by themselves.
+
+143
+00:10:55,800 --> 00:11:01,480
+So in this case, you either need to use a
+linking word, like 'and' or ' but' or 'or'
+
+144
+00:11:01,480 --> 00:11:06,130
+or something like that, or you need to use
+a full stop after 'year'.
+
+145
+00:11:06,130 --> 00:11:09,690
+You can't use a comma like this.
+
+146
+00:11:09,690 --> 00:11:13,110
+Here, we have the same problem.
+
+147
+00:11:13,110 --> 00:11:14,720
+We have two ideas.
+
+148
+00:11:14,720 --> 00:11:20,740
+Each idea could be a sentence by itself, and
+there's no linking word, so we can't use a
+
+149
+00:11:20,740 --> 00:11:26,770
+comma to join two complete sentences like
+this without a linking word.
+
+150
+00:11:26,770 --> 00:11:29,500
+OK, that's the end of the lesson.
+
+151
+00:11:29,500 --> 00:11:30,970
+I hope it was useful.
+
+152
+00:11:30,970 --> 00:11:36,070
+If you want to see the full lesson, which
+includes the text, so you can read everything,
+
+153
+00:11:36,070 --> 00:11:43,850
+and also a quiz to help you practise and test
+your comma skill, come to our website: www.oxfordonlineenglish.com.
+
+154
+00:11:43,850 --> 00:11:47,079
+There are also many other free English lessons
+there.
+
+155
+00:11:47,079 --> 00:11:48,079
+But that's all.
+
+156
+00:11:48,079 --> 00:11:50,070
+Thanks again for watching, and I'll see you
+next time.
+
+157
+00:11:50,070 --> 00:11:50,750
+Bye bye!
+

@@ -1,0 +1,1391 @@
+1
+00:00:01,530 --> 00:00:02,900
+Hi, I’m Oli.
+
+2
+00:00:02,900 --> 00:00:05,210
+Welcome to Oxford Online English!
+
+3
+00:00:05,210 --> 00:00:08,580
+Do you need band seven in IELTS?
+
+4
+00:00:08,580 --> 00:00:13,750
+Are you maybe stuck at band six or 6.5?
+
+5
+00:00:13,750 --> 00:00:18,840
+If you’ve taken the IELTS exam many times,
+and you can’t seem to get higher than six
+
+6
+00:00:18,840 --> 00:00:23,250
+in the writing exam, this video is for you.
+
+7
+00:00:23,250 --> 00:00:28,900
+If you’re stuck at band six, then it’s
+likely that you have some bad habits and ineffective
+
+8
+00:00:28,900 --> 00:00:31,730
+approaches to the writing exam.
+
+9
+00:00:31,730 --> 00:00:37,059
+These are things that might work well at band
+six, but they won’t help you to get band
+
+10
+00:00:37,059 --> 00:00:38,059
+seven.
+
+11
+00:00:38,059 --> 00:00:44,710
+I’ll show you what these ineffective habits
+are, and how you can change them.
+
+12
+00:00:44,710 --> 00:00:49,809
+One point: I’ll be focusing on the academic
+IELTS exam in this video, because most of
+
+13
+00:00:49,809 --> 00:00:53,309
+the students I meet need academic IELTS.
+
+14
+00:00:53,309 --> 00:00:58,329
+If you’re taking general IELTS, most of
+the advice in this video is still very relevant
+
+15
+00:00:58,329 --> 00:00:59,949
+for you.
+
+16
+00:00:59,949 --> 00:01:04,269
+Also, one more thing: there’s nothing wrong
+with getting band six!
+
+17
+00:01:04,269 --> 00:01:08,180
+I’m not trying to be rude or discouraging
+to anyone.
+
+18
+00:01:08,180 --> 00:01:13,219
+When I say that something is a bad habit,
+or that you need to change something, I mean
+
+19
+00:01:13,219 --> 00:01:16,910
+if you want to get band 7.0 in the IELTS writing
+exam.
+
+20
+00:01:16,910 --> 00:01:17,910
+But first…
+
+21
+00:01:17,910 --> 00:01:20,420
+Do you know how IELTS scoring works?
+
+22
+00:01:20,420 --> 00:01:21,420
+You should.
+
+23
+00:01:21,420 --> 00:01:22,810
+Here’s why:
+
+24
+00:01:22,810 --> 00:01:27,020
+The IELTS scoring system is very specific.
+
+25
+00:01:27,020 --> 00:01:33,520
+The examiners don’t just look at your writing
+and say, “Hmmm, this feels like a… six!”
+
+26
+00:01:33,520 --> 00:01:39,079
+If you get band six in the IELTS writing exam,
+there are specific reasons why.
+
+27
+00:01:39,079 --> 00:01:44,729
+There are specific things which you did or
+didn’t do which explain your score.
+
+28
+00:01:44,729 --> 00:01:51,210
+Similarly, to get band seven, there are specific
+things you need to do, and not do!
+
+29
+00:01:51,210 --> 00:01:58,290
+Most importantly: these things are very different
+between bands six and seven.
+
+30
+00:01:58,290 --> 00:02:03,049
+If you keep taking IELTS, and you keep getting
+band six in the writing, then you can’t
+
+31
+00:02:03,049 --> 00:02:07,249
+keep doing the same things and expect to get
+a different score.
+
+32
+00:02:07,249 --> 00:02:10,399
+You need to change what you do.
+
+33
+00:02:10,399 --> 00:02:14,860
+The things you need to do to get band seven
+in your IELTS writing aren’t magic or some
+
+34
+00:02:14,860 --> 00:02:16,450
+kind of dark secret.
+
+35
+00:02:16,450 --> 00:02:18,629
+They’re publicly available.
+
+36
+00:02:18,629 --> 00:02:20,970
+You can read what they are.
+
+37
+00:02:20,970 --> 00:02:22,170
+You can do it right now!
+
+38
+00:02:22,170 --> 00:02:24,560
+There’s a link underneath the video.
+
+39
+00:02:24,560 --> 00:02:32,120
+I highly recommend you read the scoring criteria
+and think about what band seven means.
+
+40
+00:02:32,120 --> 00:02:36,260
+At the very least, you need to understand
+that your IELTS writing score is made up of
+
+41
+00:02:36,260 --> 00:02:43,099
+four different parts: task achievement, coherence
+and cohesion, lexical resource (which means
+
+42
+00:02:43,099 --> 00:02:45,590
+vocabulary) and grammar.
+
+43
+00:02:45,590 --> 00:02:49,150
+Think now: where are you weakest?
+
+44
+00:02:49,150 --> 00:02:52,830
+What do you need to work on from these four
+areas?
+
+45
+00:02:52,830 --> 00:02:56,920
+In the rest of this lesson, we’ll talk about
+each of these four areas.
+
+46
+00:02:56,920 --> 00:03:02,379
+You’ll see common examples of ‘band six
+thinking’, and you’ll see how you can
+
+47
+00:03:02,379 --> 00:03:07,129
+improve your approach to get a higher IELTS
+writing score.
+
+48
+00:03:07,129 --> 00:03:11,440
+Let’s start with task achievement.
+
+49
+00:03:11,440 --> 00:03:15,220
+Here are the some ideas that are great for
+getting band six:
+
+50
+00:03:15,220 --> 00:03:21,000
+“In task one, I need to include every statistic
+and piece of data.”
+
+51
+00:03:21,100 --> 00:03:28,299
+“In task two, I just need to write something
+about the general topic in the question.”
+
+52
+00:03:28,299 --> 00:03:32,580
+By the way, to save myself saying ‘task
+achievement’ again and again, I’m going
+
+53
+00:03:32,580 --> 00:03:34,920
+to call it ‘TA’.
+
+54
+00:03:34,920 --> 00:03:38,519
+Getting band 7 for TA is both easy and hard.
+
+55
+00:03:38,519 --> 00:03:43,189
+Here’s why it’s easy: you just need to
+do everything which the question asks you
+
+56
+00:03:43,189 --> 00:03:45,160
+to do, and nothing else.
+
+57
+00:03:45,160 --> 00:03:50,910
+Here’s why it’s hard: most people can’t
+do that without a lot of practice.
+
+58
+00:03:50,910 --> 00:03:55,629
+TA is also slightly different for task one
+and task two, so we’ll talk about those
+
+59
+00:03:55,629 --> 00:03:56,629
+separately.
+
+60
+00:03:56,629 --> 00:03:59,269
+Let’s start with task one.
+
+61
+00:03:59,269 --> 00:04:02,530
+Here’s a sample question:
+
+62
+00:04:02,530 --> 00:04:09,230
+The graph below shows the sales of five different
+food products in the UK between 1980 and 2010.
+
+63
+00:04:09,230 --> 00:04:13,959
+Summarise the information by selecting and
+reporting the main features, and make comparisons
+
+64
+00:04:13,959 --> 00:04:16,780
+where relevant.
+
+65
+00:04:16,780 --> 00:04:20,500
+If you want some time to look at the question,
+pause the video.
+
+66
+00:04:20,500 --> 00:04:24,259
+If you’re watching on YouTube, you can see
+the question on the full version of this lesson
+
+67
+00:04:24,259 --> 00:04:28,870
+on our website: Oxford Online English dot
+com.
+
+68
+00:04:28,870 --> 00:04:34,550
+Getting a good TA score depends a lot on what
+you do before you start writing.
+
+69
+00:04:34,550 --> 00:04:38,600
+You need to analyse the task and make a clear
+plan.
+
+70
+00:04:38,600 --> 00:04:45,720
+If you start writing without a clear plan,
+it’s very hard to get a good TA score.
+
+71
+00:04:45,720 --> 00:04:53,400
+In task one, it’s important to find connections
+or trends in the information you’re given.
+
+72
+00:04:53,400 --> 00:04:58,639
+For example, in this question, how could you
+connect the data?
+
+73
+00:04:58,639 --> 00:05:05,300
+Here’s one idea: you could group the five
+products into, first, products whose sales
+
+74
+00:05:05,300 --> 00:05:12,330
+fell over the period (ice cream and frozen
+burgers), secondly, products whose sales rose
+
+75
+00:05:12,330 --> 00:05:21,020
+(tofu and chili sauce) and finally, products
+whose sales stayed the same (salted peanuts).
+
+76
+00:05:21,020 --> 00:05:27,970
+Here’s another suggestion: group the five
+products into big sellers (ice cream, frozen
+
+77
+00:05:27,970 --> 00:05:34,760
+burgers, and also chili sauce at the end of
+the period), and small sellers (tofu, salted
+
+78
+00:05:34,760 --> 00:05:39,410
+peanuts, chili sauce at the beginning of the
+period).
+
+79
+00:05:39,410 --> 00:05:41,370
+Which way do you think is better?
+
+80
+00:05:41,370 --> 00:05:48,320
+Actually, there isn’t one correct way to
+do this, but you need to do something.
+
+81
+00:05:48,320 --> 00:05:52,820
+You can’t just write about each product,
+one after another.
+
+82
+00:05:52,820 --> 00:05:58,210
+Well, you can, but you’ll probably get band
+six for TA!
+
+83
+00:05:58,210 --> 00:06:02,830
+Whatever data you’re given, you need to
+find connections and put the information into
+
+84
+00:06:02,830 --> 00:06:06,039
+groups which you create.
+
+85
+00:06:06,039 --> 00:06:10,389
+These groups will be separate paragraphs in
+your answer.
+
+86
+00:06:10,389 --> 00:06:15,090
+This is how your answer will have structure,
+which is also important for your coherence
+
+87
+00:06:15,090 --> 00:06:18,050
+and cohesion score.
+
+88
+00:06:18,050 --> 00:06:19,840
+What about task two?
+
+89
+00:06:19,840 --> 00:06:23,380
+Let’s look at a sample question:
+
+90
+00:06:47,340 --> 00:06:53,740
+The most common problem in task two is leaving
+something out or not covering something fully.
+
+91
+00:06:53,740 --> 00:06:59,319
+To get band 7 for TA, you need to do all of
+the things the question is asking you to do,
+
+92
+00:06:59,319 --> 00:07:03,990
+and only the things the question is asking
+you to do.
+
+93
+00:07:03,990 --> 00:07:06,600
+What does that mean here?
+
+94
+00:07:06,600 --> 00:07:09,639
+The task says, ‘discuss both of these viewpoints.’
+
+95
+00:07:09,639 --> 00:07:16,099
+First, you need to discuss the idea ‘that
+young people benefit from working while studying
+
+96
+00:07:16,099 --> 00:07:19,120
+at school or university.’
+
+97
+00:07:19,120 --> 00:07:22,169
+One word here is particularly important.
+
+98
+00:07:22,169 --> 00:07:24,699
+Do you know which one?
+
+99
+00:07:24,699 --> 00:07:28,120
+‘Benefit’ is a key word here.
+
+100
+00:07:28,120 --> 00:07:29,729
+What does ‘benefit’ mean?
+
+101
+00:07:29,729 --> 00:07:32,780
+How do you understand it in this question?
+
+102
+00:07:32,840 --> 00:07:38,800
+Next, you need to discuss the idea, ‘young
+people will achieve more by focusing on their
+
+103
+00:07:38,800 --> 00:07:39,800
+studies.’
+
+104
+00:07:39,800 --> 00:07:44,710
+Again, there’s a key phrase here: ‘achieve
+more’.
+
+105
+00:07:44,710 --> 00:07:46,860
+What does this mean?
+
+106
+00:07:46,860 --> 00:07:49,470
+You need to have answers to these questions.
+
+107
+00:07:49,470 --> 00:07:56,009
+IELTS tasks often contain abstract, general
+words like advantages, benefits, problems,
+
+108
+00:07:56,009 --> 00:07:58,009
+success, etc.
+
+109
+00:07:58,009 --> 00:08:03,900
+To write a good answer, you need to analyse
+and interpret these words yourself.
+
+110
+00:08:03,900 --> 00:08:07,349
+Here, think about ‘achieve more’.
+
+111
+00:08:07,349 --> 00:08:12,440
+How do you understand this term in this question?
+
+112
+00:08:12,440 --> 00:08:18,370
+Does it mean getting good exam results, learning
+more knowledge, learning practical skills,
+
+113
+00:08:18,370 --> 00:08:23,180
+getting a better job, living a full, satisfying
+life, or something else?
+
+114
+00:08:23,180 --> 00:08:29,729
+Again, there isn’t one right answer here,
+but you need to have your own ideas about
+
+115
+00:08:29,729 --> 00:08:30,729
+this.
+
+116
+00:08:30,729 --> 00:08:33,810
+Next, the task says, ‘give your own opinion’.
+
+117
+00:08:33,810 --> 00:08:38,590
+So, you need to explain which side you agree
+with.
+
+118
+00:08:38,590 --> 00:08:44,380
+Finally, the task tells you to give reasons
+and include examples.
+
+119
+00:08:44,380 --> 00:08:47,030
+This means that you need to support your ideas.
+
+120
+00:08:47,030 --> 00:08:50,390
+You can’t just say something like:
+
+121
+00:08:50,390 --> 00:08:54,870
+Young people who focus on their studies will
+achieve more.
+
+122
+00:08:54,870 --> 00:08:59,100
+If you make a point like this, you need to
+support it somehow.
+
+123
+00:08:59,100 --> 00:09:00,750
+How will they achieve more?
+
+124
+00:09:00,750 --> 00:09:04,480
+What examples can you give to show that this
+is true?
+
+125
+00:09:04,480 --> 00:09:11,320
+Let’s review: for this question, you need
+to do four things to get a good TA score:
+
+126
+00:09:11,320 --> 00:09:12,770
+1.
+
+127
+00:09:12,770 --> 00:09:18,120
+Discuss the idea ‘that young people benefit
+from working while studying at school or university,’
+
+128
+00:09:18,120 --> 00:09:21,000
+and analyse what ‘benefit’ means.
+
+129
+00:09:21,300 --> 00:09:26,580
+Discuss the idea that, ‘young people will
+achieve more by focusing on their studies,’
+
+130
+00:09:26,580 --> 00:09:30,840
+and analyse what ‘achieve more’ means.
+
+131
+00:09:31,300 --> 00:09:35,800
+Give your own opinion and reach a clear conclusion.
+
+132
+00:09:36,620 --> 00:09:41,540
+Support your ideas with reasons or examples.
+
+133
+00:09:41,540 --> 00:09:47,920
+If you can do these four things, you can get
+band 7 for TA in your IELTS writing exam.
+
+134
+00:09:47,920 --> 00:09:50,460
+Remember though, it’s not as simple as it
+looks.
+
+135
+00:09:50,460 --> 00:09:53,470
+You will probably need to practise to get
+this right.
+
+136
+00:09:53,470 --> 00:09:58,610
+Next, let’s look at your coherence and cohesion
+score.
+
+137
+00:09:58,610 --> 00:10:05,640
+I’m going to refer to coherence and cohesion
+as C&C, to keep things simple.
+
+138
+00:10:05,640 --> 00:10:10,250
+Here are the habits which can limit your C&C
+score to six:
+
+139
+00:10:10,250 --> 00:10:15,060
+“I need to use more linking words to get
+a higher score.”
+
+140
+00:10:15,060 --> 00:10:21,320
+“My essay should have an introduction, two
+body paragraphs and a conclusion.”
+
+141
+00:10:21,360 --> 00:10:24,180
+Let’s look at each point separately.
+
+142
+00:10:24,300 --> 00:10:25,300
+Oh, hey, Oli!
+
+143
+00:10:25,310 --> 00:10:27,420
+How was your IELTS exam?
+
+144
+00:10:27,420 --> 00:10:28,420
+Amazing!
+
+145
+00:10:28,420 --> 00:10:30,450
+I totally nailed it.
+
+146
+00:10:30,450 --> 00:10:35,850
+I used nevertheless, furthermore, however,
+in spite of the fact that, AND in addition.
+
+147
+00:10:35,850 --> 00:10:39,120
+My band 7 score is GUARANTEED!
+
+148
+00:10:39,180 --> 00:10:42,200
+No, it doesn’t work like that.
+
+149
+00:10:42,200 --> 00:10:46,160
+First of all, linking isn’t just about linking
+words.
+
+150
+00:10:46,160 --> 00:10:51,080
+It’s about the logic and flow of your ideas.
+
+151
+00:10:51,080 --> 00:10:52,480
+Look at a sentence:
+
+152
+00:10:52,480 --> 00:10:55,590
+Air pollution is a serious problem.
+
+153
+00:10:55,590 --> 00:11:01,360
+However, food prices are higher than ten years
+ago.
+
+154
+00:11:01,360 --> 00:11:06,460
+Using however here doesn’t magically make
+these ideas connected.
+
+155
+00:11:06,460 --> 00:11:11,730
+These two ideas aren’t connected, and you
+can’t create a connection by using a word
+
+156
+00:11:11,730 --> 00:11:12,970
+like however.
+
+157
+00:11:12,970 --> 00:11:18,020
+Next, there’s nothing in the IELTS scoring
+system which says you get a higher score for
+
+158
+00:11:18,020 --> 00:11:20,240
+using more linking words.
+
+159
+00:11:20,240 --> 00:11:26,340
+It’s more important to make sure you use
+linking words accurately.
+
+160
+00:11:26,340 --> 00:11:29,440
+Using more linking words won’t get you band
+seven.
+
+161
+00:11:29,440 --> 00:11:33,520
+However, using linking words incorrectly will
+get you band six.
+
+162
+00:11:33,520 --> 00:11:37,920
+So, don’t use linking words just to use
+linking words.
+
+163
+00:11:37,920 --> 00:11:39,960
+Use them because they fit your ideas.
+
+164
+00:11:39,960 --> 00:11:45,400
+Don’t think, “I have to use nonetheless
+to get a high score!”
+
+165
+00:11:45,400 --> 00:11:46,400
+You don’t.
+
+166
+00:11:46,400 --> 00:11:51,390
+Next, let’s look at our second point: paragraphing.
+
+167
+00:11:51,390 --> 00:11:55,590
+Many IELTS candidates use the same structure
+for everything they write.
+
+168
+00:11:55,590 --> 00:12:01,140
+For example, for task two, most people write
+an introduction, two body paragraphs, and
+
+169
+00:12:01,140 --> 00:12:03,330
+a conclusion.
+
+170
+00:12:03,330 --> 00:12:04,780
+That might be fine.
+
+171
+00:12:04,780 --> 00:12:10,860
+However, to get band 7 for C&C, you need to
+“present a clear central topic within each
+
+172
+00:12:10,860 --> 00:12:12,810
+paragraph.”
+
+173
+00:12:12,810 --> 00:12:14,230
+Those aren’t my words.
+
+174
+00:12:14,230 --> 00:12:17,670
+That’s straight from the IELTS scoring scheme.
+
+175
+00:12:17,670 --> 00:12:23,450
+Many students, especially in task two, write
+paragraphs like this:
+
+176
+00:12:23,450 --> 00:12:32,970
+There are many advantages to … Firstly,
+… Secondly, … Thirdly, …
+
+177
+00:12:32,970 --> 00:12:38,290
+This kind of writing is likely to get a score
+of 6 for C&C.
+
+178
+00:12:38,290 --> 00:12:39,290
+Why?
+
+179
+00:12:39,290 --> 00:12:44,320
+Because, if you do this, you’re trying to
+put too much in one paragraph.
+
+180
+00:12:44,320 --> 00:12:48,150
+That means your paragraph won’t have a clear
+central topic.
+
+181
+00:12:48,150 --> 00:12:52,430
+So, what’s the solution?
+
+182
+00:12:52,430 --> 00:12:55,750
+First, plan your essay carefully.
+
+183
+00:12:55,750 --> 00:13:01,690
+Make sure you know exactly what you’re putting
+in each paragraph before you start writing.
+
+184
+00:13:01,690 --> 00:13:07,380
+Secondly, make sure your paragraph starts
+with a clear topic sentence.
+
+185
+00:13:07,380 --> 00:13:11,990
+Your topic sentence should be relatively short
+and simple.
+
+186
+00:13:11,990 --> 00:13:18,390
+If your topic sentence is very long and complicated,
+then your topic probably isn’t clear.
+
+187
+00:13:18,390 --> 00:13:24,350
+Then, after your topic sentence, spend the
+rest of the paragraph developing and extending
+
+188
+00:13:24,350 --> 00:13:26,680
+your main idea.
+
+189
+00:13:26,680 --> 00:13:31,060
+This means that you aren’t adding any new
+ideas or changing the topic in the middle
+
+190
+00:13:31,060 --> 00:13:32,580
+of your paragraph.
+
+191
+00:13:32,580 --> 00:13:37,570
+Also, this means you might need different
+numbers of paragraphs depending on how many
+
+192
+00:13:37,570 --> 00:13:39,660
+main ideas you have.
+
+193
+00:13:39,660 --> 00:13:42,870
+Do you have two body paragraphs in your essay?
+
+194
+00:13:42,870 --> 00:13:45,310
+That means you have two main ideas.
+
+195
+00:13:45,310 --> 00:13:47,320
+Do you have three main ideas?
+
+196
+00:13:47,320 --> 00:13:51,030
+Then you need three paragraphs!
+
+197
+00:13:51,030 --> 00:13:53,980
+Another point: paragraphs don’t have a minimum
+length.
+
+198
+00:13:53,980 --> 00:13:58,350
+There’s no such thing as a paragraph which
+is too short.
+
+199
+00:13:58,350 --> 00:14:00,650
+Paragraphs can be any length.
+
+200
+00:14:00,650 --> 00:14:04,140
+So, let’s review this section.
+
+201
+00:14:04,140 --> 00:14:09,530
+To get band seven C&C in your IELTS writing
+exam, you need to focus on using linking words
+
+202
+00:14:09,530 --> 00:14:12,710
+accurately and appropriately.
+
+203
+00:14:12,710 --> 00:14:18,110
+You also need to make sure every paragraph
+has a clear central topic, which means you
+
+204
+00:14:18,110 --> 00:14:22,620
+shouldn’t try to put many different ideas
+in one paragraph.
+
+205
+00:14:22,620 --> 00:14:29,040
+Next, let’s look at vocabulary and how you
+can get to band seven.
+
+206
+00:14:29,040 --> 00:14:34,190
+Here’s a band six idea that students often
+have:
+
+207
+00:14:34,190 --> 00:14:39,000
+“I need to learn lots of synonyms and uncommon
+vocabulary.
+
+208
+00:14:39,000 --> 00:14:42,660
+If my vocabulary is bigger, I’ll get a higher
+score.”
+
+209
+00:14:42,660 --> 00:14:48,320
+There’s one important difference between
+band six and seven for vocabulary.
+
+210
+00:14:48,320 --> 00:14:54,190
+At band six, you need two things: range and
+clarity.
+
+211
+00:14:54,190 --> 00:15:00,310
+That means, if you at least try to use some more advanced or uncommon vocabulary, you can get six if
+
+212
+00:15:00,310 --> 00:15:06,870
+your meaning is clear, even if you make mistakes,
+even if you make lots of mistakes.
+
+213
+00:15:06,870 --> 00:15:13,320
+However, for band seven, you need three things:
+range, clarity and accuracy.
+
+214
+00:15:13,320 --> 00:15:16,570
+It’s no longer enough just to try.
+
+215
+00:15:16,570 --> 00:15:22,200
+You need to use vocabulary “with flexibility
+and precision”—again, this is a quote
+
+216
+00:15:22,200 --> 00:15:25,160
+from the official scoring scheme.
+
+217
+00:15:25,160 --> 00:15:28,040
+You can’t make many mistakes for band seven.
+
+218
+00:15:28,040 --> 00:15:34,290
+You can produce ‘occasional errors’ and
+still get band seven.
+
+219
+00:15:34,290 --> 00:15:36,540
+What does this mean for you?
+
+220
+00:15:36,540 --> 00:15:41,570
+It means that your priority should be avoiding
+mistakes.
+
+221
+00:15:41,570 --> 00:15:47,750
+I see many IELTS students trying to learn
+lots of idioms, phrases, academic vocabulary
+
+222
+00:15:47,750 --> 00:15:48,760
+and so on.
+
+223
+00:15:48,760 --> 00:15:54,240
+But then, they often don’t know how to use
+this vocabulary well.
+
+224
+00:15:54,240 --> 00:15:58,650
+They use it in their writing, because they
+think it sounds nice, and their meaning might
+
+225
+00:15:58,650 --> 00:16:02,190
+be clear, but it’s not correct.
+
+226
+00:16:02,190 --> 00:16:07,040
+That’s fine for band six, but not for band
+seven.
+
+227
+00:16:07,040 --> 00:16:09,910
+So, what should you do?
+
+228
+00:16:09,910 --> 00:16:14,880
+Look, first of all, vocabulary learning is
+hard work and it’s slow.
+
+229
+00:16:14,880 --> 00:16:19,050
+There aren’t any magic solutions here.
+
+230
+00:16:19,050 --> 00:16:21,420
+But I’ll give you one tip:
+
+231
+00:16:21,420 --> 00:16:27,010
+When you’re learning vocabulary, focus on
+quality and depth, not quantity.
+
+232
+00:16:27,010 --> 00:16:30,750
+Don’t try to learn 50 words or phrases.
+
+233
+00:16:30,750 --> 00:16:35,230
+Learn five words or phrases, but really learn
+them.
+
+234
+00:16:35,230 --> 00:16:40,070
+Spend an hour learning and practising five
+new words and phrases.
+
+235
+00:16:40,070 --> 00:16:41,800
+Find example sentences.
+
+236
+00:16:41,800 --> 00:16:44,060
+Write your own example sentences.
+
+237
+00:16:44,060 --> 00:16:48,280
+Ask a teacher or whoever you can find to give
+you feedback.
+
+238
+00:16:48,280 --> 00:16:53,070
+Make sure you know how to use your new vocabulary
+correctly.
+
+239
+00:16:53,070 --> 00:16:57,790
+Another point: in the exam, if you have a
+choice between a simple word which you know
+
+240
+00:16:57,790 --> 00:17:04,130
+is correct, and a more advanced or academic
+word which you aren’t sure about, what should
+
+241
+00:17:04,130 --> 00:17:06,449
+you do?
+
+242
+00:17:06,449 --> 00:17:08,130
+Use the simple word.
+
+243
+00:17:08,130 --> 00:17:14,080
+Only use vocabulary you’re sure you understand
+and that you know how to use.
+
+244
+00:17:14,080 --> 00:17:16,100
+This is the opposite to band six.
+
+245
+00:17:16,100 --> 00:17:21,080
+For band six, you can use the more advanced
+word, even if it’s wrong.
+
+246
+00:17:21,080 --> 00:17:24,700
+But remember, to get band seven, you need
+to be accurate.
+
+247
+00:17:24,700 --> 00:17:26,140
+You can’t make many mistakes.
+
+248
+00:17:26,140 --> 00:17:29,330
+So, in this situation, take the safe choice!
+
+249
+00:17:29,330 --> 00:17:34,860
+Finally, let’s look at the grammar score
+and how you can get to band seven.
+
+250
+00:17:34,860 --> 00:17:38,830
+Here’s the band six idea which students
+often have:
+
+251
+00:17:38,830 --> 00:17:43,770
+“Grammar’s not so important, so long as
+people can understand what I mean.”
+
+252
+00:17:43,770 --> 00:17:48,770
+Again, band six and band seven are very different.
+
+253
+00:17:48,770 --> 00:17:51,790
+This is especially true for your grammar score.
+
+254
+00:17:51,790 --> 00:17:54,440
+What’s the difference?
+
+255
+00:17:54,440 --> 00:17:59,680
+Like vocabulary, you need to be accurate to
+get band seven.
+
+256
+00:17:59,680 --> 00:18:04,560
+At band six, it doesn’t really matter how
+many grammar mistakes you make so long as
+
+257
+00:18:04,560 --> 00:18:07,610
+your meaning is clear.
+
+258
+00:18:07,610 --> 00:18:11,570
+At band seven, the quantity of grammar errors
+you make matters.
+
+259
+00:18:11,570 --> 00:18:14,020
+It really matters!
+
+260
+00:18:14,020 --> 00:18:19,900
+To get band seven for grammar, you need to
+“produce frequent error-free sentences”—again,
+
+261
+00:18:19,900 --> 00:18:25,040
+these words are directly from the official
+IELTS scoring scheme.
+
+262
+00:18:25,040 --> 00:18:29,790
+That means if you make a lot of small mistakes,
+it’s almost impossible to get band seven
+
+263
+00:18:29,790 --> 00:18:31,450
+for grammar.
+
+264
+00:18:31,450 --> 00:18:35,210
+All mistakes count: you use the wrong preposition?
+
+265
+00:18:35,210 --> 00:18:36,940
+It’s a mistake.
+
+266
+00:18:36,940 --> 00:18:38,900
+You forget to use the?
+
+267
+00:18:38,900 --> 00:18:40,050
+Mistake.
+
+268
+00:18:40,050 --> 00:18:43,840
+You forget the ‘s’ on a present simple
+verb?
+
+269
+00:18:43,840 --> 00:18:45,380
+Mistake.
+
+270
+00:18:45,380 --> 00:18:50,260
+If your writing is around band six, you probably
+make more mistakes than you realise.
+
+271
+00:18:50,260 --> 00:18:53,200
+So, again, what can you do?
+
+272
+00:18:53,200 --> 00:18:57,780
+First, you need to identify the common mistakes
+which you make.
+
+273
+00:18:57,780 --> 00:19:03,810
+For this, you need a teacher to show you where
+you make mistakes in your writing.
+
+274
+00:19:03,810 --> 00:19:07,740
+Every time you do some writing, look at the
+grammar mistakes you make.
+
+275
+00:19:07,740 --> 00:19:10,350
+Sort them into two categories.
+
+276
+00:19:10,350 --> 00:19:14,860
+One: mistakes with things you don’t know.
+
+277
+00:19:14,860 --> 00:19:19,530
+Two: mistakes with things you already knew.
+
+278
+00:19:19,530 --> 00:19:25,280
+For example, if you write ‘childrens’
+instead of ‘children’, this is probably
+
+279
+00:19:25,280 --> 00:19:28,050
+a type two mistake.
+
+280
+00:19:28,050 --> 00:19:31,110
+Most likely, you knew this already.
+
+281
+00:19:31,110 --> 00:19:36,590
+You just made a mistake, because you were in a hurry, or you were tired, or you have
+
+282
+00:19:36,590 --> 00:19:40,720
+a bad habit, or you weren't paying attention, or something like that.
+
+283
+00:19:40,720 --> 00:19:46,430
+With type one mistakes—things you don’t
+know—get a good grammar book and study to
+
+284
+00:19:46,430 --> 00:19:49,560
+fill the gaps in your knowledge.
+
+285
+00:19:49,560 --> 00:19:55,630
+With type two mistakes, put your errors into
+a digital flashcard app like Anki or Quizlet
+
+286
+00:19:55,630 --> 00:19:56,620
+or something like that.
+
+287
+00:19:57,380 --> 00:19:59,540
+For example:
+
+288
+00:19:59,540 --> 00:20:05,120
+Question: This is one of most serious problems
+in today’s world.
+
+289
+00:20:05,120 --> 00:20:10,820
+Answer: This is one of the most serious problems
+in today’s world.
+
+290
+00:20:10,820 --> 00:20:16,480
+Every time you write something, add your mistakes
+as questions to your flashcard app.
+
+291
+00:20:16,480 --> 00:20:21,430
+Review your mistakes regularly—every day
+is best!
+
+292
+00:20:21,430 --> 00:20:25,930
+This approach requires a lot of patience,
+but it’s the only effective way to get rid
+
+293
+00:20:25,930 --> 00:20:31,360
+of those bad habits which can stop you getting
+band seven in IELTS writing.
+
+294
+00:20:31,360 --> 00:20:36,380
+Okay, so now you should have some ideas about
+how to get band seven in your IELTS writing
+
+295
+00:20:36,390 --> 00:20:37,390
+exam.
+
+296
+00:20:37,390 --> 00:20:43,390
+There’s a lot of information in this lesson,
+and there’s also a lot which I didn’t
+
+297
+00:20:43,390 --> 00:20:44,390
+say!
+
+298
+00:20:44,390 --> 00:20:49,140
+Band seven is a high standard, and you should
+accept that it will take time and work to
+
+299
+00:20:49,140 --> 00:20:50,930
+get there.
+
+300
+00:20:50,930 --> 00:20:54,640
+Do you have an IELTS experience which you
+think people could learn from?
+
+301
+00:20:54,640 --> 00:20:56,220
+Please let us know in the comments!
+
+302
+00:20:56,220 --> 00:21:01,950
+Check out our website for more free English
+lessons, including IELTS preparation lessons:
+
+303
+00:21:01,950 --> 00:21:05,260
+Oxford Online English dot com.
+
+304
+00:21:05,260 --> 00:21:10,540
+Our teachers can also help you prepare for
+your IELTS exam in online classes.
+
+305
+00:21:10,560 --> 00:21:11,800
+That’s all for this lesson.
+
+306
+00:21:11,800 --> 00:21:13,899
+Thanks for watching, and see you next time!
+
